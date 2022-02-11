@@ -1,0 +1,909 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+	<channel>
+		<title><![CDATA[Matter for Michael Arthur]]></title>
+		<description><![CDATA[Your Matter audio feed.]]></description>
+		<link>https://getmatter.app/rthr/</link>
+		<image>
+			<url>https://getmatter.app/rthr/</url>
+			<title>Matter for Michael Arthur</title>
+			<link>https://getmatter.app/rthr/</link>
+		</image>
+		<generator>MatterPod by Federico Viticci</generator>
+		<lastBuildDate>Fri, 11 Feb 2022 18:45:24 -0500</lastBuildDate>
+		<atom:link href="https://rthr0.github.io/matterpod/rss.xml" rel="self" type="application/rss+xml"/>
+		<copyright><![CDATA[© 2022 MacStories, Inc.]]></copyright>
+		<language><![CDATA[en-us]]></language>
+		<itunes:author>Matter</itunes:author>
+		<itunes:summary>These are the audio versions of stories saved in your Matter queue.</itunes:summary>
+		<itunes:owner>
+			<itunes:name>Federico Viticci</itunes:name>
+			<itunes:email>club@macstories.net</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:block>Yes</itunes:block>
+		<itunes:category text="Technology"/>
+		<itunes:image href="https://media.getmatter.app/media/profile_avatar_photo/2021/11/18/86513686-286B-4A56-8DBF-64248367A72E.jpg.200x200_q95ss0_crop-smart_upscale.jpg"/>
+<item>
+			<title><![CDATA[Automation Academy: Creating a Podcast RSS Feed for Your Matter Queue in Shortcuts with MatterPod]]></title>
+			<description><![CDATA[I have been running a private podcast feed made of Matter audio links for the past month, which gets updated multiple times during the day thanks to Shortcuts automations.]]></description>
+			<link>https://club.macstories.net/posts/automation-academy-creating-a-podcast-rss-feed-for-your-matter-queue-in-shortcuts-with-matterpod</link>
+			<guid isPermaLink="false">4_1889865</guid>
+			<pubDate>Fri, 11 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/03/1ac1085b92198ef8171778b251891b74.mp3" length="1034109" type="audio/mpeg"/>
+			<content:encoded><![CDATA[I have been running a private podcast feed made of Matter audio links for the past month, which gets updated multiple times during the day thanks to Shortcuts automations.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>I have been running a private podcast feed made of Matter audio links for the past month, which gets updated multiple times during the day thanks to Shortcuts automations.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:02:52</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>50</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA['My hair's been falling out': Nurses hit with stress from Ottawa protests]]></title>
+			<description><![CDATA[I'm stressed coming back from work. It's been awful. My hair's been falling out," said Andrea Waddell, a nurse at The Ottawa Hospital who uses public transit to commute.]]></description>
+			<link>https://www.cbc.ca/news/canada/ottawa/ottawa-convoy-protest-nurse-impact-1.6345051</link>
+			<guid isPermaLink="false">4_1999184</guid>
+			<pubDate>Fri, 11 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/11/4c865b17d60cd99ba0c02eb3554b981f.mp3" length="1222317" type="audio/mpeg"/>
+			<content:encoded><![CDATA[I'm stressed coming back from work. It's been awful. My hair's been falling out," said Andrea Waddell, a nurse at The Ottawa Hospital who uses public transit to commute.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>I'm stressed coming back from work. It's been awful. My hair's been falling out," said Andrea Waddell, a nurse at The Ottawa Hospital who uses public transit to commute.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:03:24</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>49</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[Ontario skipping third meeting with federal, Ottawa governments to discuss ongoing protests]]></title>
+			<description><![CDATA[Sources say Ontario has turned down three invitations to participate Ontario Premier Doug Ford's government does not think the trilateral talks can accomplish anything, said a source.]]></description>
+			<link>https://www.cbc.ca/news/politics/ford-trilateral-ottawa-border-protest-1.6346687</link>
+			<guid isPermaLink="false">4_1997649</guid>
+			<pubDate>Fri, 11 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/11/0ee4698610ecec9d051ed26b5e1c3823.mp3" length="569421" type="audio/mpeg"/>
+			<content:encoded><![CDATA[Sources say Ontario has turned down three invitations to participate Ontario Premier Doug Ford's government does not think the trilateral talks can accomplish anything, said a source.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>Sources say Ontario has turned down three invitations to participate Ontario Premier Doug Ford's government does not think the trilateral talks can accomplish anything, said a source.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:01:35</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>48</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[Federal Conservatives call on anti-vaccine mandate protesters to go home]]></title>
+			<description><![CDATA[WATCH | Ottawa protesters employ new tactics: Police struggle as Ottawa protesters employ new tactics Ottawa police struggle to maintain control as protesters and their supporters employ new tactics and fortify a new supply camp.]]></description>
+			<link>https://www.cbc.ca/news/politics/conservatives-covid-19-restrictions-1.6346576</link>
+			<guid isPermaLink="false">4_1997643</guid>
+			<pubDate>Fri, 11 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/11/fa39388f390e5e13880bb349146d2525.mp3" length="3389085" type="audio/mpeg"/>
+			<content:encoded><![CDATA[WATCH | Ottawa protesters employ new tactics: Police struggle as Ottawa protesters employ new tactics Ottawa police struggle to maintain control as protesters and their supporters employ new tactics and fortify a new supply camp.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>WATCH | Ottawa protesters employ new tactics: Police struggle as Ottawa protesters employ new tactics Ottawa police struggle to maintain control as protesters and their supporters employ new tactics and fortify a new supply camp.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:09:25</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>47</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[European scientists demonstrate fusion energy record]]></title>
+			<description><![CDATA[The 59 megajoules of sustained fusion energy produced were more than double the previous record achieved in 1997.]]></description>
+			<link>https://www.cbc.ca/news/science/fusion-record-1.6346299</link>
+			<guid isPermaLink="false">4_1997637</guid>
+			<pubDate>Fri, 11 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/11/a8424fc866a566982bf89e6e17dd29da.mp3" length="1386045" type="audio/mpeg"/>
+			<content:encoded><![CDATA[The 59 megajoules of sustained fusion energy produced were more than double the previous record achieved in 1997.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>The 59 megajoules of sustained fusion energy produced were more than double the previous record achieved in 1997.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:03:51</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>46</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[Lifting restrictions could cause anxiety for many as unknowns persist, experts say]]></title>
+			<description><![CDATA[As provinces begin lifting COVID-19 pandemic restrictions, psychology experts expect stress and anxiety to run high among those who remain wary of letting their guards down.]]></description>
+			<link>https://www.cbc.ca/news/canada/edmonton/covid-reopening-anxiety-1.6346382</link>
+			<guid isPermaLink="false">4_1997631</guid>
+			<pubDate>Fri, 11 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/11/772dd1c7761d5106bb591c88a6ed1217.mp3" length="1684125" type="audio/mpeg"/>
+			<content:encoded><![CDATA[As provinces begin lifting COVID-19 pandemic restrictions, psychology experts expect stress and anxiety to run high among those who remain wary of letting their guards down.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>As provinces begin lifting COVID-19 pandemic restrictions, psychology experts expect stress and anxiety to run high among those who remain wary of letting their guards down.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:04:41</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>45</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[Canada's COVID Alert app cost millions, but was it of any use?]]></title>
+			<description><![CDATA[Canada’s COVID Alert app cost millions, but was it of any use? Some experts say the app didn't help the fight against COVID The COVID Alert app was presented as the solution to slow the spread of the novel coronavirus when released in July 2020.]]></description>
+			<link>https://mobilesyrup.com/2022/02/10/the-covid-alert-app-cost-millions-was-it-of-any-use/</link>
+			<guid isPermaLink="false">4_1993301</guid>
+			<pubDate>Fri, 11 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/11/f611dacd39603455edf04c13bbdc910f.mp3" length="481149" type="audio/mpeg"/>
+			<content:encoded><![CDATA[Canada’s COVID Alert app cost millions, but was it of any use? Some experts say the app didn't help the fight against COVID The COVID Alert app was presented as the solution to slow the spread of the novel coronavirus when released in July 2020.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>Canada’s COVID Alert app cost millions, but was it of any use? Some experts say the app didn't help the fight against COVID The COVID Alert app was presented as the solution to slow the spread of the novel coronavirus when released in July 2020.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:01:20</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>44</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[Take Control of Your Matter Queue with MatterBot]]></title>
+			<description><![CDATA[MatterBot is based on the same authentication technique, so it’s important you connect your Matter account to the Obsidian plugin first. You can even ignore Obsidian after that; all we need is the authentication token from Matter. MatterBot on iPhone.]]></description>
+			<link>https://club.macstories.net/posts/take-control-of-your-matter-queue-with-matterbot</link>
+			<guid isPermaLink="false">4_1841671</guid>
+			<pubDate>Fri, 11 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/01/28/61b2cbe7901d374e87a845dc196da670.mp3" length="568989" type="audio/mpeg"/>
+			<content:encoded><![CDATA[MatterBot is based on the same authentication technique, so it’s important you connect your Matter account to the Obsidian plugin first. You can even ignore Obsidian after that; all we need is the authentication token from Matter. MatterBot on iPhone.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>MatterBot is based on the same authentication technique, so it’s important you connect your Matter account to the Obsidian plugin first. You can even ignore Obsidian after that; all we need is the authentication token from Matter. MatterBot on iPhone.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:01:35</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>43</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[Practically Paperless with Obsidian]]></title>
+			<description><![CDATA[Why not try going paperless with Obsidian? I have been using Obsidian since January, and have written frequently about it over the past several months.]]></description>
+			<link>https://jamierubin.net/2021/09/21/practically-paperless-with-obsidian/</link>
+			<guid isPermaLink="false">4_470956</guid>
+			<pubDate>Fri, 11 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2021/09/22/c03301fa2229b05cefbc939dc6a0ac6a.mp3" length="2765901" type="audio/mpeg"/>
+			<content:encoded><![CDATA[Why not try going paperless with Obsidian? I have been using Obsidian since January, and have written frequently about it over the past several months.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>Why not try going paperless with Obsidian? I have been using Obsidian since January, and have written frequently about it over the past several months.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:07:41</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>42</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[Reverse-Engineering the Matter API and My Save to Matter Shortcut]]></title>
+			<description><![CDATA[Save to Matter Save URLs directly to your Matter queue using the Matter API. The shortcut supports saving multiple URLs at once. A Matter API authorization token is required for this shortcut to work. Get the shortcut here.]]></description>
+			<link>https://www.macstories.net/stories/macstories-starter-pack-reverse-engineering-the-matter-api-and-my-save-to-matter-shortcut/</link>
+			<guid isPermaLink="false">4_1833230</guid>
+			<pubDate>Fri, 11 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/01/27/d6c73dd1a6ebf31c75d226100c8592e3.mp3" length="3238317" type="audio/mpeg"/>
+			<content:encoded><![CDATA[Save to Matter Save URLs directly to your Matter queue using the Matter API. The shortcut supports saving multiple URLs at once. A Matter API authorization token is required for this shortcut to work. Get the shortcut here.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>Save to Matter Save URLs directly to your Matter queue using the Matter API. The shortcut supports saving multiple URLs at once. A Matter API authorization token is required for this shortcut to work. Get the shortcut here.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:09:00</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>41</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[TickTick Calendar Quickstart: 4 Steps to Complete Time Blocking]]></title>
+			<description><![CDATA[Planning helps in actual doing. With TickTick Calendar, you can always plan out your day and time block your tasks in advance (Learn more on Time Blocking).]]></description>
+			<link>https://blog.ticktick.com/2020/11/30/ticktick-calendar-quickstart/</link>
+			<guid isPermaLink="false">4_379284</guid>
+			<pubDate>Thu, 10 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2021/07/31/c3ce47dcca06618f4dd5aea160adcbeb.mp3" length="1049325" type="audio/mpeg"/>
+			<content:encoded><![CDATA[Planning helps in actual doing. With TickTick Calendar, you can always plan out your day and time block your tasks in advance (Learn more on Time Blocking).]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>Planning helps in actual doing. With TickTick Calendar, you can always plan out your day and time block your tasks in advance (Learn more on Time Blocking).</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:02:55</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>40</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[SMART Goals Framework: How It Helps Us with Goal-Reaching]]></title>
+			<description><![CDATA[That is the SMART Goals. The Definition of SMART Goals You may have heard of it multiple times but are still confused with the interchangeably used definitions.]]></description>
+			<link>https://blog.ticktick.com/2021/02/25/how-smart-goals-can-help-reach-a-goal/</link>
+			<guid isPermaLink="false">4_1579424</guid>
+			<pubDate>Thu, 10 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/10/0f07cfded07ef5311b41419d407e2f23.mp3" length="2445309" type="audio/mpeg"/>
+			<content:encoded><![CDATA[That is the SMART Goals. The Definition of SMART Goals You may have heard of it multiple times but are still confused with the interchangeably used definitions.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>That is the SMART Goals. The Definition of SMART Goals You may have heard of it multiple times but are still confused with the interchangeably used definitions.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:06:48</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>39</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[The 4Ds Framework: How Task Nesting Helps You with GTD]]></title>
+			<description><![CDATA[What is Task Nesting? Commonly used in Computer Science and Informatics, Nesting usually means where information is organized in layers and locked up with hierarchy. Following the same concept, Task Nesting here simply means task hierarchy.]]></description>
+			<link>https://blog.ticktick.com/2020/08/10/how-task-nesting-helps-you-with-gtd/</link>
+			<guid isPermaLink="false">4_1672612</guid>
+			<pubDate>Thu, 10 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/01/14/9bbbba6764444e018f79cc90c43d7d6d.mp3" length="1483821" type="audio/mpeg"/>
+			<content:encoded><![CDATA[What is Task Nesting? Commonly used in Computer Science and Informatics, Nesting usually means where information is organized in layers and locked up with hierarchy. Following the same concept, Task Nesting here simply means task hierarchy.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>What is Task Nesting? Commonly used in Computer Science and Informatics, Nesting usually means where information is organized in layers and locked up with hierarchy. Following the same concept, Task Nesting here simply means task hierarchy.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:04:07</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>38</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA["Multitasking Isn't Progress—It's What Wild Animals Do for Survival"]]></title>
+			<description><![CDATA[You aren’t required to accept blindly the dominant values of your society. Even if you work inside the system, you don’t have to let the system work inside of you.]]></description>
+			<link>https://tedgioia.substack.com/p/multitasking-isnt-progressits-what</link>
+			<guid isPermaLink="false">4_1801152</guid>
+			<pubDate>Thu, 10 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/01/24/a3e26ccb303a324bf9825be67a6a8979.mp3" length="4662333" type="audio/mpeg"/>
+			<content:encoded><![CDATA[You aren’t required to accept blindly the dominant values of your society. Even if you work inside the system, you don’t have to let the system work inside of you.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>You aren’t required to accept blindly the dominant values of your society. Even if you work inside the system, you don’t have to let the system work inside of you.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:12:57</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>37</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[How Daily Record-Keeping Changed My Life]]></title>
+			<description><![CDATA[The mark you make in your journal is more important than whatever comes of the daily task whose completion you’re recording. The first represents actual living; the second merely a life.]]></description>
+			<link>https://www.outlookindia.com/art-entertainment/how-daily-record-keeping-changed-my-life-news-50187</link>
+			<guid isPermaLink="false">4_1854103</guid>
+			<pubDate>Thu, 10 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/01/30/c9f1d4a8ecb06e24a767bf82a2a57f2c.mp3" length="1876653" type="audio/mpeg"/>
+			<content:encoded><![CDATA[The mark you make in your journal is more important than whatever comes of the daily task whose completion you’re recording. The first represents actual living; the second merely a life.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>The mark you make in your journal is more important than whatever comes of the daily task whose completion you’re recording. The first represents actual living; the second merely a life.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:05:13</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>36</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[How to Make the Internet Small Again]]></title>
+			<description><![CDATA[If I find a way to make the internet small again, I’ll write a book about it so others can do it too. What does “three days off the internet” mean exactly?]]></description>
+			<link>https://www.raptitude.com/2022/02/how-to-make-the-internet-small-again/</link>
+			<guid isPermaLink="false">4_1886506</guid>
+			<pubDate>Sat, 05 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/03/8f2483ed679aaf6a876b045ba57edc1c.mp3" length="2696445" type="audio/mpeg"/>
+			<content:encoded><![CDATA[If I find a way to make the internet small again, I’ll write a book about it so others can do it too. What does “three days off the internet” mean exactly?]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>If I find a way to make the internet small again, I’ll write a book about it so others can do it too. What does “three days off the internet” mean exactly?</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:07:29</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>35</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[I feel guilty for checking my mother into long-term care against her will]]></title>
+			<description><![CDATA[Now that my mom is in her and our first choice long-term care facility, I feel a strong sense of relief because she is getting the 24/7 care she requires.]]></description>
+			<link>https://www.cbc.ca/news/canada/calgary/first-person-karen-wilson-caregiving-alzheimers-involuntary-1.6314336</link>
+			<guid isPermaLink="false">4_1882300</guid>
+			<pubDate>Wed, 02 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/02/c97d1663f4e27a328cfdbd433ba8cc26.mp3" length="1439757" type="audio/mpeg"/>
+			<content:encoded><![CDATA[Now that my mom is in her and our first choice long-term care facility, I feel a strong sense of relief because she is getting the 24/7 care she requires.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>Now that my mom is in her and our first choice long-term care facility, I feel a strong sense of relief because she is getting the 24/7 care she requires.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:04:00</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>34</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[The Art of Reading More Effectively and Efficiently]]></title>
+			<description><![CDATA[All because we're never taught the ultimate meta-skill: the art of reading. Reading more effectively and efficiently means developing a watertight process to capture ideas, analyse arguments, and ask the right questions.]]></description>
+			<link>https://aliabdaal.com/read-more-effectively/</link>
+			<guid isPermaLink="false">4_171551</guid>
+			<pubDate>Wed, 02 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2021/03/01/5bf57f5ded8fb6a1041d6dbeb38018fc.mp3" length="7325981" type="audio/mpeg"/>
+			<content:encoded><![CDATA[All because we're never taught the ultimate meta-skill: the art of reading. Reading more effectively and efficiently means developing a watertight process to capture ideas, analyse arguments, and ask the right questions.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>All because we're never taught the ultimate meta-skill: the art of reading. Reading more effectively and efficiently means developing a watertight process to capture ideas, analyse arguments, and ask the right questions.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:20:21</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>33</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[The Ultimate Guide to Productivity]]></title>
+			<description><![CDATA[On this page My Free, In-Depth Productivity Class The best way to learn about my theories about productivity is to take my Productivity Masterclass on Skillshare.]]></description>
+			<link>https://aliabdaal.com/productivity/</link>
+			<guid isPermaLink="false">4_286032</guid>
+			<pubDate>Wed, 02 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2021/06/01/b5cf7860cf5aea9fcccddd6b004b5339.mp3" length="378957" type="audio/mpeg"/>
+			<content:encoded><![CDATA[On this page My Free, In-Depth Productivity Class The best way to learn about my theories about productivity is to take my Productivity Masterclass on Skillshare.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>On this page My Free, In-Depth Productivity Class The best way to learn about my theories about productivity is to take my Productivity Masterclass on Skillshare.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:01:03</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>32</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[The Studying Technique You Should Be Using]]></title>
+			<description><![CDATA[And if you'd like to read more of my Studying articles, head to this page here which includes pieces on The Essay Memorisation Framework and The Power of Retrospective Revision Timetables.]]></description>
+			<link>https://aliabdaal.com/activerecallstudytechnique/</link>
+			<guid isPermaLink="false">4_519813</guid>
+			<pubDate>Wed, 02 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2021/10/18/a7b66e0041a6f3c009f75191dcde9169.mp3" length="1469997" type="audio/mpeg"/>
+			<content:encoded><![CDATA[And if you'd like to read more of my Studying articles, head to this page here which includes pieces on The Essay Memorisation Framework and The Power of Retrospective Revision Timetables.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>And if you'd like to read more of my Studying articles, head to this page here which includes pieces on The Essay Memorisation Framework and The Power of Retrospective Revision Timetables.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:04:05</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>31</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[MacStories Starter Pack: Introducing Obsidian Shortcut Launcher, A Free Plugin to Trigger Shortcuts from Obsidian]]></title>
+			<description><![CDATA[Installing Obsidian Shortcut Launcher You can find the plugin in Obsidian’s Community Plugins section. Just search for ‘Obsidian Shortcut Launcher’, install it, then enable the plugin to start using it in Obsidian.]]></description>
+			<link>https://www.macstories.net/stories/obsidian-shortcut-launcher/</link>
+			<guid isPermaLink="false">4_1824108</guid>
+			<pubDate>Mon, 31 Jan 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/01/26/4579b041e7d96a2cbaf97cb81926e80f.mp3" length="3319965" type="audio/mpeg"/>
+			<content:encoded><![CDATA[Installing Obsidian Shortcut Launcher You can find the plugin in Obsidian’s Community Plugins section. Just search for ‘Obsidian Shortcut Launcher’, install it, then enable the plugin to start using it in Obsidian.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>Installing Obsidian Shortcut Launcher You can find the plugin in Obsidian’s Community Plugins section. Just search for ‘Obsidian Shortcut Launcher’, install it, then enable the plugin to start using it in Obsidian.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:09:13</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>30</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[Particulate pollution is killing older Americans, even at legal levels]]></title>
+			<description><![CDATA[Exhaust from fossil fuel vehicles is a significant contributor to PM2.5 pollution in the US. At the outset of the pandemic, when lockdowns were widespread, a remarkable phenomenon occurred.]]></description>
+			<link>https://arstechnica.com/tech-policy/2022/01/particulate-pollution-is-killing-older-americans-even-at-legal-levels/</link>
+			<guid isPermaLink="false">4_1834492</guid>
+			<pubDate>Thu, 27 Jan 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/01/27/c2893efe671996e9db3b294b11c3e14d.mp3" length="1764333" type="audio/mpeg"/>
+			<content:encoded><![CDATA[Exhaust from fossil fuel vehicles is a significant contributor to PM2.5 pollution in the US. At the outset of the pandemic, when lockdowns were widespread, a remarkable phenomenon occurred.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>Exhaust from fossil fuel vehicles is a significant contributor to PM2.5 pollution in the US. At the outset of the pandemic, when lockdowns were widespread, a remarkable phenomenon occurred.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:04:54</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>29</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[COVID-19: endemic doesn’t mean harmless]]></title>
+			<description><![CDATA[It doesn’t mean that COVID-19 will come to a natural end. To an epidemiologist, an endemic infection is one in which overall rates are static — not rising, not falling.]]></description>
+			<link>https://www.nature.com/articles/d41586-022-00155-x</link>
+			<guid isPermaLink="false">4_1804580</guid>
+			<pubDate>Sun, 06 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/01/25/5d7ef8aada131ffd70048352d494894b.mp3" length="1775277" type="audio/mpeg"/>
+			<content:encoded><![CDATA[It doesn’t mean that COVID-19 will come to a natural end. To an epidemiologist, an endemic infection is one in which overall rates are static — not rising, not falling.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>It doesn’t mean that COVID-19 will come to a natural end. To an epidemiologist, an endemic infection is one in which overall rates are static — not rising, not falling.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:04:56</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>28</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[A Grand Unified Theory of Buying Stuff]]></title>
+			<description><![CDATA[To stop this from happening again, I have come up with a personal Theory of Stuffness, a way to structure and understand my local stuff ecosystem, especially the digital stuff.]]></description>
+			<link>https://www.wired.com/story/a-grand-unified-theory-of-buying-stuff/</link>
+			<guid isPermaLink="false">4_1626404</guid>
+			<pubDate>Fri, 14 Jan 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/01/11/cd3a58d45970934984aef26362629354.mp3" length="2129661" type="audio/mpeg"/>
+			<content:encoded><![CDATA[To stop this from happening again, I have come up with a personal Theory of Stuffness, a way to structure and understand my local stuff ecosystem, especially the digital stuff.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>To stop this from happening again, I have come up with a personal Theory of Stuffness, a way to structure and understand my local stuff ecosystem, especially the digital stuff.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:05:55</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>27</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[How to make a difficult decision]]></title>
+			<description><![CDATA[It’s not just the high stakes that can make decisions difficult: sometimes the reasons lie in your past. Avoiding a decision is in fact a decision.]]></description>
+			<link>https://psyche.co/guides/how-to-make-a-tough-decision-break-it-down-and-listen-to-your-gut</link>
+			<guid isPermaLink="false">4_1535351</guid>
+			<pubDate>Sun, 09 Jan 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/01/05/916ec0917ac724e0b385d06c033d1e88.mp3" length="8294013" type="audio/mpeg"/>
+			<content:encoded><![CDATA[It’s not just the high stakes that can make decisions difficult: sometimes the reasons lie in your past. Avoiding a decision is in fact a decision.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>It’s not just the high stakes that can make decisions difficult: sometimes the reasons lie in your past. Avoiding a decision is in fact a decision.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:23:02</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>26</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[What Makes Group Decisions Go Wrong. And Right.]]></title>
+			<description><![CDATA[In fact, this would be true even if the initial, uninformed opinions of the group favored Long Wars (based on the incredible performance of Joonas Suotamo in Long Wars X).]]></description>
+			<link>http://m.nautil.us/issue/112/inspiration/what-makes-group-decisions-go-wrong-and-right</link>
+			<guid isPermaLink="false">4_1560860</guid>
+			<pubDate>Sun, 09 Jan 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/01/07/8cb5165a501dfd6442dc1c092794f4fd.mp3" length="3388797" type="audio/mpeg"/>
+			<content:encoded><![CDATA[In fact, this would be true even if the initial, uninformed opinions of the group favored Long Wars (based on the incredible performance of Joonas Suotamo in Long Wars X).]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>In fact, this would be true even if the initial, uninformed opinions of the group favored Long Wars (based on the incredible performance of Joonas Suotamo in Long Wars X).</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:09:25</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>25</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[Our Little Life Is Rounded with Possibility]]></title>
+			<description><![CDATA[We are such stuff As dreams are made on; and our little life Is rounded with a sleep. Now, those lines have such a delightful form and rhythm that, on first reading, something important may go unnoticed.]]></description>
+			<link>http://nautil.us/issue/102/hidden-truths/our-little-life-is-rounded-with-possibility</link>
+			<guid isPermaLink="false">4_299062</guid>
+			<pubDate>Sun, 09 Jan 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2021/06/11/745d7b7f4d5cbef99820fad0f9af85f1.mp3" length="3549453" type="audio/mpeg"/>
+			<content:encoded><![CDATA[We are such stuff As dreams are made on; and our little life Is rounded with a sleep. Now, those lines have such a delightful form and rhythm that, on first reading, something important may go unnoticed.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>We are such stuff As dreams are made on; and our little life Is rounded with a sleep. Now, those lines have such a delightful form and rhythm that, on first reading, something important may go unnoticed.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:09:52</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>24</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[Plants Feel Pain and Might Even See]]></title>
+			<description><![CDATA[Like animals, plants produce substances that suppress pain. He doesn’t see why that would be necessary if there was no pain. Baluška was ready with other quite different discoveries.]]></description>
+			<link>http://nautil.us/issue/104/harmony/plants-feel-pain-and-might-even-see</link>
+			<guid isPermaLink="false">4_365518</guid>
+			<pubDate>Sun, 09 Jan 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2021/07/22/fe32d98bb88d871bb18b1e05ff25d105.mp3" length="3308877" type="audio/mpeg"/>
+			<content:encoded><![CDATA[Like animals, plants produce substances that suppress pain. He doesn’t see why that would be necessary if there was no pain. Baluška was ready with other quite different discoveries.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>Like animals, plants produce substances that suppress pain. He doesn’t see why that would be necessary if there was no pain. Baluška was ready with other quite different discoveries.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:09:11</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>23</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[If Aliens Exist, Here’s How We’ll Find Them]]></title>
+			<description><![CDATA[If those hypothetical aliens continued to keep watch, what would they witness in the next century? Will a final spasm of activity be followed by silence due to climate change?]]></description>
+			<link>http://nautil.us/issue/97/wonder/if-aliens-exist-heres-how-well-find-them</link>
+			<guid isPermaLink="false">4_173158</guid>
+			<pubDate>Sun, 09 Jan 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2021/03/06/25dfeaec116a49e1e2a8cd46ec023a3a.mp3" length="7180061" type="audio/mpeg"/>
+			<content:encoded><![CDATA[If those hypothetical aliens continued to keep watch, what would they witness in the next century? Will a final spasm of activity be followed by silence due to climate change?]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>If those hypothetical aliens continued to keep watch, what would they witness in the next century? Will a final spasm of activity be followed by silence due to climate change?</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:19:57</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>22</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[That Is Not How Your Brain Works]]></title>
+			<description><![CDATA[After all, each of us has a brain, so it’s critical to understand how that three-pound blob between your ears works. Myth number one is that specific parts of the human brain have specific psychological jobs.]]></description>
+			<link>http://nautil.us/issue/98/mind/that-is-not-how-your-brain-works</link>
+			<guid isPermaLink="false">4_177249</guid>
+			<pubDate>Mon, 31 Jan 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2021/03/04/ac9ddb16841d9efe00e7411eeae76785.mp3" length="5706755" type="audio/mpeg"/>
+			<content:encoded><![CDATA[After all, each of us has a brain, so it’s critical to understand how that three-pound blob between your ears works. Myth number one is that specific parts of the human brain have specific psychological jobs.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>After all, each of us has a brain, so it’s critical to understand how that three-pound blob between your ears works. Myth number one is that specific parts of the human brain have specific psychological jobs.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:15:51</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>20</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[PARA on Paper]]></title>
+			<description><![CDATA[The PARA on Paper Process Timing and Tooling Before we begin, a few notes on how long the PARA on Paper process takes, and on what tools you (don’t) need.]]></description>
+			<link>https://every.to/praxis/para-on-paper</link>
+			<guid isPermaLink="false">4_1568150</guid>
+			<pubDate>Sun, 09 Jan 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/01/07/37fc02eeae21aaa4708c1424bceb0d0c.mp3" length="4683357" type="audio/mpeg"/>
+			<content:encoded><![CDATA[The PARA on Paper Process Timing and Tooling Before we begin, a few notes on how long the PARA on Paper process takes, and on what tools you (don’t) need.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>The PARA on Paper Process Timing and Tooling Before we begin, a few notes on how long the PARA on Paper process takes, and on what tools you (don’t) need.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:13:01</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>19</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[What the hell is going on with Lambda School?]]></title>
+			<description><![CDATA[Justin Kan ❄️@justinkanIf you don't think Lambda School is a great thing, you're probably an asshole   Austen Allred@Austen  A lot of talk about Lambda School today, and most of it I'll ignore.]]></description>
+			<link>https://every.to/napkin-math/what-the-hell-is-going-on-with-lambda-school</link>
+			<guid isPermaLink="false">4_1552541</guid>
+			<pubDate>Sun, 09 Jan 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/01/06/f000c70a5efaf648ea75ad813589db64.mp3" length="6742845" type="audio/mpeg"/>
+			<content:encoded><![CDATA[Justin Kan ❄️@justinkanIf you don't think Lambda School is a great thing, you're probably an asshole   Austen Allred@Austen  A lot of talk about Lambda School today, and most of it I'll ignore.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>Justin Kan ❄️@justinkanIf you don't think Lambda School is a great thing, you're probably an asshole   Austen Allred@Austen  A lot of talk about Lambda School today, and most of it I'll ignore.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:18:44</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>18</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[Cognitive Load Theory and its Applications for Learning]]></title>
+			<description><![CDATA[Slava Kalyuga, “The expertise reversal effect,” in Managing Cognitive Load in Adaptive Multimedia Learning, pp. 58-80. IGI Global, 2009.]]></description>
+			<link>https://www.scotthyoung.com/blog/2022/01/04/cognitive-load-theory/</link>
+			<guid isPermaLink="false">4_1524408</guid>
+			<pubDate>Wed, 05 Jan 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/01/04/c7a320717da73048ae2c0a092ad41818.mp3" length="5689053" type="audio/mpeg"/>
+			<content:encoded><![CDATA[Slava Kalyuga, “The expertise reversal effect,” in Managing Cognitive Load in Adaptive Multimedia Learning, pp. 58-80. IGI Global, 2009.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>Slava Kalyuga, “The expertise reversal effect,” in Managing Cognitive Load in Adaptive Multimedia Learning, pp. 58-80. IGI Global, 2009.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:15:48</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>17</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[What in the World Are You Doing?]]></title>
+			<description><![CDATA[This is that time of year where most productive and growth-minded people sit down and focus on their goals, their identity, and who they want to be in the fucking world.]]></description>
+			<link>https://markmanson.net/what-are-you-doing</link>
+			<guid isPermaLink="false">4_1498041</guid>
+			<pubDate>Tue, 04 Jan 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/01/03/3e533d21d590ec28b4df99a52bab9231.mp3" length="1842525" type="audio/mpeg"/>
+			<content:encoded><![CDATA[This is that time of year where most productive and growth-minded people sit down and focus on their goals, their identity, and who they want to be in the fucking world.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>This is that time of year where most productive and growth-minded people sit down and focus on their goals, their identity, and who they want to be in the fucking world.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:05:07</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>16</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[Best of Every 2021 - Part I]]></title>
+			<description><![CDATA[Read. What Worked for Me in 2021 Dan Shipper / Superorganizers In true Superorganizers style, Dan is always experimenting with new tools and methods to stay productive and happy.]]></description>
+			<link>https://mail.google.com/mail/u/0/</link>
+			<guid isPermaLink="false">4_1394907</guid>
+			<pubDate>Sat, 01 Jan 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2021/12/26/53524c90ffdeedf50d1510ec92fc0552.mp3" length="2428893" type="audio/mpeg"/>
+			<content:encoded><![CDATA[Read. What Worked for Me in 2021 Dan Shipper / Superorganizers In true Superorganizers style, Dan is always experimenting with new tools and methods to stay productive and happy.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>Read. What Worked for Me in 2021 Dan Shipper / Superorganizers In true Superorganizers style, Dan is always experimenting with new tools and methods to stay productive and happy.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:06:45</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>15</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[How I Got My Brain Back]]></title>
+			<description><![CDATA[I am not naive enough to think I’m smarter than my depression or anyone else’s. But I am smarter about what goes on in my own head and heart.]]></description>
+			<link>https://every.to/superorganizers/how-i-got-my-brain-back</link>
+			<guid isPermaLink="false">4_907006</guid>
+			<pubDate>Fri, 31 Dec 2021 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2021/11/16/391c38d7f16cbf6880275277623d58d3.mp3" length="3643341" type="audio/mpeg"/>
+			<content:encoded><![CDATA[I am not naive enough to think I’m smarter than my depression or anyone else’s. But I am smarter about what goes on in my own head and heart.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>I am not naive enough to think I’m smarter than my depression or anyone else’s. But I am smarter about what goes on in my own head and heart.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:10:07</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>14</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[Scientists find unexpected trove of life forms beneath Antarctic ice shelf]]></title>
+			<description><![CDATA[It’s a harsh, cold environment shrouded in continuous darkness, and previous studies of life beneath the ice have only documented a few dozen hardy life forms.]]></description>
+			<link>https://www.theverge.com/2021/12/29/22857125/discovery-antarctic-ice-biolife-ice-shelf</link>
+			<guid isPermaLink="false">4_1437406</guid>
+			<pubDate>Wed, 29 Dec 2021 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2021/12/29/04dd3aea12aede4332749434e557fbfc.mp3" length="848493" type="audio/mpeg"/>
+			<content:encoded><![CDATA[It’s a harsh, cold environment shrouded in continuous darkness, and previous studies of life beneath the ice have only documented a few dozen hardy life forms.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>It’s a harsh, cold environment shrouded in continuous darkness, and previous studies of life beneath the ice have only documented a few dozen hardy life forms.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:02:21</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>13</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[How Do I Help Someone Having a Difficult Trip?]]></title>
+			<description><![CDATA[Is there a good way to help someone sober up during a difficult trip? Panic attacks on mushrooms can edge into the realm of being legendarily terrifying, but attempting to sober someone up is usually not the way I’d recommend responding.]]></description>
+			<link>https://www.lucid.news/how-do-i-help-someone-having-a-difficult-trip/</link>
+			<guid isPermaLink="false">4_1375848</guid>
+			<pubDate>Fri, 24 Dec 2021 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2021/12/24/f163373e9c61b11bc888b9ed6e0e1beb.mp3" length="3274029" type="audio/mpeg"/>
+			<content:encoded><![CDATA[Is there a good way to help someone sober up during a difficult trip? Panic attacks on mushrooms can edge into the realm of being legendarily terrifying, but attempting to sober someone up is usually not the way I’d recommend responding.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>Is there a good way to help someone sober up during a difficult trip? Panic attacks on mushrooms can edge into the realm of being legendarily terrifying, but attempting to sober someone up is usually not the way I’d recommend responding.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:09:06</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>12</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[What Worked for Me in 2021]]></title>
+			<description><![CDATA[We keep what works and we throw away what doesn’t. As 2021 is coming to a close, I thought I’d write a little update on what’s worked for me this year.]]></description>
+			<link>https://every.to/superorganizers/what-worked-for-me-in-2021</link>
+			<guid isPermaLink="false">4_1352751</guid>
+			<pubDate>Thu, 23 Dec 2021 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2021/12/22/e9783a226998b9d0a17c934e0b8949eb.mp3" length="4199373" type="audio/mpeg"/>
+			<content:encoded><![CDATA[We keep what works and we throw away what doesn’t. As 2021 is coming to a close, I thought I’d write a little update on what’s worked for me this year.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>We keep what works and we throw away what doesn’t. As 2021 is coming to a close, I thought I’d write a little update on what’s worked for me this year.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:11:40</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>11</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[How to Start Microdosing Psychedelics]]></title>
+			<description><![CDATA[If you’re unsure of how to start, or desire additional support around microdosing, take a class or book a consultation with a vetted guide or a psychedelics practitioner first. 1.]]></description>
+			<link>https://doubleblindmag.com/how-to-start-microdosing/</link>
+			<guid isPermaLink="false">4_1335366</guid>
+			<pubDate>Tue, 21 Dec 2021 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2021/12/21/f1b6e60a1af8528aaf5e7bbb578a2c6b.mp3" length="4742397" type="audio/mpeg"/>
+			<content:encoded><![CDATA[If you’re unsure of how to start, or desire additional support around microdosing, take a class or book a consultation with a vetted guide or a psychedelics practitioner first. 1.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>If you’re unsure of how to start, or desire additional support around microdosing, take a class or book a consultation with a vetted guide or a psychedelics practitioner first. 1.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:13:10</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>10</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[How to Get a Month Ahead With Your Budget]]></title>
+			<description><![CDATA[What Does it Actually Mean to Get a Month Ahead With Your Budget? Getting a month ahead with your budget means your budget for next month is completely funded before the new month rolls around. What is It Important to Get a Month Ahead With My Budget?]]></description>
+			<link>https://www.youneedabudget.com/the-one-month-buffer-down-dirty/</link>
+			<guid isPermaLink="false">4_1341510</guid>
+			<pubDate>Tue, 21 Dec 2021 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2021/12/21/695406f4d8be512d2b62231e532341b3.mp3" length="2416077" type="audio/mpeg"/>
+			<content:encoded><![CDATA[What Does it Actually Mean to Get a Month Ahead With Your Budget? Getting a month ahead with your budget means your budget for next month is completely funded before the new month rolls around. What is It Important to Get a Month Ahead With My Budget?]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>What Does it Actually Mean to Get a Month Ahead With Your Budget? Getting a month ahead with your budget means your budget for next month is completely funded before the new month rolls around. What is It Important to Get a Month Ahead With My Budget?</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:06:43</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>9</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[Cultivating and Connecting Using Modular Notes and Personal Memos]]></title>
+			<description><![CDATA[The analysis section is riddled with links to other bite-sized memos in Obsidian, which themselves are riddled with links to other memos and quotes stored in Obsidian.]]></description>
+			<link>https://thesweetsetup.com/cultivating-and-connecting-notes-using-modular-notes-and-personal-memos/</link>
+			<guid isPermaLink="false">4_1283832</guid>
+			<pubDate>Fri, 17 Dec 2021 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2021/12/16/0fe7dbb84276bce7ff6e3c010bb96796.mp3" length="3291165" type="audio/mpeg"/>
+			<content:encoded><![CDATA[The analysis section is riddled with links to other bite-sized memos in Obsidian, which themselves are riddled with links to other memos and quotes stored in Obsidian.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>The analysis section is riddled with links to other bite-sized memos in Obsidian, which themselves are riddled with links to other memos and quotes stored in Obsidian.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:09:09</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>8</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[Designing a better reading experience with Matter]]></title>
+			<description><![CDATA[Creating a better decision engine for reading is a long-term, vitally important project. The next big piece of “reading online” is the reading experience itself. One of our beliefs is that reading should be seamlessly multi-modal.]]></description>
+			<link>https://nesslabs.com/matter-featured-tool?utm_source=rss&utm_medium=rss&utm_campaign=matter-featured-tool</link>
+			<guid isPermaLink="false">4_1286015</guid>
+			<pubDate>Fri, 17 Dec 2021 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2021/12/16/1a99d56db36f9e5837c04eca819dcbae.mp3" length="5591997" type="audio/mpeg"/>
+			<content:encoded><![CDATA[Creating a better decision engine for reading is a long-term, vitally important project. The next big piece of “reading online” is the reading experience itself. One of our beliefs is that reading should be seamlessly multi-modal.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>Creating a better decision engine for reading is a long-term, vitally important project. The next big piece of “reading online” is the reading experience itself. One of our beliefs is that reading should be seamlessly multi-modal.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:15:32</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>7</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[2021 year in review: making friends with fear]]></title>
+			<description><![CDATA[It was also a year under the sign of unlearning — mostly unlearning to focus on business growth as a measure of success, and unlearning to choose illusory certitude over healthy uncertainty.]]></description>
+			<link>https://nesslabs.com/annual-review-2021</link>
+			<guid isPermaLink="false">4_1285612</guid>
+			<pubDate>Fri, 17 Dec 2021 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2021/12/16/b477e545f51755b29dc6fecaec6d4c1d.mp3" length="3476349" type="audio/mpeg"/>
+			<content:encoded><![CDATA[It was also a year under the sign of unlearning — mostly unlearning to focus on business growth as a measure of success, and unlearning to choose illusory certitude over healthy uncertainty.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>It was also a year under the sign of unlearning — mostly unlearning to focus on business growth as a measure of success, and unlearning to choose illusory certitude over healthy uncertainty.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:09:39</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>6</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[Astronomy Jargon 101: Cosmic Strings]]></title>
+			<description><![CDATA[In this series we are exploring the weird and wonderful world of astronomy jargon! You’ll do a little dance about today’s topic: cosmic strings!]]></description>
+			<link>https://www.universetoday.com/153560/astronomy-jargon-101-cosmic-strings/</link>
+			<guid isPermaLink="false">4_1296514</guid>
+			<pubDate>Fri, 17 Dec 2021 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2021/12/17/58cec0a8047a17ed7b010dac2e926d89.mp3" length="658125" type="audio/mpeg"/>
+			<content:encoded><![CDATA[In this series we are exploring the weird and wonderful world of astronomy jargon! You’ll do a little dance about today’s topic: cosmic strings!]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>In this series we are exploring the weird and wonderful world of astronomy jargon! You’ll do a little dance about today’s topic: cosmic strings!</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:01:50</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>5</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[We asked a physicist whether The Witcher’s multiverse could really exist]]></title>
+			<description><![CDATA[Some physicists would say the multiverse is nothing but science fiction. But could you tell us a bit about why others think it might really exist? Yeah.]]></description>
+			<link>https://www.theverge.com/2021/12/17/22839928/witcher-multiverse-physicist-explains</link>
+			<guid isPermaLink="false">4_1296481</guid>
+			<pubDate>Fri, 17 Dec 2021 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2021/12/17/37007715df3c9c8e9ab1f7141c084945.mp3" length="4923549" type="audio/mpeg"/>
+			<content:encoded><![CDATA[Some physicists would say the multiverse is nothing but science fiction. But could you tell us a bit about why others think it might really exist? Yeah.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>Some physicists would say the multiverse is nothing but science fiction. But could you tell us a bit about why others think it might really exist? Yeah.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:13:41</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>4</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[The primary trends I’m investing in next year]]></title>
+			<description><![CDATA[With no further ado, here is what I’ll be investing in, in 2022. (Next year we will look back and see what I got right. If I break 51% success rate I’m a better investor then Simmons! (jokes, jokes)) Napkin Math 2022 Investing Themes 1.]]></description>
+			<link>https://every.to/napkin-math/the-primary-trends-i-m-investing-on-next-year</link>
+			<guid isPermaLink="false">4_1285749</guid>
+			<pubDate>Fri, 17 Dec 2021 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2021/12/16/8dd59a055a1854fda72b54e470ddd630.mp3" length="3229389" type="audio/mpeg"/>
+			<content:encoded><![CDATA[With no further ado, here is what I’ll be investing in, in 2022. (Next year we will look back and see what I got right. If I break 51% success rate I’m a better investor then Simmons! (jokes, jokes)) Napkin Math 2022 Investing Themes 1.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>With no further ado, here is what I’ll be investing in, in 2022. (Next year we will look back and see what I got right. If I break 51% success rate I’m a better investor then Simmons! (jokes, jokes)) Napkin Math 2022 Investing Themes 1.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:08:58</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>3</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[9 Things I Learned About Productivity This Year]]></title>
+			<description><![CDATA[I wrote a little book for people like you and me, called How to Do Things: Productivity for the Productivity-Challenged.]]></description>
+			<link>https://www.raptitude.com/2021/12/9-things-i-learned-about-productivity-this-year/</link>
+			<guid isPermaLink="false">4_1293270</guid>
+			<pubDate>Fri, 17 Dec 2021 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2021/12/17/ac6eb04060e873be6ba2c23ba056bdcc.mp3" length="3581757" type="audio/mpeg"/>
+			<content:encoded><![CDATA[I wrote a little book for people like you and me, called How to Do Things: Productivity for the Productivity-Challenged.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>I wrote a little book for people like you and me, called How to Do Things: Productivity for the Productivity-Challenged.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:09:57</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>2</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[How to know what you really want]]></title>
+			<description><![CDATA[It’s easy to become obsessively focused on what your neighbours have or want, rather than on your immediate responsibilities and relationship commitments.]]></description>
+			<link>https://psyche.co/guides/how-to-know-what-you-really-want-and-be-free-from-mimetic-desire</link>
+			<guid isPermaLink="false">4_1270219</guid>
+			<pubDate>Thu, 16 Dec 2021 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2021/12/15/13e294dd6a7d3d287d59c228e4fa64d7.mp3" length="10329741" type="audio/mpeg"/>
+			<content:encoded><![CDATA[It’s easy to become obsessively focused on what your neighbours have or want, rather than on your immediate responsibilities and relationship commitments.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>It’s easy to become obsessively focused on what your neighbours have or want, rather than on your immediate responsibilities and relationship commitments.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:28:42</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>1</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+</channel>
+</rss>
