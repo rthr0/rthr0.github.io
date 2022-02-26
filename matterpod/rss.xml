@@ -3,6 +3,7 @@
 
 	<channel>
 		<title><![CDATA[Matter for Michael Arthur]]></title>
+		
 		<description><![CDATA[Your Matter audio feed.]]></description>
 		<link>https://getmatter.app/rthr/</link>
 		<image>
