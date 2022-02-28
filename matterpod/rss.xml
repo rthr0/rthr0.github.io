@@ -3,7 +3,6 @@
 
 	<channel>
 		<title><![CDATA[Matter for Michael Arthur]]></title>
-		
 		<description><![CDATA[Your Matter audio feed.]]></description>
 		<link>https://getmatter.app/rthr/</link>
 		<image>
@@ -12,7 +11,7 @@
 			<link>https://getmatter.app/rthr/</link>
 		</image>
 		<generator>MatterPod by Federico Viticci</generator>
-		<lastBuildDate>Tue, 15 Feb 2022 19:59:32 -0500</lastBuildDate>
+		<lastBuildDate>Sun, 27 Feb 2022 21:42:27 -0500</lastBuildDate>
 		<atom:link href="https://rthr0.github.io/matterpod/rss.xml" rel="self" type="application/rss+xml"/>
 		<copyright><![CDATA[© 2022 MacStories, Inc.]]></copyright>
 		<language><![CDATA[en-us]]></language>
@@ -27,882 +26,744 @@
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://media.getmatter.app/media/profile_avatar_photo/2021/11/18/86513686-286B-4A56-8DBF-64248367A72E.jpg.200x200_q95ss0_crop-smart_upscale.jpg"/>
 <item>
-			<title><![CDATA[For many inside the Freedom Convoy, faith fuels the resistance]]></title>
-			<description><![CDATA[Devoted to the cause Christian faith — with an overtly evangelical feel — flows likes an undercurrent through the Freedom Convoy in Ottawa.]]></description>
-			<link>https://www.cbc.ca/news/canada/faith-convoy-truckers-1.6350538</link>
-			<guid isPermaLink="false">4_2038815</guid>
-			<pubDate>Wed, 16 Feb 2022 12:00:00 -0500</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/15/d538bdafbe1daf5b34ad6ee7dde6e1f8.mp3" length="4893741" type="audio/mpeg"/>
-			<content:encoded><![CDATA[Devoted to the cause Christian faith — with an overtly evangelical feel — flows likes an undercurrent through the Freedom Convoy in Ottawa.]]></content:encoded>
+			<title><![CDATA[Explainer: How is the Russia-Ukraine war linked to religion?]]></title>
+			<description><![CDATA[Some U.S. Orthodox hope they can put such conflicts aside and unite to try to end the war, while also fearing the war could exacerbate the split.]]></description>
+			<link>https://www.ctvnews.ca/world/explainer-how-is-the-russia-ukraine-war-linked-to-religion-1.5798062</link>
+			<guid isPermaLink="false">4_2176213</guid>
+			<pubDate>Mon, 28 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/28/1191b1eecc4a4938c16d6e718b36529d.mp3" length="2910717" type="audio/mpeg"/>
+			<content:encoded><![CDATA[Some U.S. Orthodox hope they can put such conflicts aside and unite to try to end the war, while also fearing the war could exacerbate the split.]]></content:encoded>
 			<itunes:author>Matter</itunes:author>
 			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>Devoted to the cause Christian faith — with an overtly evangelical feel — flows likes an undercurrent through the Freedom Convoy in Ottawa.</itunes:summary>
+			<itunes:summary>Some U.S. Orthodox hope they can put such conflicts aside and unite to try to end the war, while also fearing the war could exacerbate the split.</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:13:36</itunes:duration>
+			<itunes:duration>00:08:05</itunes:duration>
 			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>50</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 <item>
-			<title><![CDATA[Communities with low incomes, immigrants, essential workers hardest hit by COVID-19: study]]></title>
-			<description><![CDATA[A Canadian research team found that COVID-19 cases were 'disproportionately concentrated' in communities with lower incomes and a higher proportion of visible minorities, recent immigrants, high-density housing and essential workers.]]></description>
-			<link>https://www.cbc.ca/news/health/covid-communities-immigrants-workers-study-1.6351415</link>
-			<guid isPermaLink="false">4_2039409</guid>
-			<pubDate>Tue, 15 Feb 2022 12:00:00 -0500</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/15/f41859e755957d5da02e554796321db3.mp3" length="3183453" type="audio/mpeg"/>
-			<content:encoded><![CDATA[A Canadian research team found that COVID-19 cases were 'disproportionately concentrated' in communities with lower incomes and a higher proportion of visible minorities, recent immigrants, high-density housing and essential workers.]]></content:encoded>
+			<title><![CDATA[How I Do My Weekly Review In Obsidian]]></title>
+			<description><![CDATA[In this article, I share with you my weekly review note in Obsidian. I go through how everything is set up including the code and the plugins I use.]]></description>
+			<link>https://www.mishacreatrix.com/weekly-review-obsidian</link>
+			<guid isPermaLink="false">4_2154138</guid>
+			<pubDate>Sun, 27 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/25/a264b9802481628f55ec8396f59e0948.mp3" length="1774845" type="audio/mpeg"/>
+			<content:encoded><![CDATA[In this article, I share with you my weekly review note in Obsidian. I go through how everything is set up including the code and the plugins I use.]]></content:encoded>
 			<itunes:author>Matter</itunes:author>
 			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>A Canadian research team found that COVID-19 cases were 'disproportionately concentrated' in communities with lower incomes and a higher proportion of visible minorities, recent immigrants, high-density housing and essential workers.</itunes:summary>
+			<itunes:summary>In this article, I share with you my weekly review note in Obsidian. I go through how everything is set up including the code and the plugins I use.</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:08:51</itunes:duration>
+			<itunes:duration>00:04:56</itunes:duration>
 			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>49</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 <item>
-			<title><![CDATA[Astronomy Jargon 101: Hydrostatic Equilibrium]]></title>
-			<description><![CDATA[In this series we are exploring the weird and wonderful world of astronomy jargon! You’ll feel balanced with today’s topic: hydrostatic equilibrium!]]></description>
-			<link>https://www.universetoday.com/154330/astronomy-jargon-101-hydrostatic-equilibrium/</link>
-			<guid isPermaLink="false">4_2039379</guid>
-			<pubDate>Tue, 15 Feb 2022 12:00:00 -0500</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/15/bbea256d5a278e8337758d464f8e8fca.mp3" length="781389" type="audio/mpeg"/>
-			<content:encoded><![CDATA[In this series we are exploring the weird and wonderful world of astronomy jargon! You’ll feel balanced with today’s topic: hydrostatic equilibrium!]]></content:encoded>
+			<title><![CDATA[IA for PKM - Crows, Camels, Concepts, and the Cognitive Divide]]></title>
+			<description><![CDATA[IA for PKM — Crows, Camels, Concepts, and the Cognitive Divide Information Architecture for Personal Knowledge Management We are all information architects. It’s just what we do.It’s what makes us human.]]></description>
+			<link>https://medium.com/@cody.burleson/ia-for-pkm-crows-camels-concepts-and-the-cognitive-divide-7523c0bfa5eb</link>
+			<guid isPermaLink="false">4_2155662</guid>
+			<pubDate>Sun, 27 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/25/dc86cadaa1ca856d1b3460d683c06a90.mp3" length="2898477" type="audio/mpeg"/>
+			<content:encoded><![CDATA[IA for PKM — Crows, Camels, Concepts, and the Cognitive Divide Information Architecture for Personal Knowledge Management We are all information architects. It’s just what we do.It’s what makes us human.]]></content:encoded>
 			<itunes:author>Matter</itunes:author>
 			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>In this series we are exploring the weird and wonderful world of astronomy jargon! You’ll feel balanced with today’s topic: hydrostatic equilibrium!</itunes:summary>
+			<itunes:summary>IA for PKM — Crows, Camels, Concepts, and the Cognitive Divide Information Architecture for Personal Knowledge Management We are all information architects. It’s just what we do.It’s what makes us human.</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:02:10</itunes:duration>
+			<itunes:duration>00:08:03</itunes:duration>
 			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>48</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 <item>
-			<title><![CDATA[MacStories Weekly: Issue 307]]></title>
-			<description><![CDATA[WEEKLY ARCHIVE Previous emails that were sent to Club MacStories members. To view this issue of MacStories Weekly in your browser, click here. Thanks for your support, we'll see you next week!]]></description>
-			<link>https://club.macstories.net/posts/macstories-weekly-issue-307</link>
-			<guid isPermaLink="false">4_2001368</guid>
-			<pubDate>Tue, 15 Feb 2022 12:00:00 -0500</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/11/6c9f7f1d41eda9069db384c7f0ad7937.mp3" length="10405341" type="audio/mpeg"/>
-			<content:encoded><![CDATA[WEEKLY ARCHIVE Previous emails that were sent to Club MacStories members. To view this issue of MacStories Weekly in your browser, click here. Thanks for your support, we'll see you next week!]]></content:encoded>
+			<title><![CDATA[Peloton's Next Move: Become a Platform]]></title>
+			<description><![CDATA[Given the cultural backlash they have already received, it’s possible that a vibe shift in wellness (or, perhaps, paradigm shift?) could hurt Peloton sooner than they had ever imagined.]]></description>
+			<link>https://every.to/divinations/peloton-s-next-move-become-a-platform</link>
+			<guid isPermaLink="false">4_2161981</guid>
+			<pubDate>Sat, 26 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/26/eae8acac0276a09d943cf1ba85f306c3.mp3" length="4830813" type="audio/mpeg"/>
+			<content:encoded><![CDATA[Given the cultural backlash they have already received, it’s possible that a vibe shift in wellness (or, perhaps, paradigm shift?) could hurt Peloton sooner than they had ever imagined.]]></content:encoded>
 			<itunes:author>Matter</itunes:author>
 			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>WEEKLY ARCHIVE Previous emails that were sent to Club MacStories members. To view this issue of MacStories Weekly in your browser, click here. Thanks for your support, we'll see you next week!</itunes:summary>
+			<itunes:summary>Given the cultural backlash they have already received, it’s possible that a vibe shift in wellness (or, perhaps, paradigm shift?) could hurt Peloton sooner than they had ever imagined.</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:28:54</itunes:duration>
+			<itunes:duration>00:13:25</itunes:duration>
 			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>47</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 <item>
-			<title><![CDATA[Astronomers Scan the Center of the Milky Way for Any Sign of Intelligent Civilizations. Nothing but Silence.]]></title>
-			<description><![CDATA[Are there civilizations somewhere else in the Universe? Somewhere else in the Milky Way? That’s one of our overarching questions, and an answer in the affirmative would be profound.]]></description>
-			<link>https://www.universetoday.com/154514/astronomers-scan-the-center-of-the-milky-way-for-any-sign-of-intelligent-civilizations-nothing-but-silence/</link>
-			<guid isPermaLink="false">4_2037386</guid>
-			<pubDate>Tue, 15 Feb 2022 12:00:00 -0500</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/15/dcc956c71ca4ae8c8630d44af1806046.mp3" length="2408589" type="audio/mpeg"/>
-			<content:encoded><![CDATA[Are there civilizations somewhere else in the Universe? Somewhere else in the Milky Way? That’s one of our overarching questions, and an answer in the affirmative would be profound.]]></content:encoded>
+			<title><![CDATA[Donald Trump’s glitchy, snaggy social media rollout]]></title>
+			<description><![CDATA[Why? Who knows! Perhaps Truth Social is setting it aside for me — as the competing conservative social media app Gettr did — or perhaps Laura Ingraham is cosplaying me.]]></description>
+			<link>https://www.nytimes.com/2022/02/24/opinion/trump-truth-social.html</link>
+			<guid isPermaLink="false">4_2143176</guid>
+			<pubDate>Sat, 26 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/25/37c8814e5b1c2e9af1b038081da17bd5.mp3" length="3278061" type="audio/mpeg"/>
+			<content:encoded><![CDATA[Why? Who knows! Perhaps Truth Social is setting it aside for me — as the competing conservative social media app Gettr did — or perhaps Laura Ingraham is cosplaying me.]]></content:encoded>
 			<itunes:author>Matter</itunes:author>
 			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>Are there civilizations somewhere else in the Universe? Somewhere else in the Milky Way? That’s one of our overarching questions, and an answer in the affirmative would be profound.</itunes:summary>
+			<itunes:summary>Why? Who knows! Perhaps Truth Social is setting it aside for me — as the competing conservative social media app Gettr did — or perhaps Laura Ingraham is cosplaying me.</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:06:41</itunes:duration>
+			<itunes:duration>00:09:06</itunes:duration>
 			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>46</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 <item>
-			<title><![CDATA[Small Home Renovation Ideas]]></title>
-			<description><![CDATA[Here are some things to consider if you’re looking for some small home renovation ideas. Small Home Renovation Tips and Tricks Living in a small space requires creativity, intentionality, and flexibility.]]></description>
-			<link>https://www.youneedabudget.com/small-home-renovation-ideas/</link>
-			<guid isPermaLink="false">4_2037379</guid>
-			<pubDate>Tue, 15 Feb 2022 12:00:00 -0500</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/15/00ddd625cbb996952b73fb5e3e99bcda.mp3" length="2624445" type="audio/mpeg"/>
-			<content:encoded><![CDATA[Here are some things to consider if you’re looking for some small home renovation ideas. Small Home Renovation Tips and Tricks Living in a small space requires creativity, intentionality, and flexibility.]]></content:encoded>
+			<title><![CDATA[Match Group and Managed Dissatisfaction]]></title>
+			<description><![CDATA[But it's also driven by Match Group, which has been a serial acquirer of smaller dating sites.]]></description>
+			<link>https://www.thediff.co/p/match-group-and-managed-dissatisfaction</link>
+			<guid isPermaLink="false">4_2152187</guid>
+			<pubDate>Sat, 26 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/25/e466be6acaa25f19fc89deb972a5155e.mp3" length="5924637" type="audio/mpeg"/>
+			<content:encoded><![CDATA[But it's also driven by Match Group, which has been a serial acquirer of smaller dating sites.]]></content:encoded>
 			<itunes:author>Matter</itunes:author>
 			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>Here are some things to consider if you’re looking for some small home renovation ideas. Small Home Renovation Tips and Tricks Living in a small space requires creativity, intentionality, and flexibility.</itunes:summary>
+			<itunes:summary>But it's also driven by Match Group, which has been a serial acquirer of smaller dating sites.</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:07:17</itunes:duration>
+			<itunes:duration>00:16:27</itunes:duration>
 			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>45</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 <item>
-			<title><![CDATA[Maybe-just maybe-sending billionaires into space isn’t such a bad thing]]></title>
-			<description><![CDATA[Consultants apparently convinced Salesforce the best way to do this was by shaming billionaires who are interested in and investing in space.]]></description>
-			<link>https://arstechnica.com/science/2022/02/maybe-just-maybe-sending-billionaires-into-space-isnt-such-a-bad-thing/</link>
-			<guid isPermaLink="false">4_2032922</guid>
-			<pubDate>Tue, 15 Feb 2022 12:00:00 -0500</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/15/2bf3697c5c1b3fab47f88a1c0df9292d.mp3" length="2114541" type="audio/mpeg"/>
-			<content:encoded><![CDATA[Consultants apparently convinced Salesforce the best way to do this was by shaming billionaires who are interested in and investing in space.]]></content:encoded>
+			<title><![CDATA[Psychologists use a term called "pluralistic ig...]]></title>
+			<description><![CDATA[Psychologists use a term called "pluralistic ignorance" to describe the phenomenon of "no one believes, but everyone thinks that everyone believes." (h/t @AdamMGrant)
+
+Here's a way to visualize it:]]></description>
+			<link>https://twitter.com/i/web/status/1491115068343214086</link>
+			<guid isPermaLink="false">4_1924610</guid>
+			<pubDate>Sat, 26 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/08/074aaa3be08593f66eabd91d1460d236.mp3" length="925245" type="audio/mpeg"/>
+			<content:encoded><![CDATA[Psychologists use a term called "pluralistic ignorance" to describe the phenomenon of "no one believes, but everyone thinks that everyone believes." (h/t @AdamMGrant)
+
+Here's a way to visualize it:]]></content:encoded>
 			<itunes:author>Matter</itunes:author>
 			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>Consultants apparently convinced Salesforce the best way to do this was by shaming billionaires who are interested in and investing in space.</itunes:summary>
+			<itunes:summary>Psychologists use a term called "pluralistic ignorance" to describe the phenomenon of "no one believes, but everyone thinks that everyone believes." (h/t @AdamMGrant)
+
+Here's a way to visualize it:</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:05:52</itunes:duration>
-			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
-			<itunes:season>1</itunes:season>
-			<itunes:episode>44</itunes:episode>
-			<itunes:episodeType>full</itunes:episodeType>
-		</item>
-<item>
-			<title><![CDATA[Booster protection from omicron hospital stay dips from 91% to 78%]]></title>
-			<description><![CDATA[It charted a slight decline in booster effectiveness from less than two months after a booster dose to over four or five months after the third jab.]]></description>
-			<link>https://arstechnica.com/science/2022/02/cdc-boosters-mostly-holding-against-omicron-but-4th-shots-may-still-be-ahead/</link>
-			<guid isPermaLink="false">4_2037240</guid>
-			<pubDate>Tue, 15 Feb 2022 12:00:00 -0500</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/15/ed89d44f653c8e149152f8c8271aeca4.mp3" length="1557405" type="audio/mpeg"/>
-			<content:encoded><![CDATA[It charted a slight decline in booster effectiveness from less than two months after a booster dose to over four or five months after the third jab.]]></content:encoded>
-			<itunes:author>Matter</itunes:author>
-			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>It charted a slight decline in booster effectiveness from less than two months after a booster dose to over four or five months after the third jab.</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:04:20</itunes:duration>
+			<itunes:duration>00:02:34</itunes:duration>
 			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>43</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 <item>
-			<title><![CDATA[We Need A Standard Unit Of Measure For Risk]]></title>
-			<description><![CDATA[A few decades ago the Stanford professor Ronald Howard proposed a unit of measure for mortality risk. He called it the “micromort.” One micromort equaled a one-in-one-million chance of dying.]]></description>
-			<link>https://adjacentpossible.substack.com/p/we-need-a-standard-unit-of-measure</link>
-			<guid isPermaLink="false">4_1898348</guid>
-			<pubDate>Mon, 14 Feb 2022 12:00:00 -0500</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/05/8afb4e1faaa5a14c91bda7dd477e9f97.mp3" length="3493773" type="audio/mpeg"/>
-			<content:encoded><![CDATA[A few decades ago the Stanford professor Ronald Howard proposed a unit of measure for mortality risk. He called it the “micromort.” One micromort equaled a one-in-one-million chance of dying.]]></content:encoded>
+			<title><![CDATA[Matt Gurney: Huh, who'd have guessed. It turns out we needed more Cold War thinking]]></title>
+			<description><![CDATA[In the meantime, as events in Europe unfold, I've been thinking a lot these last few days about a phrase we've heard often in recent years: "Cold War thinking." Or the related "Cold War-style."]]></description>
+			<link>https://getmatter.app/email/3961769/?token=3961769%3ANjcSRKaq3BrlLp1kMk7F6okwoI4</link>
+			<guid isPermaLink="false">4_2149116</guid>
+			<pubDate>Sat, 26 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/26/1c6f9aaa33dc404fe09743045c5b547b.mp3" length="5210541" type="audio/mpeg"/>
+			<content:encoded><![CDATA[In the meantime, as events in Europe unfold, I've been thinking a lot these last few days about a phrase we've heard often in recent years: "Cold War thinking." Or the related "Cold War-style."]]></content:encoded>
 			<itunes:author>Matter</itunes:author>
 			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>A few decades ago the Stanford professor Ronald Howard proposed a unit of measure for mortality risk. He called it the “micromort.” One micromort equaled a one-in-one-million chance of dying.</itunes:summary>
+			<itunes:summary>In the meantime, as events in Europe unfold, I've been thinking a lot these last few days about a phrase we've heard often in recent years: "Cold War thinking." Or the related "Cold War-style."</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:09:42</itunes:duration>
+			<itunes:duration>00:14:28</itunes:duration>
 			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>42</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 <item>
-			<title><![CDATA[Democrats' college degree divide]]></title>
-			<description><![CDATA[But among non-college Democrats, this is a minority view. And while immigration cuts aren’t popular on either side of the education divide, they are much more popular among working-class Democrats.]]></description>
-			<link>https://www.slowboring.com/p/democrats-college-degree-divide</link>
-			<guid isPermaLink="false">4_2024511</guid>
-			<pubDate>Mon, 14 Feb 2022 12:00:00 -0500</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/14/4d5e1e88c9cf6862d1edb72b4d0fcf62.mp3" length="2892861" type="audio/mpeg"/>
-			<content:encoded><![CDATA[But among non-college Democrats, this is a minority view. And while immigration cuts aren’t popular on either side of the education divide, they are much more popular among working-class Democrats.]]></content:encoded>
+			<title><![CDATA[Joe Rogan: The Platform-Proof Creator]]></title>
+			<description><![CDATA[Note: I am currently at spot 489,395, but when I get to the top I’ll let you know how the app is lol. Joe Rogan is likely also platform-proof.]]></description>
+			<link>https://every.to/napkin-math/spotify-s-no-win-predicament</link>
+			<guid isPermaLink="false">4_2156033</guid>
+			<pubDate>Sat, 26 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/25/fca5000e2af96f0803fe8f5d2654a99a.mp3" length="3183741" type="audio/mpeg"/>
+			<content:encoded><![CDATA[Note: I am currently at spot 489,395, but when I get to the top I’ll let you know how the app is lol. Joe Rogan is likely also platform-proof.]]></content:encoded>
 			<itunes:author>Matter</itunes:author>
 			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>But among non-college Democrats, this is a minority view. And while immigration cuts aren’t popular on either side of the education divide, they are much more popular among working-class Democrats.</itunes:summary>
+			<itunes:summary>Note: I am currently at spot 489,395, but when I get to the top I’ll let you know how the app is lol. Joe Rogan is likely also platform-proof.</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:08:02</itunes:duration>
+			<itunes:duration>00:08:51</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>41</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[Brandon Sanderson’s Advice for Doing Hard Things]]></title>
+			<description><![CDATA[He retorts that the following claim is much more realistic: “I can do hard things.]]></description>
+			<link>https://www.calnewport.com/blog/2022/02/25/brandon-sandersons-advice-for-doing-hard-things/</link>
+			<guid isPermaLink="false">4_2155046</guid>
+			<pubDate>Sat, 26 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/25/d510ff77ec376058299df4310443eaea.mp3" length="1518813" type="audio/mpeg"/>
+			<content:encoded><![CDATA[He retorts that the following claim is much more realistic: “I can do hard things.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>He retorts that the following claim is much more realistic: “I can do hard things.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:04:13</itunes:duration>
 			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>40</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 <item>
-			<title><![CDATA[The science of self-love: the evidence-based benefits of loving yourself]]></title>
-			<description><![CDATA[Self-love can lead to better mental health, higher self-esteem, more motivation, and many other evidence-based benefits. It doesn’t need to be cheesy. Give it a try, and don’t forget about the power of self-reflection.]]></description>
-			<link>https://nesslabs.com/self-love</link>
-			<guid isPermaLink="false">4_2025849</guid>
-			<pubDate>Mon, 14 Feb 2022 12:00:00 -0500</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/14/1af9d02a0e66f0c0d43f1e70487b6dc7.mp3" length="1774413" type="audio/mpeg"/>
-			<content:encoded><![CDATA[Self-love can lead to better mental health, higher self-esteem, more motivation, and many other evidence-based benefits. It doesn’t need to be cheesy. Give it a try, and don’t forget about the power of self-reflection.]]></content:encoded>
+			<title><![CDATA[Get started with World Anvil: Hints & Tips!]]></title>
+			<description><![CDATA[Otherwise, read below for lots of ways to get started with World Anvil! Worldbuilding is a big task... ...so World Anvil is a big platform! But DON'T PANIC - you don’t need to use all the features to build a rich and amazing world.]]></description>
+			<link>https://getmatter.app/email/3986186/?token=3986186%3AdJhOHGAjIWx8_uOWAiu5K_5KgWk</link>
+			<guid isPermaLink="false">4_2157270</guid>
+			<pubDate>Fri, 25 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/25/eac8e12da56d21181359dfb78c67c310.mp3" length="941661" type="audio/mpeg"/>
+			<content:encoded><![CDATA[Otherwise, read below for lots of ways to get started with World Anvil! Worldbuilding is a big task... ...so World Anvil is a big platform! But DON'T PANIC - you don’t need to use all the features to build a rich and amazing world.]]></content:encoded>
 			<itunes:author>Matter</itunes:author>
 			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>Self-love can lead to better mental health, higher self-esteem, more motivation, and many other evidence-based benefits. It doesn’t need to be cheesy. Give it a try, and don’t forget about the power of self-reflection.</itunes:summary>
+			<itunes:summary>Otherwise, read below for lots of ways to get started with World Anvil! Worldbuilding is a big task... ...so World Anvil is a big platform! But DON'T PANIC - you don’t need to use all the features to build a rich and amazing world.</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:04:56</itunes:duration>
+			<itunes:duration>00:02:37</itunes:duration>
 			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>39</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 <item>
-			<title><![CDATA[🌠 Open Notes in a New Window, Improved iPad sketch support, & Dockable Settings]]></title>
-			<description><![CDATA[🌠 Open Notes in a New Window, Improved iPad sketch support, & Dockable Settings In The Community Here's a (very) short feedback survey for the Workspaces Plus plugin in Obsidian.]]></description>
-			<link>https://www.obsidianroundup.org/2022-02-12/</link>
-			<guid isPermaLink="false">4_2008697</guid>
-			<pubDate>Mon, 14 Feb 2022 12:00:00 -0500</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/12/eccb6bb86c451172460d126a1c0353fd.mp3" length="4023837" type="audio/mpeg"/>
-			<content:encoded><![CDATA[🌠 Open Notes in a New Window, Improved iPad sketch support, & Dockable Settings In The Community Here's a (very) short feedback survey for the Workspaces Plus plugin in Obsidian.]]></content:encoded>
+			<title><![CDATA[Using Notion as a PKM System, Managing macOS Windows with Magnet, and More]]></title>
+			<description><![CDATA[But when I first heard the term “PKM” I drew a blank. I thought, what is PKM? Over the last few months, my understanding of what PKM is has grown quite a bit.]]></description>
+			<link>https://thesweetsetup.com/using-notion-as-a-pkm-system-managing-macos-windows-with-magnet-and-more/</link>
+			<guid isPermaLink="false">4_2154143</guid>
+			<pubDate>Fri, 25 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/25/024066c842f87d73412325869d5c2b3d.mp3" length="845613" type="audio/mpeg"/>
+			<content:encoded><![CDATA[But when I first heard the term “PKM” I drew a blank. I thought, what is PKM? Over the last few months, my understanding of what PKM is has grown quite a bit.]]></content:encoded>
 			<itunes:author>Matter</itunes:author>
 			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>🌠 Open Notes in a New Window, Improved iPad sketch support, & Dockable Settings In The Community Here's a (very) short feedback survey for the Workspaces Plus plugin in Obsidian.</itunes:summary>
+			<itunes:summary>But when I first heard the term “PKM” I drew a blank. I thought, what is PKM? Over the last few months, my understanding of what PKM is has grown quite a bit.</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:11:11</itunes:duration>
+			<itunes:duration>00:02:21</itunes:duration>
 			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>38</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 <item>
-			<title><![CDATA[Automatic tax-filing: Why some experts believe the CRA should file taxes for us]]></title>
-			<description><![CDATA[Laurin would rather see government benefits be decoupled from the requirement to file taxes. In the U.K., for example, people aren't required to have filed a tax return to claim their child benefit.]]></description>
-			<link>https://www.ctvnews.ca/business/automatic-tax-filing-why-some-experts-believe-the-cra-should-file-taxes-for-us-1.5772711</link>
-			<guid isPermaLink="false">4_2025906</guid>
-			<pubDate>Mon, 14 Feb 2022 12:00:00 -0500</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/14/84695cf4139ff45e4a8f17d446052b49.mp3" length="2446317" type="audio/mpeg"/>
-			<content:encoded><![CDATA[Laurin would rather see government benefits be decoupled from the requirement to file taxes. In the U.K., for example, people aren't required to have filed a tax return to claim their child benefit.]]></content:encoded>
+			<title><![CDATA[The Wellness Vibe is Shifting]]></title>
+			<description><![CDATA[And yet, to quote New York mag, the vibe is already shifting. Wellness, like any industry, isn’t immune to the cruel fickleness of trends, even on a micro-level.]]></description>
+			<link>https://welltodo.substack.com/p/the-wellness-vibe-is-shifting</link>
+			<guid isPermaLink="false">4_2128903</guid>
+			<pubDate>Sat, 26 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/25/a46b9e2bfed52cd027225ebba561af0c.mp3" length="3139101" type="audio/mpeg"/>
+			<content:encoded><![CDATA[And yet, to quote New York mag, the vibe is already shifting. Wellness, like any industry, isn’t immune to the cruel fickleness of trends, even on a micro-level.]]></content:encoded>
 			<itunes:author>Matter</itunes:author>
 			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>Laurin would rather see government benefits be decoupled from the requirement to file taxes. In the U.K., for example, people aren't required to have filed a tax return to claim their child benefit.</itunes:summary>
+			<itunes:summary>And yet, to quote New York mag, the vibe is already shifting. Wellness, like any industry, isn’t immune to the cruel fickleness of trends, even on a micro-level.</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:06:48</itunes:duration>
-			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
-			<itunes:season>1</itunes:season>
-			<itunes:episode>37</itunes:episode>
-			<itunes:episodeType>full</itunes:episodeType>
-		</item>
-<item>
-			<title><![CDATA[DesignStaminaHypothesis]]></title>
-			<description><![CDATA[Is it worth the effort to design software well? From time to time I have indirect conversations about whether good software design is a worthwhile activity.]]></description>
-			<link>https://martinfowler.com/bliki/DesignStaminaHypothesis.html</link>
-			<guid isPermaLink="false">4_443811</guid>
-			<pubDate>Mon, 14 Feb 2022 12:00:00 -0500</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2021/09/09/c29d5527c2d88217f2df7f27897fdb66.mp3" length="924429" type="audio/mpeg"/>
-			<content:encoded><![CDATA[Is it worth the effort to design software well? From time to time I have indirect conversations about whether good software design is a worthwhile activity.]]></content:encoded>
-			<itunes:author>Matter</itunes:author>
-			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>Is it worth the effort to design software well? From time to time I have indirect conversations about whether good software design is a worthwhile activity.</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:02:34</itunes:duration>
+			<itunes:duration>00:08:43</itunes:duration>
 			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>36</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 <item>
-			<title><![CDATA[Automation Academy: Creating a Podcast RSS Feed for Your Matter Queue in Shortcuts with MatterPod]]></title>
-			<description><![CDATA[I have been running a private podcast feed made of Matter audio links for the past month, which gets updated multiple times during the day thanks to Shortcuts automations.]]></description>
-			<link>https://club.macstories.net/posts/automation-academy-creating-a-podcast-rss-feed-for-your-matter-queue-in-shortcuts-with-matterpod</link>
-			<guid isPermaLink="false">4_1889865</guid>
-			<pubDate>Mon, 14 Feb 2022 12:00:00 -0500</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/03/1ac1085b92198ef8171778b251891b74.mp3" length="1034109" type="audio/mpeg"/>
-			<content:encoded><![CDATA[I have been running a private podcast feed made of Matter audio links for the past month, which gets updated multiple times during the day thanks to Shortcuts automations.]]></content:encoded>
+			<title><![CDATA[Gratitude traps: why we should be critical of gratefulness]]></title>
+			<description><![CDATA[How to avoid gratitude traps Gratitude has many benefits, but you want to avoid falling prey to its potential pitfalls.]]></description>
+			<link>https://nesslabs.com/gratitude-traps</link>
+			<guid isPermaLink="false">4_2140400</guid>
+			<pubDate>Fri, 25 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/24/8d4a1132b79c8a669ee683b93648da24.mp3" length="2182653" type="audio/mpeg"/>
+			<content:encoded><![CDATA[How to avoid gratitude traps Gratitude has many benefits, but you want to avoid falling prey to its potential pitfalls.]]></content:encoded>
 			<itunes:author>Matter</itunes:author>
 			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>I have been running a private podcast feed made of Matter audio links for the past month, which gets updated multiple times during the day thanks to Shortcuts automations.</itunes:summary>
+			<itunes:summary>How to avoid gratitude traps Gratitude has many benefits, but you want to avoid falling prey to its potential pitfalls.</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:02:52</itunes:duration>
+			<itunes:duration>00:06:04</itunes:duration>
 			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>35</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 <item>
-			<title><![CDATA[Out There and Back: My Psilocybin Journey into Forgiveness]]></title>
-			<description><![CDATA[Welcome back to this series about psilocybin, my personal journey with plant medicine, and the future of mental health. Last week, I had my first journey with psilocybin and what follows is a detailed trip report.]]></description>
-			<link>https://josephdana.substack.com/p/out-there-and-back-my-psilocybin</link>
-			<guid isPermaLink="false">4_506048</guid>
-			<pubDate>Mon, 14 Feb 2022 12:00:00 -0500</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2021/10/07/5b1e30a1fb7fad26cc71dd368c42a22e.mp3" length="3423405" type="audio/mpeg"/>
-			<content:encoded><![CDATA[Welcome back to this series about psilocybin, my personal journey with plant medicine, and the future of mental health. Last week, I had my first journey with psilocybin and what follows is a detailed trip report.]]></content:encoded>
+			<title><![CDATA[Homeowners should be YIMBYs]]></title>
+			<description><![CDATA[But as a middle-aged homeowner, I want to clarify that there is an upside for middle-aged homeowners too. But beyond rhetoric, we should aim for policy approaches that create certainty and clear upside for people.]]></description>
+			<link>https://www.slowboring.com/p/homeowner-nimby</link>
+			<guid isPermaLink="false">4_2135484</guid>
+			<pubDate>Fri, 25 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/24/e5c72379fd8f24a75b9f755e24b4fc55.mp3" length="4840461" type="audio/mpeg"/>
+			<content:encoded><![CDATA[But as a middle-aged homeowner, I want to clarify that there is an upside for middle-aged homeowners too. But beyond rhetoric, we should aim for policy approaches that create certainty and clear upside for people.]]></content:encoded>
 			<itunes:author>Matter</itunes:author>
 			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>Welcome back to this series about psilocybin, my personal journey with plant medicine, and the future of mental health. Last week, I had my first journey with psilocybin and what follows is a detailed trip report.</itunes:summary>
+			<itunes:summary>But as a middle-aged homeowner, I want to clarify that there is an upside for middle-aged homeowners too. But beyond rhetoric, we should aim for policy approaches that create certainty and clear upside for people.</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:09:31</itunes:duration>
+			<itunes:duration>00:13:27</itunes:duration>
 			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>34</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 <item>
-			<title><![CDATA[The Studying Technique You Should Be Using]]></title>
-			<description><![CDATA[And if you'd like to read more of my Studying articles, head to this page here which includes pieces on The Essay Memorisation Framework and The Power of Retrospective Revision Timetables.]]></description>
-			<link>https://aliabdaal.com/activerecallstudytechnique/</link>
-			<guid isPermaLink="false">4_519813</guid>
-			<pubDate>Mon, 14 Feb 2022 12:00:00 -0500</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2021/10/18/a7b66e0041a6f3c009f75191dcde9169.mp3" length="1469997" type="audio/mpeg"/>
-			<content:encoded><![CDATA[And if you'd like to read more of my Studying articles, head to this page here which includes pieces on The Essay Memorisation Framework and The Power of Retrospective Revision Timetables.]]></content:encoded>
+			<title><![CDATA[☕️ Closing in on Kyiv]]></title>
+			<description><![CDATA[Here are the latest updates from the largest ground war in Europe since WWII. The Russians are closing in on Kyiv.]]></description>
+			<link>https://getmatter.app/email/3957231/?token=3957231%3A4Dj9gubBXggrisAxYQ8r4l9Wkms</link>
+			<guid isPermaLink="false">4_2147875</guid>
+			<pubDate>Fri, 25 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/25/d09d4274aaa5110db5bc10b580d268c0.mp3" length="4604733" type="audio/mpeg"/>
+			<content:encoded><![CDATA[Here are the latest updates from the largest ground war in Europe since WWII. The Russians are closing in on Kyiv.]]></content:encoded>
 			<itunes:author>Matter</itunes:author>
 			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>And if you'd like to read more of my Studying articles, head to this page here which includes pieces on The Essay Memorisation Framework and The Power of Retrospective Revision Timetables.</itunes:summary>
+			<itunes:summary>Here are the latest updates from the largest ground war in Europe since WWII. The Russians are closing in on Kyiv.</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:04:05</itunes:duration>
+			<itunes:duration>00:12:47</itunes:duration>
 			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>33</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 <item>
-			<title><![CDATA[Practically Paperless with Obsidian]]></title>
-			<description><![CDATA[Why not try going paperless with Obsidian? I have been using Obsidian since January, and have written frequently about it over the past several months.]]></description>
-			<link>https://jamierubin.net/2021/09/21/practically-paperless-with-obsidian/</link>
-			<guid isPermaLink="false">4_470956</guid>
-			<pubDate>Mon, 14 Feb 2022 12:00:00 -0500</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2021/09/22/c03301fa2229b05cefbc939dc6a0ac6a.mp3" length="2765901" type="audio/mpeg"/>
-			<content:encoded><![CDATA[Why not try going paperless with Obsidian? I have been using Obsidian since January, and have written frequently about it over the past several months.]]></content:encoded>
+			<title><![CDATA[Scaling peer-to-peer learning with Jennifer Smith, founder of Scribe]]></title>
+			<description><![CDATA[Jennifer Smith is the founder of Scribe, a tool to help knowledge workers share their specialized know-how. Her goal is to make it as easy as possible for teams to increase their collective intelligence.]]></description>
+			<link>https://nesslabs.com/scribe-featured-tool</link>
+			<guid isPermaLink="false">4_2141890</guid>
+			<pubDate>Fri, 25 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/24/7b1de2a62afd99a14a4d7c0293f9c1a3.mp3" length="3805533" type="audio/mpeg"/>
+			<content:encoded><![CDATA[Jennifer Smith is the founder of Scribe, a tool to help knowledge workers share their specialized know-how. Her goal is to make it as easy as possible for teams to increase their collective intelligence.]]></content:encoded>
 			<itunes:author>Matter</itunes:author>
 			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>Why not try going paperless with Obsidian? I have been using Obsidian since January, and have written frequently about it over the past several months.</itunes:summary>
+			<itunes:summary>Jennifer Smith is the founder of Scribe, a tool to help knowledge workers share their specialized know-how. Her goal is to make it as easy as possible for teams to increase their collective intelligence.</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:07:41</itunes:duration>
+			<itunes:duration>00:10:34</itunes:duration>
 			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>32</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 <item>
-			<title><![CDATA[Social proof: is there always safety in numbers?]]></title>
-			<description><![CDATA[Seeking safety in numbers First coined by Robert Cialdini in 1984, social proof is also known as informational social influence.]]></description>
-			<link>https://nesslabs.com/social-proof</link>
-			<guid isPermaLink="false">4_1984444</guid>
-			<pubDate>Mon, 14 Feb 2022 12:00:00 -0500</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/10/6738cf644c8b207f5d12e654e710a200.mp3" length="1991565" type="audio/mpeg"/>
-			<content:encoded><![CDATA[Seeking safety in numbers First coined by Robert Cialdini in 1984, social proof is also known as informational social influence.]]></content:encoded>
+			<title><![CDATA[Michelle Rempel Garner: I went to Davos. The World Economic Forum is not running Canada]]></title>
+			<description><![CDATA[From a personal perspective I fear that if we don’t, the next time someone approaches me on street or in a restaurant it won’t just be a phone that’s pointed at me.]]></description>
+			<link>https://getmatter.app/email/3933592/?token=3933592%3AGS50tTQYIHNhAw7UQDYpYIfEl3M</link>
+			<guid isPermaLink="false">4_2138460</guid>
+			<pubDate>Fri, 25 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/25/38b9bbdc65e83f373b3c34f1734c3ec6.mp3" length="4898349" type="audio/mpeg"/>
+			<content:encoded><![CDATA[From a personal perspective I fear that if we don’t, the next time someone approaches me on street or in a restaurant it won’t just be a phone that’s pointed at me.]]></content:encoded>
 			<itunes:author>Matter</itunes:author>
 			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>Seeking safety in numbers First coined by Robert Cialdini in 1984, social proof is also known as informational social influence.</itunes:summary>
+			<itunes:summary>From a personal perspective I fear that if we don’t, the next time someone approaches me on street or in a restaurant it won’t just be a phone that’s pointed at me.</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:05:32</itunes:duration>
+			<itunes:duration>00:13:36</itunes:duration>
 			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>31</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 <item>
-			<title><![CDATA[11 Awkward Things About Email]]></title>
-			<description><![CDATA[And so here we all are, typing things into compose windows, battling down our inboxes, and it’s going pretty well—but like any world of social interaction, email has its difficulties.]]></description>
-			<link>https://waitbutwhy.com/2013/12/11-awkward-things-about-email.html</link>
-			<guid isPermaLink="false">4_205924</guid>
-			<pubDate>Mon, 14 Feb 2022 12:00:00 -0500</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2021/03/22/2dd532ed83657ac77e8ff56a92ff2de0.mp3" length="3983457" type="audio/mpeg"/>
-			<content:encoded><![CDATA[And so here we all are, typing things into compose windows, battling down our inboxes, and it’s going pretty well—but like any world of social interaction, email has its difficulties.]]></content:encoded>
+			<title><![CDATA[The Ergo 41]]></title>
+			<description><![CDATA[A talented senior-level developer, Aled has already brought you our "Celebrating" page last month, and this month he implemented the all-new Dark Mode for Oryx, which you can see below.]]></description>
+			<link>https://getmatter.app/email/3952090/?token=3952090%3ASMy3QW67Ukl9VOufusXvVGrr5SM</link>
+			<guid isPermaLink="false">4_2142449</guid>
+			<pubDate>Fri, 25 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/25/021d42b5ab135778034e8f228e663dec.mp3" length="1262061" type="audio/mpeg"/>
+			<content:encoded><![CDATA[A talented senior-level developer, Aled has already brought you our "Celebrating" page last month, and this month he implemented the all-new Dark Mode for Oryx, which you can see below.]]></content:encoded>
 			<itunes:author>Matter</itunes:author>
 			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>And so here we all are, typing things into compose windows, battling down our inboxes, and it’s going pretty well—but like any world of social interaction, email has its difficulties.</itunes:summary>
+			<itunes:summary>A talented senior-level developer, Aled has already brought you our "Celebrating" page last month, and this month he implemented the all-new Dark Mode for Oryx, which you can see below.</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:11:04</itunes:duration>
+			<itunes:duration>00:03:30</itunes:duration>
 			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>30</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 <item>
-			<title><![CDATA[The Pandemic Policy That Really Mattered Wasn’t a Policy]]></title>
-			<description><![CDATA[Put differently: How much would getting our pandemic policies right have mattered? It’s easy to speak as if policy smoothly reshapes reality. I’m more guilty of that than most.]]></description>
-			<link>https://www.nytimes.com/2022/02/06/opinion/covid-pandemic-policy-trust.html</link>
-			<guid isPermaLink="false">4_1909596</guid>
-			<pubDate>Sat, 12 Feb 2022 12:00:00 -0500</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/06/91e667cc94cada4982f7455fddf267d0.mp3" length="3865581" type="audio/mpeg"/>
-			<content:encoded><![CDATA[Put differently: How much would getting our pandemic policies right have mattered? It’s easy to speak as if policy smoothly reshapes reality. I’m more guilty of that than most.]]></content:encoded>
+			<title><![CDATA[Maker Mind: Is gratitude always good? ☠️]]></title>
+			<description><![CDATA[Maker Mind Make the most of your mind Hi there! I'm Anne-Laure Le Cunff, the founder of Ness Labs. You're receiving this email because you signed up to Maker Mind, a weekly newsletter about mindful productivity.]]></description>
+			<link>https://getmatter.app/email/3938349/?token=3938349%3A93kczEf0acMXmO377Iecz0imtTY</link>
+			<guid isPermaLink="false">4_2139809</guid>
+			<pubDate>Fri, 25 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/24/d5c3930031211f783f42419930611fa6.mp3" length="1500669" type="audio/mpeg"/>
+			<content:encoded><![CDATA[Maker Mind Make the most of your mind Hi there! I'm Anne-Laure Le Cunff, the founder of Ness Labs. You're receiving this email because you signed up to Maker Mind, a weekly newsletter about mindful productivity.]]></content:encoded>
 			<itunes:author>Matter</itunes:author>
 			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>Put differently: How much would getting our pandemic policies right have mattered? It’s easy to speak as if policy smoothly reshapes reality. I’m more guilty of that than most.</itunes:summary>
+			<itunes:summary>Maker Mind Make the most of your mind Hi there! I'm Anne-Laure Le Cunff, the founder of Ness Labs. You're receiving this email because you signed up to Maker Mind, a weekly newsletter about mindful productivity.</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:10:44</itunes:duration>
+			<itunes:duration>00:04:10</itunes:duration>
 			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>29</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 <item>
-			<title><![CDATA[The Psychology of Strategy]]></title>
-			<description><![CDATA[While large companies face seemingly insurmountable obstacles overcoming problems at the psychology layer of strategy, individuals face a much more tractable version of the problem.]]></description>
-			<link>https://every.to/divinations/the-psychology-of-strategy</link>
-			<guid isPermaLink="false">4_1885044</guid>
-			<pubDate>Sat, 12 Feb 2022 12:00:00 -0500</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/03/f778e2b4042e506e3e517168e6adc021.mp3" length="3532221" type="audio/mpeg"/>
-			<content:encoded><![CDATA[While large companies face seemingly insurmountable obstacles overcoming problems at the psychology layer of strategy, individuals face a much more tractable version of the problem.]]></content:encoded>
+			<title><![CDATA[How Covid Stole Our Time and How We Can Get It Back]]></title>
+			<description><![CDATA[But perhaps the hardest math to process — and, in turn, the hardest Covid pill to swallow — has to do with our relationships. I grew up spending some time with my parents almost every day.]]></description>
+			<link>https://www.nytimes.com/2022/02/25/opinion/covid-pandemic-depressing-math.html</link>
+			<guid isPermaLink="false">4_2147903</guid>
+			<pubDate>Sat, 26 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/25/2afbbe9ae8d2592ded981bcd9c3a1f82.mp3" length="1873917" type="audio/mpeg"/>
+			<content:encoded><![CDATA[But perhaps the hardest math to process — and, in turn, the hardest Covid pill to swallow — has to do with our relationships. I grew up spending some time with my parents almost every day.]]></content:encoded>
 			<itunes:author>Matter</itunes:author>
 			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>While large companies face seemingly insurmountable obstacles overcoming problems at the psychology layer of strategy, individuals face a much more tractable version of the problem.</itunes:summary>
+			<itunes:summary>But perhaps the hardest math to process — and, in turn, the hardest Covid pill to swallow — has to do with our relationships. I grew up spending some time with my parents almost every day.</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:09:49</itunes:duration>
+			<itunes:duration>00:05:12</itunes:duration>
 			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>28</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 <item>
-			<title><![CDATA[Augmenting product work with Rishank Pandey, co-founder of Workduck]]></title>
-			<description><![CDATA[Rishank Pandey is the co-founder of Workduck, a self-organizing work hub for modern product teams. Workduck helps you automate your tasks and augment your work so you can focus on what really matters: building great products.]]></description>
-			<link>https://nesslabs.com/workduck-featured-tool</link>
-			<guid isPermaLink="false">4_1989441</guid>
-			<pubDate>Sat, 12 Feb 2022 12:00:00 -0500</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/10/704fc3d20e016ea5d4f7f838d75875de.mp3" length="4338621" type="audio/mpeg"/>
-			<content:encoded><![CDATA[Rishank Pandey is the co-founder of Workduck, a self-organizing work hub for modern product teams. Workduck helps you automate your tasks and augment your work so you can focus on what really matters: building great products.]]></content:encoded>
+			<title><![CDATA[In Search of Cracks in Albert Einstein’s Theory of Gravity]]></title>
+			<description><![CDATA[During a solar eclipse in 1919, Arthur Eddington observed light bending around the sun just as predicted by general relativity, Albert Einstein’s new theory of gravity.]]></description>
+			<link>https://www.quantamagazine.org/in-mexico-cosmologist-hunts-for-cracks-in-einsteins-gravity-theory-20220223/</link>
+			<guid isPermaLink="false">4_2130111</guid>
+			<pubDate>Thu, 24 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/24/bab08a44bceab4f36e7a12c8c55fa55f.mp3" length="4343229" type="audio/mpeg"/>
+			<content:encoded><![CDATA[During a solar eclipse in 1919, Arthur Eddington observed light bending around the sun just as predicted by general relativity, Albert Einstein’s new theory of gravity.]]></content:encoded>
 			<itunes:author>Matter</itunes:author>
 			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>Rishank Pandey is the co-founder of Workduck, a self-organizing work hub for modern product teams. Workduck helps you automate your tasks and augment your work so you can focus on what really matters: building great products.</itunes:summary>
+			<itunes:summary>During a solar eclipse in 1919, Arthur Eddington observed light bending around the sun just as predicted by general relativity, Albert Einstein’s new theory of gravity.</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:12:03</itunes:duration>
+			<itunes:duration>00:12:04</itunes:duration>
 			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>27</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 <item>
-			<title><![CDATA[Maker Mind: Is there always safety in numbers? 🌾]]></title>
-			<description><![CDATA[Maker Mind Make the most of your mind Hi there! I'm Anne-Laure Le Cunff, the founder of Ness Labs. You're receiving this email because you signed up to Maker Mind, a weekly newsletter about mindful productivity.]]></description>
-			<link>https://getmatter.app/email/3563469/?token=3563469%3AQ0OGg0uSPxRTYb0RGXUBshUacZY</link>
-			<guid isPermaLink="false">4_1986987</guid>
-			<pubDate>Sat, 12 Feb 2022 12:00:00 -0500</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/10/0ebad1a4f6eea277896b052118dba0e7.mp3" length="1364445" type="audio/mpeg"/>
-			<content:encoded><![CDATA[Maker Mind Make the most of your mind Hi there! I'm Anne-Laure Le Cunff, the founder of Ness Labs. You're receiving this email because you signed up to Maker Mind, a weekly newsletter about mindful productivity.]]></content:encoded>
+			<title><![CDATA[Why some teams boost motivation while others totally sap it]]></title>
+			<description><![CDATA[Individual motivation within teams is among the oldest research topics in psychology, but there is still a lot to learn about how to design teamwork in a way that improves motivation.]]></description>
+			<link>https://psyche.co/ideas/why-some-teams-boost-motivation-while-others-totally-sap-it</link>
+			<guid isPermaLink="false">4_2126796</guid>
+			<pubDate>Thu, 24 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/23/0aca1f93e29bbf2986fea09cbb32def4.mp3" length="2936493" type="audio/mpeg"/>
+			<content:encoded><![CDATA[Individual motivation within teams is among the oldest research topics in psychology, but there is still a lot to learn about how to design teamwork in a way that improves motivation.]]></content:encoded>
 			<itunes:author>Matter</itunes:author>
 			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>Maker Mind Make the most of your mind Hi there! I'm Anne-Laure Le Cunff, the founder of Ness Labs. You're receiving this email because you signed up to Maker Mind, a weekly newsletter about mindful productivity.</itunes:summary>
+			<itunes:summary>Individual motivation within teams is among the oldest research topics in psychology, but there is still a lot to learn about how to design teamwork in a way that improves motivation.</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:03:47</itunes:duration>
-			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
-			<itunes:season>1</itunes:season>
-			<itunes:episode>26</itunes:episode>
-			<itunes:episodeType>full</itunes:episodeType>
-		</item>
-<item>
-			<title><![CDATA[Lovemaking for longevity: a recipe from Tokyo’s imperial archives]]></title>
-			<description><![CDATA[That left another hallmark of ageing – erosion of telomeres, the tips that protect the ends of chromosomes from damage. Might telomeres themselves somehow be protected by the ‘lovemaking for longevity’ recipe?]]></description>
-			<link>https://aeon.co/essays/lovemaking-for-longevity-a-recipe-from-tokyos-imperial-archives</link>
-			<guid isPermaLink="false">4_1996376</guid>
-			<pubDate>Sat, 12 Feb 2022 12:00:00 -0500</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/11/9de2279a28a56d8ee892a5e3e09e077d.mp3" length="6367725" type="audio/mpeg"/>
-			<content:encoded><![CDATA[That left another hallmark of ageing – erosion of telomeres, the tips that protect the ends of chromosomes from damage. Might telomeres themselves somehow be protected by the ‘lovemaking for longevity’ recipe?]]></content:encoded>
-			<itunes:author>Matter</itunes:author>
-			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>That left another hallmark of ageing – erosion of telomeres, the tips that protect the ends of chromosomes from damage. Might telomeres themselves somehow be protected by the ‘lovemaking for longevity’ recipe?</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:17:41</itunes:duration>
-			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
-			<itunes:season>1</itunes:season>
-			<itunes:episode>25</itunes:episode>
-			<itunes:episodeType>full</itunes:episodeType>
-		</item>
-<item>
-			<title><![CDATA[Creating your own Obsidian iOS Widget]]></title>
-			<description><![CDATA[Now we move onto to the fun part, creating widgets on our iOS device. Creating Your First Widget Let us now place the Obsidian iOS widget on the screen.]]></description>
-			<link>https://tfthacker.medium.com/creating-your-own-obsidian-ios-widget-b2320268ab6f</link>
-			<guid isPermaLink="false">4_1835418</guid>
-			<pubDate>Sat, 12 Feb 2022 12:00:00 -0500</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2022/01/27/db2d1cc030aa489ec61a1e434f0592dd.mp3" length="3033837" type="audio/mpeg"/>
-			<content:encoded><![CDATA[Now we move onto to the fun part, creating widgets on our iOS device. Creating Your First Widget Let us now place the Obsidian iOS widget on the screen.]]></content:encoded>
-			<itunes:author>Matter</itunes:author>
-			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>Now we move onto to the fun part, creating widgets on our iOS device. Creating Your First Widget Let us now place the Obsidian iOS widget on the screen.</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:08:26</itunes:duration>
+			<itunes:duration>00:08:09</itunes:duration>
 			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>24</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 <item>
-			<title><![CDATA[How to know if you’re addicted]]></title>
-			<description><![CDATA[In the Learn More section below, we’ll cover some of the first steps toward change. Key points – How to know if you’re addicted It can be difficult to know if you have developed an addiction.]]></description>
-			<link>https://psyche.co/guides/how-to-know-if-youre-addicted-to-alcohol-or-drugs</link>
-			<guid isPermaLink="false">4_1977216</guid>
-			<pubDate>Sat, 12 Feb 2022 12:00:00 -0500</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/09/67be1966fd9b2cddf929468b00bf5cbc.mp3" length="8093565" type="audio/mpeg"/>
-			<content:encoded><![CDATA[In the Learn More section below, we’ll cover some of the first steps toward change. Key points – How to know if you’re addicted It can be difficult to know if you have developed an addiction.]]></content:encoded>
+			<title><![CDATA[The Fermi Paradox]]></title>
+			<description><![CDATA[And yet, we see nothing, hear nothing, and we’re visited by no one. So where is everybody? Welcome to the Fermi Paradox.]]></description>
+			<link>https://waitbutwhy.com/2014/05/fermi-paradox.html</link>
+			<guid isPermaLink="false">4_77818</guid>
+			<pubDate>Wed, 23 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2021/03/04/b5c48c4ac59f6c18ce9cb8650018c8b4.mp3" length="8840195" type="audio/mpeg"/>
+			<content:encoded><![CDATA[And yet, we see nothing, hear nothing, and we’re visited by no one. So where is everybody? Welcome to the Fermi Paradox.]]></content:encoded>
 			<itunes:author>Matter</itunes:author>
 			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>In the Learn More section below, we’ll cover some of the first steps toward change. Key points – How to know if you’re addicted It can be difficult to know if you have developed an addiction.</itunes:summary>
+			<itunes:summary>And yet, we see nothing, hear nothing, and we’re visited by no one. So where is everybody? Welcome to the Fermi Paradox.</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:22:29</itunes:duration>
+			<itunes:duration>00:24:33</itunes:duration>
 			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>23</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 <item>
-			<title><![CDATA['My hair's been falling out': Nurses hit with stress from Ottawa protests]]></title>
-			<description><![CDATA[I'm stressed coming back from work. It's been awful. My hair's been falling out," said Andrea Waddell, a nurse at The Ottawa Hospital who uses public transit to commute.]]></description>
-			<link>https://www.cbc.ca/news/canada/ottawa/ottawa-convoy-protest-nurse-impact-1.6345051</link>
-			<guid isPermaLink="false">4_1999184</guid>
-			<pubDate>Fri, 11 Feb 2022 12:00:00 -0500</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/11/4c865b17d60cd99ba0c02eb3554b981f.mp3" length="1222317" type="audio/mpeg"/>
-			<content:encoded><![CDATA[I'm stressed coming back from work. It's been awful. My hair's been falling out," said Andrea Waddell, a nurse at The Ottawa Hospital who uses public transit to commute.]]></content:encoded>
+			<title><![CDATA[The Fermi Paradox]]></title>
+			<description><![CDATA[Wait But Why5716 Corsa Ave Suite 110 Westlake Village, CA 91362-7354 Add us to your address book]]></description>
+			<link>https://getmatter.app/email/3873440/?token=3873440%3Anlmbm28-PYj0trkRmemzBBS5QlE</link>
+			<guid isPermaLink="false">4_2093098</guid>
+			<pubDate>Wed, 23 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/23/80db4f09ff94559ebad1e97f4dd0f963.mp3" length="281277" type="audio/mpeg"/>
+			<content:encoded><![CDATA[Wait But Why5716 Corsa Ave Suite 110 Westlake Village, CA 91362-7354 Add us to your address book]]></content:encoded>
 			<itunes:author>Matter</itunes:author>
 			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>I'm stressed coming back from work. It's been awful. My hair's been falling out," said Andrea Waddell, a nurse at The Ottawa Hospital who uses public transit to commute.</itunes:summary>
+			<itunes:summary>Wait But Why5716 Corsa Ave Suite 110 Westlake Village, CA 91362-7354 Add us to your address book</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:03:24</itunes:duration>
-			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
-			<itunes:season>1</itunes:season>
-			<itunes:episode>22</itunes:episode>
-			<itunes:episodeType>full</itunes:episodeType>
-		</item>
-<item>
-			<title><![CDATA[Ontario skipping third meeting with federal, Ottawa governments to discuss ongoing protests]]></title>
-			<description><![CDATA[Sources say Ontario has turned down three invitations to participate Ontario Premier Doug Ford's government does not think the trilateral talks can accomplish anything, said a source.]]></description>
-			<link>https://www.cbc.ca/news/politics/ford-trilateral-ottawa-border-protest-1.6346687</link>
-			<guid isPermaLink="false">4_1997649</guid>
-			<pubDate>Fri, 11 Feb 2022 12:00:00 -0500</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/11/0ee4698610ecec9d051ed26b5e1c3823.mp3" length="569421" type="audio/mpeg"/>
-			<content:encoded><![CDATA[Sources say Ontario has turned down three invitations to participate Ontario Premier Doug Ford's government does not think the trilateral talks can accomplish anything, said a source.]]></content:encoded>
-			<itunes:author>Matter</itunes:author>
-			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>Sources say Ontario has turned down three invitations to participate Ontario Premier Doug Ford's government does not think the trilateral talks can accomplish anything, said a source.</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:01:35</itunes:duration>
+			<itunes:duration>00:00:47</itunes:duration>
 			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>21</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 <item>
-			<title><![CDATA[Federal Conservatives call on anti-vaccine mandate protesters to go home]]></title>
-			<description><![CDATA[WATCH | Ottawa protesters employ new tactics: Police struggle as Ottawa protesters employ new tactics Ottawa police struggle to maintain control as protesters and their supporters employ new tactics and fortify a new supply camp.]]></description>
-			<link>https://www.cbc.ca/news/politics/conservatives-covid-19-restrictions-1.6346576</link>
-			<guid isPermaLink="false">4_1997643</guid>
-			<pubDate>Fri, 11 Feb 2022 12:00:00 -0500</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/11/fa39388f390e5e13880bb349146d2525.mp3" length="3389085" type="audio/mpeg"/>
-			<content:encoded><![CDATA[WATCH | Ottawa protesters employ new tactics: Police struggle as Ottawa protesters employ new tactics Ottawa police struggle to maintain control as protesters and their supporters employ new tactics and fortify a new supply camp.]]></content:encoded>
+			<title><![CDATA[Life is a Picture, But You Live in a Pixel]]></title>
+			<description><![CDATA[And his assumption that his future Todays would be as vibrant and rich as the broad picture of his life is misunderstanding the unremarkable nature of a pixel, no matter what one’s life looks like in broad strokes.]]></description>
+			<link>https://waitbutwhy.com/2013/11/life-is-picture-but-you-live-in-pixel.html</link>
+			<guid isPermaLink="false">4_213398</guid>
+			<pubDate>Wed, 23 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2021/03/29/cc91bd35cacafbd07310b5140b983ca2.mp3" length="1528365" type="audio/mpeg"/>
+			<content:encoded><![CDATA[And his assumption that his future Todays would be as vibrant and rich as the broad picture of his life is misunderstanding the unremarkable nature of a pixel, no matter what one’s life looks like in broad strokes.]]></content:encoded>
 			<itunes:author>Matter</itunes:author>
 			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>WATCH | Ottawa protesters employ new tactics: Police struggle as Ottawa protesters employ new tactics Ottawa police struggle to maintain control as protesters and their supporters employ new tactics and fortify a new supply camp.</itunes:summary>
+			<itunes:summary>And his assumption that his future Todays would be as vibrant and rich as the broad picture of his life is misunderstanding the unremarkable nature of a pixel, no matter what one’s life looks like in broad strokes.</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:09:25</itunes:duration>
+			<itunes:duration>00:04:15</itunes:duration>
 			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>20</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 <item>
-			<title><![CDATA[European scientists demonstrate fusion energy record]]></title>
-			<description><![CDATA[The 59 megajoules of sustained fusion energy produced were more than double the previous record achieved in 1997.]]></description>
-			<link>https://www.cbc.ca/news/science/fusion-record-1.6346299</link>
-			<guid isPermaLink="false">4_1997637</guid>
-			<pubDate>Sat, 12 Feb 2022 12:00:00 -0500</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/11/a8424fc866a566982bf89e6e17dd29da.mp3" length="1386045" type="audio/mpeg"/>
-			<content:encoded><![CDATA[The 59 megajoules of sustained fusion energy produced were more than double the previous record achieved in 1997.]]></content:encoded>
+			<title><![CDATA[How Does Understanding Work? A Look at the Construction-Integration Model of Comprehension]]></title>
+			<description><![CDATA[In this essay, I take a deeper look at Walter Kintsch’s Construction-Integration (CI) theory. This theory uses the process of understanding text as its starting point for a broader view of cognition.]]></description>
+			<link>https://www.scotthyoung.com/blog/2022/02/22/understanding-ci/</link>
+			<guid isPermaLink="false">4_2120893</guid>
+			<pubDate>Wed, 23 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/23/d58d2d2e09210d8ae3d1ad8a222fa023.mp3" length="5216445" type="audio/mpeg"/>
+			<content:encoded><![CDATA[In this essay, I take a deeper look at Walter Kintsch’s Construction-Integration (CI) theory. This theory uses the process of understanding text as its starting point for a broader view of cognition.]]></content:encoded>
 			<itunes:author>Matter</itunes:author>
 			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>The 59 megajoules of sustained fusion energy produced were more than double the previous record achieved in 1997.</itunes:summary>
+			<itunes:summary>In this essay, I take a deeper look at Walter Kintsch’s Construction-Integration (CI) theory. This theory uses the process of understanding text as its starting point for a broader view of cognition.</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:03:51</itunes:duration>
+			<itunes:duration>00:14:29</itunes:duration>
 			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>19</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 <item>
-			<title><![CDATA[Lifting restrictions could cause anxiety for many as unknowns persist, experts say]]></title>
-			<description><![CDATA[As provinces begin lifting COVID-19 pandemic restrictions, psychology experts expect stress and anxiety to run high among those who remain wary of letting their guards down.]]></description>
-			<link>https://www.cbc.ca/news/canada/edmonton/covid-reopening-anxiety-1.6346382</link>
-			<guid isPermaLink="false">4_1997631</guid>
-			<pubDate>Fri, 11 Feb 2022 12:00:00 -0500</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/11/772dd1c7761d5106bb591c88a6ed1217.mp3" length="1684125" type="audio/mpeg"/>
-			<content:encoded><![CDATA[As provinces begin lifting COVID-19 pandemic restrictions, psychology experts expect stress and anxiety to run high among those who remain wary of letting their guards down.]]></content:encoded>
+			<title><![CDATA[How I use Notion for my Personal Knowledge Management]]></title>
+			<description><![CDATA[I am also a huge Notion fan (I talked about how I track my habits in Notion a few weeks ago), so I am developing my PKM system inside of Notion.]]></description>
+			<link>https://thesweetsetup.com/how-chloe-uses-notion-for-personal-knowledge-management/</link>
+			<guid isPermaLink="false">4_2114435</guid>
+			<pubDate>Wed, 23 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/22/c24733895b0add13530e91ccbbd278d0.mp3" length="3760605" type="audio/mpeg"/>
+			<content:encoded><![CDATA[I am also a huge Notion fan (I talked about how I track my habits in Notion a few weeks ago), so I am developing my PKM system inside of Notion.]]></content:encoded>
 			<itunes:author>Matter</itunes:author>
 			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>As provinces begin lifting COVID-19 pandemic restrictions, psychology experts expect stress and anxiety to run high among those who remain wary of letting their guards down.</itunes:summary>
+			<itunes:summary>I am also a huge Notion fan (I talked about how I track my habits in Notion a few weeks ago), so I am developing my PKM system inside of Notion.</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:04:41</itunes:duration>
+			<itunes:duration>00:10:27</itunes:duration>
 			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>18</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 <item>
-			<title><![CDATA[Canada's COVID Alert app cost millions, but was it of any use?]]></title>
-			<description><![CDATA[Canada’s COVID Alert app cost millions, but was it of any use? Some experts say the app didn't help the fight against COVID The COVID Alert app was presented as the solution to slow the spread of the novel coronavirus when released in July 2020.]]></description>
-			<link>https://mobilesyrup.com/2022/02/10/the-covid-alert-app-cost-millions-was-it-of-any-use/</link>
-			<guid isPermaLink="false">4_1993301</guid>
-			<pubDate>Fri, 11 Feb 2022 12:00:00 -0500</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/11/f611dacd39603455edf04c13bbdc910f.mp3" length="481149" type="audio/mpeg"/>
-			<content:encoded><![CDATA[Canada’s COVID Alert app cost millions, but was it of any use? Some experts say the app didn't help the fight against COVID The COVID Alert app was presented as the solution to slow the spread of the novel coronavirus when released in July 2020.]]></content:encoded>
+			<title><![CDATA[Members of our species were in Western Europe around 54,000 years ago]]></title>
+			<description><![CDATA[Finding the first Homo sapiens in Europe People lived at Grotte Mandrin, a rock shelter in Southern France’s Rhone Valley, for tens of thousands of years. Until roughly 54,000 years ago, those people were Neanderthals.]]></description>
+			<link>https://arstechnica.com/science/2022/02/members-of-our-species-were-in-western-europe-around-54000-years-ago/</link>
+			<guid isPermaLink="false">4_2108788</guid>
+			<pubDate>Tue, 22 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/22/5382f6bb55454f371640a54104a4b6d2.mp3" length="2406285" type="audio/mpeg"/>
+			<content:encoded><![CDATA[Finding the first Homo sapiens in Europe People lived at Grotte Mandrin, a rock shelter in Southern France’s Rhone Valley, for tens of thousands of years. Until roughly 54,000 years ago, those people were Neanderthals.]]></content:encoded>
 			<itunes:author>Matter</itunes:author>
 			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>Canada’s COVID Alert app cost millions, but was it of any use? Some experts say the app didn't help the fight against COVID The COVID Alert app was presented as the solution to slow the spread of the novel coronavirus when released in July 2020.</itunes:summary>
+			<itunes:summary>Finding the first Homo sapiens in Europe People lived at Grotte Mandrin, a rock shelter in Southern France’s Rhone Valley, for tens of thousands of years. Until roughly 54,000 years ago, those people were Neanderthals.</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:01:20</itunes:duration>
-			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
-			<itunes:season>1</itunes:season>
-			<itunes:episode>17</itunes:episode>
-			<itunes:episodeType>full</itunes:episodeType>
-		</item>
-<item>
-			<title><![CDATA[Take Control of Your Matter Queue with MatterBot]]></title>
-			<description><![CDATA[MatterBot is based on the same authentication technique, so it’s important you connect your Matter account to the Obsidian plugin first. You can even ignore Obsidian after that; all we need is the authentication token from Matter. MatterBot on iPhone.]]></description>
-			<link>https://club.macstories.net/posts/take-control-of-your-matter-queue-with-matterbot</link>
-			<guid isPermaLink="false">4_1841671</guid>
-			<pubDate>Fri, 11 Feb 2022 12:00:00 -0500</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2022/01/28/61b2cbe7901d374e87a845dc196da670.mp3" length="568989" type="audio/mpeg"/>
-			<content:encoded><![CDATA[MatterBot is based on the same authentication technique, so it’s important you connect your Matter account to the Obsidian plugin first. You can even ignore Obsidian after that; all we need is the authentication token from Matter. MatterBot on iPhone.]]></content:encoded>
-			<itunes:author>Matter</itunes:author>
-			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>MatterBot is based on the same authentication technique, so it’s important you connect your Matter account to the Obsidian plugin first. You can even ignore Obsidian after that; all we need is the authentication token from Matter. MatterBot on iPhone.</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:01:35</itunes:duration>
+			<itunes:duration>00:06:41</itunes:duration>
 			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>16</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 <item>
-			<title><![CDATA[Reverse-Engineering the Matter API and My Save to Matter Shortcut]]></title>
-			<description><![CDATA[Save to Matter Save URLs directly to your Matter queue using the Matter API. The shortcut supports saving multiple URLs at once. A Matter API authorization token is required for this shortcut to work. Get the shortcut here.]]></description>
-			<link>https://www.macstories.net/stories/macstories-starter-pack-reverse-engineering-the-matter-api-and-my-save-to-matter-shortcut/</link>
-			<guid isPermaLink="false">4_1833230</guid>
-			<pubDate>Fri, 11 Feb 2022 12:00:00 -0500</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2022/01/27/d6c73dd1a6ebf31c75d226100c8592e3.mp3" length="3238317" type="audio/mpeg"/>
-			<content:encoded><![CDATA[Save to Matter Save URLs directly to your Matter queue using the Matter API. The shortcut supports saving multiple URLs at once. A Matter API authorization token is required for this shortcut to work. Get the shortcut here.]]></content:encoded>
+			<title><![CDATA[James Webb Might be Able to Detect Other Civilizations by their Air Pollution]]></title>
+			<description><![CDATA[The James Webb Space Telescope (JWST), launched last December, has been slowly powering up its instruments and unfurling its sunshield, and is now in the process of aligning its mirrors in preparation for operation.]]></description>
+			<link>https://www.universetoday.com/154609/james-webb-might-be-able-to-detect-other-civilizations-by-their-air-pollution/</link>
+			<guid isPermaLink="false">4_2102284</guid>
+			<pubDate>Mon, 21 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/21/0225ea2f989e0d2b936a310afcd0f229.mp3" length="1663389" type="audio/mpeg"/>
+			<content:encoded><![CDATA[The James Webb Space Telescope (JWST), launched last December, has been slowly powering up its instruments and unfurling its sunshield, and is now in the process of aligning its mirrors in preparation for operation.]]></content:encoded>
 			<itunes:author>Matter</itunes:author>
 			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>Save to Matter Save URLs directly to your Matter queue using the Matter API. The shortcut supports saving multiple URLs at once. A Matter API authorization token is required for this shortcut to work. Get the shortcut here.</itunes:summary>
+			<itunes:summary>The James Webb Space Telescope (JWST), launched last December, has been slowly powering up its instruments and unfurling its sunshield, and is now in the process of aligning its mirrors in preparation for operation.</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:09:00</itunes:duration>
+			<itunes:duration>00:04:37</itunes:duration>
 			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>15</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 <item>
-			<title><![CDATA[TickTick Calendar Quickstart: 4 Steps to Complete Time Blocking]]></title>
-			<description><![CDATA[Planning helps in actual doing. With TickTick Calendar, you can always plan out your day and time block your tasks in advance (Learn more on Time Blocking).]]></description>
-			<link>https://blog.ticktick.com/2020/11/30/ticktick-calendar-quickstart/</link>
-			<guid isPermaLink="false">4_379284</guid>
-			<pubDate>Thu, 10 Feb 2022 12:00:00 -0500</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2021/07/31/c3ce47dcca06618f4dd5aea160adcbeb.mp3" length="1049325" type="audio/mpeg"/>
-			<content:encoded><![CDATA[Planning helps in actual doing. With TickTick Calendar, you can always plan out your day and time block your tasks in advance (Learn more on Time Blocking).]]></content:encoded>
+			<title><![CDATA[Atomic Clocks Separated by Just a few Centimetres Measure Different Rates of Time. Just as Einstein Predicted]]></title>
+			<description><![CDATA[Time dilation itself is a well-established concept. This isn’t even the first time NIST engineers have proven it using atomic clocks. Conceptually time dilation means gravity itself slows down time.]]></description>
+			<link>https://www.universetoday.com/154615/atomic-clocks-separated-by-just-a-few-centimetres-measure-different-rates-of-time-just-as-einstein-predicted/</link>
+			<guid isPermaLink="false">4_2102282</guid>
+			<pubDate>Mon, 21 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/21/99595038c749c6e0556a7df5137b8954.mp3" length="1437741" type="audio/mpeg"/>
+			<content:encoded><![CDATA[Time dilation itself is a well-established concept. This isn’t even the first time NIST engineers have proven it using atomic clocks. Conceptually time dilation means gravity itself slows down time.]]></content:encoded>
 			<itunes:author>Matter</itunes:author>
 			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>Planning helps in actual doing. With TickTick Calendar, you can always plan out your day and time block your tasks in advance (Learn more on Time Blocking).</itunes:summary>
+			<itunes:summary>Time dilation itself is a well-established concept. This isn’t even the first time NIST engineers have proven it using atomic clocks. Conceptually time dilation means gravity itself slows down time.</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:02:55</itunes:duration>
+			<itunes:duration>00:04:00</itunes:duration>
 			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>14</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 <item>
-			<title><![CDATA[SMART Goals Framework: How It Helps Us with Goal-Reaching]]></title>
-			<description><![CDATA[That is the SMART Goals. The Definition of SMART Goals You may have heard of it multiple times but are still confused with the interchangeably used definitions.]]></description>
-			<link>https://blog.ticktick.com/2021/02/25/how-smart-goals-can-help-reach-a-goal/</link>
-			<guid isPermaLink="false">4_1579424</guid>
-			<pubDate>Thu, 10 Feb 2022 12:00:00 -0500</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/10/0f07cfded07ef5311b41419d407e2f23.mp3" length="2445309" type="audio/mpeg"/>
-			<content:encoded><![CDATA[That is the SMART Goals. The Definition of SMART Goals You may have heard of it multiple times but are still confused with the interchangeably used definitions.]]></content:encoded>
+			<title><![CDATA[MacStories Weekly: Issue 308]]></title>
+			<description><![CDATA[WEEKLY ARCHIVE Previous emails that were sent to Club MacStories members. To view this issue of MacStories Weekly in your browser, click here. Thanks for your support, we'll see you next week!]]></description>
+			<link>https://club.macstories.net/posts/macstories-weekly-issue-308</link>
+			<guid isPermaLink="false">4_2077487</guid>
+			<pubDate>Sat, 19 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/18/6f9e3bcfd56e752197d3a9cc07567ac2.mp3" length="8614989" type="audio/mpeg"/>
+			<content:encoded><![CDATA[WEEKLY ARCHIVE Previous emails that were sent to Club MacStories members. To view this issue of MacStories Weekly in your browser, click here. Thanks for your support, we'll see you next week!]]></content:encoded>
 			<itunes:author>Matter</itunes:author>
 			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>That is the SMART Goals. The Definition of SMART Goals You may have heard of it multiple times but are still confused with the interchangeably used definitions.</itunes:summary>
+			<itunes:summary>WEEKLY ARCHIVE Previous emails that were sent to Club MacStories members. To view this issue of MacStories Weekly in your browser, click here. Thanks for your support, we'll see you next week!</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:06:48</itunes:duration>
+			<itunes:duration>00:23:56</itunes:duration>
 			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>13</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 <item>
-			<title><![CDATA[The 4Ds Framework: How Task Nesting Helps You with GTD]]></title>
-			<description><![CDATA[What is Task Nesting? Commonly used in Computer Science and Informatics, Nesting usually means where information is organized in layers and locked up with hierarchy. Following the same concept, Task Nesting here simply means task hierarchy.]]></description>
-			<link>https://blog.ticktick.com/2020/08/10/how-task-nesting-helps-you-with-gtd/</link>
-			<guid isPermaLink="false">4_1672612</guid>
-			<pubDate>Thu, 10 Feb 2022 12:00:00 -0500</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2022/01/14/9bbbba6764444e018f79cc90c43d7d6d.mp3" length="1483821" type="audio/mpeg"/>
-			<content:encoded><![CDATA[What is Task Nesting? Commonly used in Computer Science and Informatics, Nesting usually means where information is organized in layers and locked up with hierarchy. Following the same concept, Task Nesting here simply means task hierarchy.]]></content:encoded>
+			<title><![CDATA[James McLeod: The Ottawa protest is an online subculture flexing in the physical world]]></title>
+			<description><![CDATA[What we are seeing in Ottawa is what happens when an online subculture flexes its muscles and starts exerting pressure in the physical world.]]></description>
+			<link>https://theline.substack.com/p/james-mcleod-the-ottawa-protest-is?utm_source=url</link>
+			<guid isPermaLink="false">4_2078938</guid>
+			<pubDate>Sat, 19 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/18/07d435ced50c3dce24de931cd543dce8.mp3" length="1757853" type="audio/mpeg"/>
+			<content:encoded><![CDATA[What we are seeing in Ottawa is what happens when an online subculture flexes its muscles and starts exerting pressure in the physical world.]]></content:encoded>
 			<itunes:author>Matter</itunes:author>
 			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>What is Task Nesting? Commonly used in Computer Science and Informatics, Nesting usually means where information is organized in layers and locked up with hierarchy. Following the same concept, Task Nesting here simply means task hierarchy.</itunes:summary>
+			<itunes:summary>What we are seeing in Ottawa is what happens when an online subculture flexes its muscles and starts exerting pressure in the physical world.</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:04:07</itunes:duration>
-			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
-			<itunes:season>1</itunes:season>
-			<itunes:episode>12</itunes:episode>
-			<itunes:episodeType>full</itunes:episodeType>
-		</item>
-<item>
-			<title><![CDATA["Multitasking Isn't Progress—It's What Wild Animals Do for Survival"]]></title>
-			<description><![CDATA[You aren’t required to accept blindly the dominant values of your society. Even if you work inside the system, you don’t have to let the system work inside of you.]]></description>
-			<link>https://tedgioia.substack.com/p/multitasking-isnt-progressits-what</link>
-			<guid isPermaLink="false">4_1801152</guid>
-			<pubDate>Thu, 10 Feb 2022 12:00:00 -0500</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2022/01/24/a3e26ccb303a324bf9825be67a6a8979.mp3" length="4662333" type="audio/mpeg"/>
-			<content:encoded><![CDATA[You aren’t required to accept blindly the dominant values of your society. Even if you work inside the system, you don’t have to let the system work inside of you.]]></content:encoded>
-			<itunes:author>Matter</itunes:author>
-			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>You aren’t required to accept blindly the dominant values of your society. Even if you work inside the system, you don’t have to let the system work inside of you.</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:12:57</itunes:duration>
-			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
-			<itunes:season>1</itunes:season>
-			<itunes:episode>11</itunes:episode>
-			<itunes:episodeType>full</itunes:episodeType>
-		</item>
-<item>
-			<title><![CDATA[How Daily Record-Keeping Changed My Life]]></title>
-			<description><![CDATA[The mark you make in your journal is more important than whatever comes of the daily task whose completion you’re recording. The first represents actual living; the second merely a life.]]></description>
-			<link>https://www.outlookindia.com/art-entertainment/how-daily-record-keeping-changed-my-life-news-50187</link>
-			<guid isPermaLink="false">4_1854103</guid>
-			<pubDate>Thu, 10 Feb 2022 12:00:00 -0500</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2022/01/30/c9f1d4a8ecb06e24a767bf82a2a57f2c.mp3" length="1876653" type="audio/mpeg"/>
-			<content:encoded><![CDATA[The mark you make in your journal is more important than whatever comes of the daily task whose completion you’re recording. The first represents actual living; the second merely a life.]]></content:encoded>
-			<itunes:author>Matter</itunes:author>
-			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>The mark you make in your journal is more important than whatever comes of the daily task whose completion you’re recording. The first represents actual living; the second merely a life.</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:05:13</itunes:duration>
+			<itunes:duration>00:04:53</itunes:duration>
 			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>10</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 <item>
-			<title><![CDATA[How to Make the Internet Small Again]]></title>
-			<description><![CDATA[If I find a way to make the internet small again, I’ll write a book about it so others can do it too. What does “three days off the internet” mean exactly?]]></description>
-			<link>https://www.raptitude.com/2022/02/how-to-make-the-internet-small-again/</link>
-			<guid isPermaLink="false">4_1886506</guid>
-			<pubDate>Sat, 05 Feb 2022 12:00:00 -0500</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/03/8f2483ed679aaf6a876b045ba57edc1c.mp3" length="2696445" type="audio/mpeg"/>
-			<content:encoded><![CDATA[If I find a way to make the internet small again, I’ll write a book about it so others can do it too. What does “three days off the internet” mean exactly?]]></content:encoded>
+			<title><![CDATA[Anti-restriction protests making life miserable, downtown Edmonton residents say]]></title>
+			<description><![CDATA[Downtown Edmonton residents are bracing for yet another weekend of snarled traffic, blaring horns and what they say are at times frightening confrontations with anti-restriction protesters. "We don't feel safe.]]></description>
+			<link>https://www.cbc.ca/news/canada/edmonton/anti-restriction-protests-making-life-miserable-says-downtown-residents-1.6356230</link>
+			<guid isPermaLink="false">4_2081072</guid>
+			<pubDate>Fri, 18 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/18/529a2450a4fe8333f454ce08d391c9f0.mp3" length="1662957" type="audio/mpeg"/>
+			<content:encoded><![CDATA[Downtown Edmonton residents are bracing for yet another weekend of snarled traffic, blaring horns and what they say are at times frightening confrontations with anti-restriction protesters. "We don't feel safe.]]></content:encoded>
 			<itunes:author>Matter</itunes:author>
 			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>If I find a way to make the internet small again, I’ll write a book about it so others can do it too. What does “three days off the internet” mean exactly?</itunes:summary>
+			<itunes:summary>Downtown Edmonton residents are bracing for yet another weekend of snarled traffic, blaring horns and what they say are at times frightening confrontations with anti-restriction protesters. "We don't feel safe.</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:07:29</itunes:duration>
+			<itunes:duration>00:04:37</itunes:duration>
 			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>9</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 <item>
-			<title><![CDATA[I feel guilty for checking my mother into long-term care against her will]]></title>
-			<description><![CDATA[Now that my mom is in her and our first choice long-term care facility, I feel a strong sense of relief because she is getting the 24/7 care she requires.]]></description>
-			<link>https://www.cbc.ca/news/canada/calgary/first-person-karen-wilson-caregiving-alzheimers-involuntary-1.6314336</link>
-			<guid isPermaLink="false">4_1882300</guid>
-			<pubDate>Wed, 02 Feb 2022 12:00:00 -0500</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/02/c97d1663f4e27a328cfdbd433ba8cc26.mp3" length="1439757" type="audio/mpeg"/>
-			<content:encoded><![CDATA[Now that my mom is in her and our first choice long-term care facility, I feel a strong sense of relief because she is getting the 24/7 care she requires.]]></content:encoded>
+			<title><![CDATA[The Convoy is Dividing a Rural Community Being Used as a Staging Ground for the Illegal Siege of Ottawa]]></title>
+			<description><![CDATA[Russell Township, a community 30 minutes outside of downtown Ottawa, proudly calls itself the “third best place to live in Canada” – a high honour given its population is only 16,500 people.]]></description>
+			<link>https://pressprogress.ca/the-convoy-is-dividing-a-rural-community-being-used-as-a-staging-ground-for-the-illegal-siege-of-ottawa/</link>
+			<guid isPermaLink="false">4_2070929</guid>
+			<pubDate>Fri, 18 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/18/79acb82e7bc1b71623e5cf7a5b38c765.mp3" length="3251565" type="audio/mpeg"/>
+			<content:encoded><![CDATA[Russell Township, a community 30 minutes outside of downtown Ottawa, proudly calls itself the “third best place to live in Canada” – a high honour given its population is only 16,500 people.]]></content:encoded>
 			<itunes:author>Matter</itunes:author>
 			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>Now that my mom is in her and our first choice long-term care facility, I feel a strong sense of relief because she is getting the 24/7 care she requires.</itunes:summary>
+			<itunes:summary>Russell Township, a community 30 minutes outside of downtown Ottawa, proudly calls itself the “third best place to live in Canada” – a high honour given its population is only 16,500 people.</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:04:00</itunes:duration>
+			<itunes:duration>00:09:02</itunes:duration>
 			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>8</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 <item>
-			<title><![CDATA[The Art of Reading More Effectively and Efficiently]]></title>
-			<description><![CDATA[All because we're never taught the ultimate meta-skill: the art of reading. Reading more effectively and efficiently means developing a watertight process to capture ideas, analyse arguments, and ask the right questions.]]></description>
-			<link>https://aliabdaal.com/read-more-effectively/</link>
-			<guid isPermaLink="false">4_171551</guid>
-			<pubDate>Wed, 02 Feb 2022 12:00:00 -0500</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2021/03/01/5bf57f5ded8fb6a1041d6dbeb38018fc.mp3" length="7325981" type="audio/mpeg"/>
-			<content:encoded><![CDATA[All because we're never taught the ultimate meta-skill: the art of reading. Reading more effectively and efficiently means developing a watertight process to capture ideas, analyse arguments, and ask the right questions.]]></content:encoded>
+			<title><![CDATA[The Gods Only Have Power Because We Believe In Them]]></title>
+			<description><![CDATA[The gods only have power when people doubt them.” “Then why have they revealed themselves to us?” “Those gods you know of are the weakest of gods, those who let their lust for praise and adoration overcome their good sense.]]></description>
+			<link>https://astralcodexten.substack.com/p/the-gods-only-have-power-because</link>
+			<guid isPermaLink="false">4_2068046</guid>
+			<pubDate>Fri, 18 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/17/303067fed29b75cdedba0bcdee6f93dc.mp3" length="3169917" type="audio/mpeg"/>
+			<content:encoded><![CDATA[The gods only have power when people doubt them.” “Then why have they revealed themselves to us?” “Those gods you know of are the weakest of gods, those who let their lust for praise and adoration overcome their good sense.]]></content:encoded>
 			<itunes:author>Matter</itunes:author>
 			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>All because we're never taught the ultimate meta-skill: the art of reading. Reading more effectively and efficiently means developing a watertight process to capture ideas, analyse arguments, and ask the right questions.</itunes:summary>
+			<itunes:summary>The gods only have power when people doubt them.” “Then why have they revealed themselves to us?” “Those gods you know of are the weakest of gods, those who let their lust for praise and adoration overcome their good sense.</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:20:21</itunes:duration>
+			<itunes:duration>00:08:48</itunes:duration>
 			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>7</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 <item>
-			<title><![CDATA[The Ultimate Guide to Productivity]]></title>
-			<description><![CDATA[On this page My Free, In-Depth Productivity Class The best way to learn about my theories about productivity is to take my Productivity Masterclass on Skillshare.]]></description>
-			<link>https://aliabdaal.com/productivity/</link>
-			<guid isPermaLink="false">4_286032</guid>
-			<pubDate>Wed, 02 Feb 2022 12:00:00 -0500</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2021/06/01/b5cf7860cf5aea9fcccddd6b004b5339.mp3" length="378957" type="audio/mpeg"/>
-			<content:encoded><![CDATA[On this page My Free, In-Depth Productivity Class The best way to learn about my theories about productivity is to take my Productivity Masterclass on Skillshare.]]></content:encoded>
+			<title><![CDATA[Why we shouldn’t push a positive mindset on those in poverty]]></title>
+			<description><![CDATA[Yet such efforts have been largely unsuccessful at reducing poverty and unemployment, and have been derided both by the people they were designed to help and by those advocating on their behalf.]]></description>
+			<link>https://psyche.co/ideas/why-we-shouldnt-push-a-positive-mindset-on-those-in-poverty</link>
+			<guid isPermaLink="false">4_2050417</guid>
+			<pubDate>Thu, 17 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/16/47c3f5e4ffaaa14759025f24e3aa1e80.mp3" length="4539357" type="audio/mpeg"/>
+			<content:encoded><![CDATA[Yet such efforts have been largely unsuccessful at reducing poverty and unemployment, and have been derided both by the people they were designed to help and by those advocating on their behalf.]]></content:encoded>
 			<itunes:author>Matter</itunes:author>
 			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>On this page My Free, In-Depth Productivity Class The best way to learn about my theories about productivity is to take my Productivity Masterclass on Skillshare.</itunes:summary>
+			<itunes:summary>Yet such efforts have been largely unsuccessful at reducing poverty and unemployment, and have been derided both by the people they were designed to help and by those advocating on their behalf.</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:01:03</itunes:duration>
+			<itunes:duration>00:12:37</itunes:duration>
 			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>6</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 <item>
-			<title><![CDATA[MacStories Starter Pack: Introducing Obsidian Shortcut Launcher, A Free Plugin to Trigger Shortcuts from Obsidian]]></title>
-			<description><![CDATA[Installing Obsidian Shortcut Launcher You can find the plugin in Obsidian’s Community Plugins section. Just search for ‘Obsidian Shortcut Launcher’, install it, then enable the plugin to start using it in Obsidian.]]></description>
-			<link>https://www.macstories.net/stories/obsidian-shortcut-launcher/</link>
-			<guid isPermaLink="false">4_1824108</guid>
-			<pubDate>Mon, 31 Jan 2022 12:00:00 -0500</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2022/01/26/4579b041e7d96a2cbaf97cb81926e80f.mp3" length="3319965" type="audio/mpeg"/>
-			<content:encoded><![CDATA[Installing Obsidian Shortcut Launcher You can find the plugin in Obsidian’s Community Plugins section. Just search for ‘Obsidian Shortcut Launcher’, install it, then enable the plugin to start using it in Obsidian.]]></content:encoded>
+			<title><![CDATA[Blueprint of a highly functional Feedly for Threat Intelligence Account]]></title>
+			<description><![CDATA[Try Feedly for Threat Intelligence All of these features, plus many more, are available as a part of Feedly for Threat Intelligence. To learn more about any of these features, or start a free 30-day trial, click the link below.]]></description>
+			<link>https://blog.feedly.com/blueprint-of-a-highly-functional-feedly-for-threat-intelligence-account/</link>
+			<guid isPermaLink="false">4_2068010</guid>
+			<pubDate>Thu, 17 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/17/699a7e74b56a5943bb4c8fe1f4381486.mp3" length="2191437" type="audio/mpeg"/>
+			<content:encoded><![CDATA[Try Feedly for Threat Intelligence All of these features, plus many more, are available as a part of Feedly for Threat Intelligence. To learn more about any of these features, or start a free 30-day trial, click the link below.]]></content:encoded>
 			<itunes:author>Matter</itunes:author>
 			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>Installing Obsidian Shortcut Launcher You can find the plugin in Obsidian’s Community Plugins section. Just search for ‘Obsidian Shortcut Launcher’, install it, then enable the plugin to start using it in Obsidian.</itunes:summary>
+			<itunes:summary>Try Feedly for Threat Intelligence All of these features, plus many more, are available as a part of Feedly for Threat Intelligence. To learn more about any of these features, or start a free 30-day trial, click the link below.</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:09:13</itunes:duration>
-			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
-			<itunes:season>1</itunes:season>
-			<itunes:episode>5</itunes:episode>
-			<itunes:episodeType>full</itunes:episodeType>
-		</item>
-<item>
-			<title><![CDATA[Particulate pollution is killing older Americans, even at legal levels]]></title>
-			<description><![CDATA[Exhaust from fossil fuel vehicles is a significant contributor to PM2.5 pollution in the US. At the outset of the pandemic, when lockdowns were widespread, a remarkable phenomenon occurred.]]></description>
-			<link>https://arstechnica.com/tech-policy/2022/01/particulate-pollution-is-killing-older-americans-even-at-legal-levels/</link>
-			<guid isPermaLink="false">4_1834492</guid>
-			<pubDate>Thu, 27 Jan 2022 12:00:00 -0500</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2022/01/27/c2893efe671996e9db3b294b11c3e14d.mp3" length="1764333" type="audio/mpeg"/>
-			<content:encoded><![CDATA[Exhaust from fossil fuel vehicles is a significant contributor to PM2.5 pollution in the US. At the outset of the pandemic, when lockdowns were widespread, a remarkable phenomenon occurred.]]></content:encoded>
-			<itunes:author>Matter</itunes:author>
-			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>Exhaust from fossil fuel vehicles is a significant contributor to PM2.5 pollution in the US. At the outset of the pandemic, when lockdowns were widespread, a remarkable phenomenon occurred.</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:04:54</itunes:duration>
+			<itunes:duration>00:06:05</itunes:duration>
 			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>4</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 <item>
-			<title><![CDATA[COVID-19: endemic doesn’t mean harmless]]></title>
-			<description><![CDATA[It doesn’t mean that COVID-19 will come to a natural end. To an epidemiologist, an endemic infection is one in which overall rates are static — not rising, not falling.]]></description>
-			<link>https://www.nature.com/articles/d41586-022-00155-x</link>
-			<guid isPermaLink="false">4_1804580</guid>
-			<pubDate>Sun, 06 Feb 2022 12:00:00 -0500</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2022/01/25/5d7ef8aada131ffd70048352d494894b.mp3" length="1775277" type="audio/mpeg"/>
-			<content:encoded><![CDATA[It doesn’t mean that COVID-19 will come to a natural end. To an epidemiologist, an endemic infection is one in which overall rates are static — not rising, not falling.]]></content:encoded>
+			<title><![CDATA[Home Renovation Budget Template (Plus a Printable!)]]></title>
+			<description><![CDATA[Try YNAB free for 34 days and create your own powerful home renovation budget template. Start Your Project Budget Prefer pen and paper? Download our free printable and follow the method laid out above for more peaceful finances during renovation.]]></description>
+			<link>https://www.youneedabudget.com/home-renovation-budget-template-free-printable/</link>
+			<guid isPermaLink="false">4_2067995</guid>
+			<pubDate>Thu, 17 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/17/55eed05e77b828795eb559f9cc77b06f.mp3" length="3238317" type="audio/mpeg"/>
+			<content:encoded><![CDATA[Try YNAB free for 34 days and create your own powerful home renovation budget template. Start Your Project Budget Prefer pen and paper? Download our free printable and follow the method laid out above for more peaceful finances during renovation.]]></content:encoded>
 			<itunes:author>Matter</itunes:author>
 			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>It doesn’t mean that COVID-19 will come to a natural end. To an epidemiologist, an endemic infection is one in which overall rates are static — not rising, not falling.</itunes:summary>
+			<itunes:summary>Try YNAB free for 34 days and create your own powerful home renovation budget template. Start Your Project Budget Prefer pen and paper? Download our free printable and follow the method laid out above for more peaceful finances during renovation.</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:04:56</itunes:duration>
+			<itunes:duration>00:09:00</itunes:duration>
 			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>3</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 <item>
-			<title><![CDATA[A Grand Unified Theory of Buying Stuff]]></title>
-			<description><![CDATA[To stop this from happening again, I have come up with a personal Theory of Stuffness, a way to structure and understand my local stuff ecosystem, especially the digital stuff.]]></description>
-			<link>https://www.wired.com/story/a-grand-unified-theory-of-buying-stuff/</link>
-			<guid isPermaLink="false">4_1626404</guid>
-			<pubDate>Fri, 14 Jan 2022 12:00:00 -0500</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2022/01/11/cd3a58d45970934984aef26362629354.mp3" length="2129661" type="audio/mpeg"/>
-			<content:encoded><![CDATA[To stop this from happening again, I have come up with a personal Theory of Stuffness, a way to structure and understand my local stuff ecosystem, especially the digital stuff.]]></content:encoded>
+			<title><![CDATA[Nurturing thoughtful relationships with the co-founders of Clay]]></title>
+			<description><![CDATA[Even though relationships are more important than ever, we are using tools which are not specifically designed to nurture relationships in the current ecosystem where relationships live.]]></description>
+			<link>https://nesslabs.com/clay-featured-tool</link>
+			<guid isPermaLink="false">4_2063822</guid>
+			<pubDate>Thu, 17 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/17/080961393118cf7fd6a70d9183bac76a.mp3" length="6392205" type="audio/mpeg"/>
+			<content:encoded><![CDATA[Even though relationships are more important than ever, we are using tools which are not specifically designed to nurture relationships in the current ecosystem where relationships live.]]></content:encoded>
 			<itunes:author>Matter</itunes:author>
 			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>To stop this from happening again, I have come up with a personal Theory of Stuffness, a way to structure and understand my local stuff ecosystem, especially the digital stuff.</itunes:summary>
+			<itunes:summary>Even though relationships are more important than ever, we are using tools which are not specifically designed to nurture relationships in the current ecosystem where relationships live.</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:05:55</itunes:duration>
+			<itunes:duration>00:17:45</itunes:duration>
 			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>2</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 <item>
-			<title><![CDATA[How to make a difficult decision]]></title>
-			<description><![CDATA[It’s not just the high stakes that can make decisions difficult: sometimes the reasons lie in your past. Avoiding a decision is in fact a decision.]]></description>
-			<link>https://psyche.co/guides/how-to-make-a-tough-decision-break-it-down-and-listen-to-your-gut</link>
-			<guid isPermaLink="false">4_1535351</guid>
-			<pubDate>Sun, 09 Jan 2022 12:00:00 -0500</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2022/01/05/916ec0917ac724e0b385d06c033d1e88.mp3" length="8294013" type="audio/mpeg"/>
-			<content:encoded><![CDATA[It’s not just the high stakes that can make decisions difficult: sometimes the reasons lie in your past. Avoiding a decision is in fact a decision.]]></content:encoded>
+			<title><![CDATA[The regrettable death of the Slatepitch]]></title>
+			<description><![CDATA[At its worst, Slate seemed to be deliberately stretching to come up with indefensible ideas. But everyone understood what made a pitch a Slatepitch. That’s something Slate has sort of lost.]]></description>
+			<link>https://www.slowboring.com/p/slatepitch</link>
+			<guid isPermaLink="false">4_2061204</guid>
+			<pubDate>Thu, 17 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/17/14f58716afd171a2876410b317e3437f.mp3" length="4590189" type="audio/mpeg"/>
+			<content:encoded><![CDATA[At its worst, Slate seemed to be deliberately stretching to come up with indefensible ideas. But everyone understood what made a pitch a Slatepitch. That’s something Slate has sort of lost.]]></content:encoded>
 			<itunes:author>Matter</itunes:author>
 			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>It’s not just the high stakes that can make decisions difficult: sometimes the reasons lie in your past. Avoiding a decision is in fact a decision.</itunes:summary>
+			<itunes:summary>At its worst, Slate seemed to be deliberately stretching to come up with indefensible ideas. But everyone understood what made a pitch a Slatepitch. That’s something Slate has sort of lost.</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:23:02</itunes:duration>
+			<itunes:duration>00:12:45</itunes:duration>
 			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>1</itunes:episode>
