@@ -11,7 +11,7 @@
 			<link>https://getmatter.app/rthr/</link>
 		</image>
 		<generator>MatterPod by Federico Viticci</generator>
-		<lastBuildDate>Sun, 06 Mar 2022 15:46:10 -0500</lastBuildDate>
+		<lastBuildDate>Sat, 12 Mar 2022 00:31:19 -0500</lastBuildDate>
 		<atom:link href="https://rthr0.github.io/matterpod/rss.xml" rel="self" type="application/rss+xml"/>
 		<copyright><![CDATA[© 2022 MacStories, Inc.]]></copyright>
 		<language><![CDATA[en-us]]></language>
@@ -26,11 +26,425 @@
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://media.getmatter.app/media/profile_avatar_photo/2021/11/18/86513686-286B-4A56-8DBF-64248367A72E.jpg.200x200_q95ss0_crop-smart_upscale.jpg"/>
 <item>
+			<title><![CDATA[Logger Is the Missing Console for Shortcuts Power Users]]></title>
+			<description><![CDATA[The main Logger app.Filters for messages saved in Logger. That’s all there is to Logger, but it’s exactly the console view I’ve long wanted Apple to build right into Shortcuts itself.]]></description>
+			<link>https://www.macstories.net/reviews/logger-for-shortcuts/</link>
+			<guid isPermaLink="false">4_2309518</guid>
+			<pubDate>Fri, 11 Mar 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/03/10/6d4f8bb6cbd4758864abe77a04e63d58.mp3" length="2556765" type="audio/mpeg"/>
+			<content:encoded><![CDATA[The main Logger app.Filters for messages saved in Logger. That’s all there is to Logger, but it’s exactly the console view I’ve long wanted Apple to build right into Shortcuts itself.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>The main Logger app.Filters for messages saved in Logger. That’s all there is to Logger, but it’s exactly the console view I’ve long wanted Apple to build right into Shortcuts itself.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:07:06</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>50</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[The danger of emotional reasoning and using our emotions as proof]]></title>
+			<description><![CDATA[One such distortion is emotional reasoning. This is a thought pattern in which our emotional reactions, or our feelings, lead us to believe that something is true even when the empirical evidence tells us otherwise.]]></description>
+			<link>https://nesslabs.com/emotional-reasoning</link>
+			<guid isPermaLink="false">4_2312064</guid>
+			<pubDate>Fri, 11 Mar 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/03/10/79911c407bdbb50596526ae2d63e949e.mp3" length="1736685" type="audio/mpeg"/>
+			<content:encoded><![CDATA[One such distortion is emotional reasoning. This is a thought pattern in which our emotional reactions, or our feelings, lead us to believe that something is true even when the empirical evidence tells us otherwise.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>One such distortion is emotional reasoning. This is a thought pattern in which our emotional reactions, or our feelings, lead us to believe that something is true even when the empirical evidence tells us otherwise.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:04:49</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>48</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[Florida lawmakers advance homophobia to DeSantis’s desk]]></title>
+			<description><![CDATA[Vox Media has pulled from Florida its tech-focused Pivot conference that Scott Galloway and I hosted for the first time in Miami last month in favor of a less prejudicial location.]]></description>
+			<link>https://www.nytimes.com/2022/03/10/opinion/florida-gay-bill.html</link>
+			<guid isPermaLink="false">4_2318087</guid>
+			<pubDate>Fri, 11 Mar 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/03/11/24071c790e037f47e00dc26637d586e6.mp3" length="3656637" type="audio/mpeg"/>
+			<content:encoded><![CDATA[Vox Media has pulled from Florida its tech-focused Pivot conference that Scott Galloway and I hosted for the first time in Miami last month in favor of a less prejudicial location.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>Vox Media has pulled from Florida its tech-focused Pivot conference that Scott Galloway and I hosted for the first time in Miami last month in favor of a less prejudicial location.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:10:09</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>47</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[How To Get Leverage On Your Ideas]]></title>
+			<description><![CDATA[Leverage provides scale and thus juices returns. Similarly, we continually underestimate the scale of eyeballs that accompany publishing on the internet. The internet is the ultimate attention leverage ever conceived.]]></description>
+			<link>https://every.to/napkin-math/how-to-get-leverage-on-your-idea</link>
+			<guid isPermaLink="false">4_2311664</guid>
+			<pubDate>Fri, 11 Mar 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/03/10/f895e8180f9c7929d916ae6aa58b5cce.mp3" length="5893389" type="audio/mpeg"/>
+			<content:encoded><![CDATA[Leverage provides scale and thus juices returns. Similarly, we continually underestimate the scale of eyeballs that accompany publishing on the internet. The internet is the ultimate attention leverage ever conceived.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>Leverage provides scale and thus juices returns. Similarly, we continually underestimate the scale of eyeballs that accompany publishing on the internet. The internet is the ultimate attention leverage ever conceived.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:16:22</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>46</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[30 lessons from brilliant thinkers 🧠]]></title>
+			<description><![CDATA[The result is a series of articles called Brilliant Thinkers, which will teach you how to emulate 30 mental models of these extraordinary scientists, philosophers, astronauts, and more.]]></description>
+			<link>https://getmatter.app/email/4361328/?token=4361328%3AOyEh48bPoTGVGrLcYNlsyGd1gf8</link>
+			<guid isPermaLink="false">4_2310226</guid>
+			<pubDate>Fri, 11 Mar 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/03/10/8bef64ae5b16ed08f21c243476805f05.mp3" length="1677213" type="audio/mpeg"/>
+			<content:encoded><![CDATA[The result is a series of articles called Brilliant Thinkers, which will teach you how to emulate 30 mental models of these extraordinary scientists, philosophers, astronauts, and more.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>The result is a series of articles called Brilliant Thinkers, which will teach you how to emulate 30 mental models of these extraordinary scientists, philosophers, astronauts, and more.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:04:40</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>45</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[Why Canada is losing affordable rental housing faster than it's being built]]></title>
+			<description><![CDATA[With rental rates on the rise, he knows that losing his apartment would be a big financial blow. "To find an affordable apartment, I'd have to go way the hell out to Sudbury or somewhere," he told The Fifth Estate.]]></description>
+			<link>https://www.cbc.ca/news/canada/financialization-and-canadian-renters-1.6378257</link>
+			<guid isPermaLink="false">4_2312435</guid>
+			<pubDate>Thu, 10 Mar 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/03/10/6eaad779acaf3c5f8ad4423715c01678.mp3" length="3790413" type="audio/mpeg"/>
+			<content:encoded><![CDATA[With rental rates on the rise, he knows that losing his apartment would be a big financial blow. "To find an affordable apartment, I'd have to go way the hell out to Sudbury or somewhere," he told The Fifth Estate.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>With rental rates on the rise, he knows that losing his apartment would be a big financial blow. "To find an affordable apartment, I'd have to go way the hell out to Sudbury or somewhere," he told The Fifth Estate.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:10:32</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>44</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[How Putin is weaponizing Ukraine's far-right fringe]]></title>
+			<description><![CDATA[24:33How Putin is weaponizing Ukraine's far-right fringe]]></description>
+			<link>https://www.cbc.ca/player/play/2011357251625</link>
+			<guid isPermaLink="false">4_2316813</guid>
+			<pubDate>Thu, 10 Mar 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/03/10/53488d512ca4daa1c8eabab0a1d30b7e.mp3" length="25965" type="audio/mpeg"/>
+			<content:encoded><![CDATA[24:33How Putin is weaponizing Ukraine's far-right fringe]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>24:33How Putin is weaponizing Ukraine's far-right fringe</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:00:04</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>43</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[COVID-19 pandemic has brought out the worst in people, pulled Canadians further apart, survey suggests]]></title>
+			<description><![CDATA[Pandemic 'pulled people further apart' Four out of five of those surveyed agreed that the pandemic has "pulled people further apart." And about the same number believe "the pandemic has brought out the worst in people."]]></description>
+			<link>https://www.cbc.ca/news/canada/pandemic-canadians-poll-attitude-1.6378018</link>
+			<guid isPermaLink="false">4_2316805</guid>
+			<pubDate>Thu, 10 Mar 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/03/10/2038e559e90fed18171e0974f39817a8.mp3" length="1662093" type="audio/mpeg"/>
+			<content:encoded><![CDATA[Pandemic 'pulled people further apart' Four out of five of those surveyed agreed that the pandemic has "pulled people further apart." And about the same number believe "the pandemic has brought out the worst in people."]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>Pandemic 'pulled people further apart' Four out of five of those surveyed agreed that the pandemic has "pulled people further apart." And about the same number believe "the pandemic has brought out the worst in people."</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:04:37</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>42</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[Mail, Weather, Search, Politics, News, Finance, Sports & Videos]]></title>
+			<description><![CDATA[This week, Russian Foreign Ministry spokeswoman Maria Zakharova — without evidence — accused Ukraine of running chemical and biological weapons labs with U.S. support.]]></description>
+			<link>https://www.yahoo.com/news/white-house-warns-russia-may-231621400.html</link>
+			<guid isPermaLink="false">4_2299023</guid>
+			<pubDate>Thu, 10 Mar 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/03/10/7c3a7cd3de15cbef0fddbfec05440dc0.mp3" length="1113021" type="audio/mpeg"/>
+			<content:encoded><![CDATA[This week, Russian Foreign Ministry spokeswoman Maria Zakharova — without evidence — accused Ukraine of running chemical and biological weapons labs with U.S. support.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>This week, Russian Foreign Ministry spokeswoman Maria Zakharova — without evidence — accused Ukraine of running chemical and biological weapons labs with U.S. support.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:03:06</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>41</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[Russian POW viral videos may break international law. What about sharing them?]]></title>
+			<description><![CDATA[Designed to be 'overprotective' John Cerone, a visiting professor of international law at Tufts University in Massachusetts, agreed that taking those videos is a violation of international law.]]></description>
+			<link>https://www.cbc.ca/news/world/russian-pow-videos-ukraine-international-law-1.6377305</link>
+			<guid isPermaLink="false">4_2316789</guid>
+			<pubDate>Thu, 10 Mar 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/03/10/01fc7c327c28464c4259bcd603786b71.mp3" length="2171133" type="audio/mpeg"/>
+			<content:encoded><![CDATA[Designed to be 'overprotective' John Cerone, a visiting professor of international law at Tufts University in Massachusetts, agreed that taking those videos is a violation of international law.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>Designed to be 'overprotective' John Cerone, a visiting professor of international law at Tufts University in Massachusetts, agreed that taking those videos is a violation of international law.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:06:02</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>40</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[Will Transformers Take Over Artificial Intelligence?]]></title>
+			<description><![CDATA[CNNs without transformers, the longtime champs, barely reached the top 10. How Transformers Work The ImageNet results demonstrated that transformers could compete with leading CNNs.]]></description>
+			<link>https://www.quantamagazine.org/will-transformers-take-over-artificial-intelligence-20220310/</link>
+			<guid isPermaLink="false">4_2313170</guid>
+			<pubDate>Thu, 10 Mar 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/03/10/9402776d0a68b0e23e05b4ccc2080032.mp3" length="4355469" type="audio/mpeg"/>
+			<content:encoded><![CDATA[CNNs without transformers, the longtime champs, barely reached the top 10. How Transformers Work The ImageNet results demonstrated that transformers could compete with leading CNNs.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>CNNs without transformers, the longtime champs, barely reached the top 10. How Transformers Work The ImageNet results demonstrated that transformers could compete with leading CNNs.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:12:06</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>39</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[A Workflow for Saving Ideas From Books and Articles to Obsidian]]></title>
+			<description><![CDATA[I have no idea, but I sure would love to go back and see that today. This is why I’ve gotten so excited in recent years to see the rise of Obsidian.]]></description>
+			<link>https://thesweetsetup.com/a-workflow-for-saving-ideas-from-books-and-articles-to-obsidian/</link>
+			<guid isPermaLink="false">4_2311261</guid>
+			<pubDate>Thu, 10 Mar 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/03/10/6303ca997850e412c761cf4f1221468d.mp3" length="1521549" type="audio/mpeg"/>
+			<content:encoded><![CDATA[I have no idea, but I sure would love to go back and see that today. This is why I’ve gotten so excited in recent years to see the rise of Obsidian.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>I have no idea, but I sure would love to go back and see that today. This is why I’ve gotten so excited in recent years to see the rise of Obsidian.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:04:14</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>36</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[The Batman and the case for masked vigilantes]]></title>
+			<description><![CDATA[Batman tries to talk to witnesses. Batman conducts surveillance. What Batman does not do, however, is use detective work to catch the Riddler.]]></description>
+			<link>https://www.slowboring.com/p/the-batman-and-the-case-for-masked</link>
+			<guid isPermaLink="false">4_2285725</guid>
+			<pubDate>Thu, 10 Mar 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/03/09/c6c0ce4dbf6995ba907617ef00a5a544.mp3" length="4303197" type="audio/mpeg"/>
+			<content:encoded><![CDATA[Batman tries to talk to witnesses. Batman conducts surveillance. What Batman does not do, however, is use detective work to catch the Riddler.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>Batman tries to talk to witnesses. Batman conducts surveillance. What Batman does not do, however, is use detective work to catch the Riddler.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:11:57</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>35</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[How to get the excitement back]]></title>
+			<description><![CDATA[Key points – How to get the excitement back Sexual boredom is normal but reversible. To reignite the spark, you need to eliminate the turn-offs and ramp up the turn-ons.]]></description>
+			<link>https://psyche.co/guides/how-to-rekindle-a-long-term-sexual-relationship-in-five-strategies</link>
+			<guid isPermaLink="false">4_2286799</guid>
+			<pubDate>Thu, 10 Mar 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/03/09/5c58ef55c5f49de8d275f676ad8d7d98.mp3" length="9515853" type="audio/mpeg"/>
+			<content:encoded><![CDATA[Key points – How to get the excitement back Sexual boredom is normal but reversible. To reignite the spark, you need to eliminate the turn-offs and ramp up the turn-ons.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>Key points – How to get the excitement back Sexual boredom is normal but reversible. To reignite the spark, you need to eliminate the turn-offs and ramp up the turn-ons.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:26:26</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>34</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[Why placebo pills work even when you know they’re a placebo]]></title>
+			<description><![CDATA[In one clinical study, researchers asked patients recovering from spine surgery to pair their active pain medication with open-label placebos and also to take the placebo pills on their own. The placebo pills began exerting their own pain relief.]]></description>
+			<link>https://psyche.co/ideas/why-placebo-pills-work-even-when-you-know-theyre-a-placebo</link>
+			<guid isPermaLink="false">4_2297700</guid>
+			<pubDate>Thu, 10 Mar 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/03/10/2e66b2cc5f9cd6bcb3e4895e07261f99.mp3" length="3775869" type="audio/mpeg"/>
+			<content:encoded><![CDATA[In one clinical study, researchers asked patients recovering from spine surgery to pair their active pain medication with open-label placebos and also to take the placebo pills on their own. The placebo pills began exerting their own pain relief.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>In one clinical study, researchers asked patients recovering from spine surgery to pair their active pain medication with open-label placebos and also to take the placebo pills on their own. The placebo pills began exerting their own pain relief.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:10:29</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>33</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[Simone de Beauvoir recommends we fight for ourselves as we age]]></title>
+			<description><![CDATA[In her 60s, Beauvoir wrote a 650-page book La vieillesse (1970) – translated as Old Age or The Coming of Age – to reveal the truth about ageing.]]></description>
+			<link>https://psyche.co/ideas/simone-de-beauvoir-recommends-we-fight-for-ourselves-as-we-age</link>
+			<guid isPermaLink="false">4_2272476</guid>
+			<pubDate>Thu, 10 Mar 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/03/08/dc8d60615ada10b5f7b62421dbc54226.mp3" length="4388589" type="audio/mpeg"/>
+			<content:encoded><![CDATA[In her 60s, Beauvoir wrote a 650-page book La vieillesse (1970) – translated as Old Age or The Coming of Age – to reveal the truth about ageing.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>In her 60s, Beauvoir wrote a 650-page book La vieillesse (1970) – translated as Old Age or The Coming of Age – to reveal the truth about ageing.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:12:11</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>32</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[Managing Your Manager]]></title>
+			<description><![CDATA[Here’s how it works: Every question is coupled with a spectrum on which you can plot your manager. If your manager indexes heavily towards one end of a spectrum, consider giving the suggested tactics a try.]]></description>
+			<link>https://every.to/superorganizers/managing-your-manager</link>
+			<guid isPermaLink="false">4_2296984</guid>
+			<pubDate>Thu, 10 Mar 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/03/09/f308c1474fcc8d9467e7c5aa6bd537cb.mp3" length="4227165" type="audio/mpeg"/>
+			<content:encoded><![CDATA[Here’s how it works: Every question is coupled with a spectrum on which you can plot your manager. If your manager indexes heavily towards one end of a spectrum, consider giving the suggested tactics a try.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>Here’s how it works: Every question is coupled with a spectrum on which you can plot your manager. If your manager indexes heavily towards one end of a spectrum, consider giving the suggested tactics a try.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:11:45</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>31</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[Mac Studio, M1 Ultra, and Apple Studio Display: The MacStories Overview]]></title>
+			<description><![CDATA[A headless computer wouldn’t be complete without a display though, and for the first time in years Apple has finally come through (at least in a reasonably affordable way) on this front.]]></description>
+			<link>https://www.macstories.net/stories/mac-studio-m1-ultra-and-apple-studio-display-the-macstories-overview/</link>
+			<guid isPermaLink="false">4_2287965</guid>
+			<pubDate>Wed, 09 Mar 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/03/09/061f0beb0d6787562b86402872853639.mp3" length="2443725" type="audio/mpeg"/>
+			<content:encoded><![CDATA[A headless computer wouldn’t be complete without a display though, and for the first time in years Apple has finally come through (at least in a reasonably affordable way) on this front.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>A headless computer wouldn’t be complete without a display though, and for the first time in years Apple has finally come through (at least in a reasonably affordable way) on this front.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:06:47</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>30</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[Melanie Paradis: Thought scams are eating our brains, and dividing our country]]></title>
+			<description><![CDATA[Worse, this distrust has been compounded by the increasingly myopic, rabbit-hole feedback loops we find ourselves trapped within on our social media channels. This has made many Canadians vulnerable to thought scams.]]></description>
+			<link>https://theline.substack.com/p/melanie-paradis-thought-scams-are</link>
+			<guid isPermaLink="false">4_2273531</guid>
+			<pubDate>Sat, 12 Mar 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/03/09/16fa2dfd294ade3597ee29006e55e9cf.mp3" length="2038941" type="audio/mpeg"/>
+			<content:encoded><![CDATA[Worse, this distrust has been compounded by the increasingly myopic, rabbit-hole feedback loops we find ourselves trapped within on our social media channels. This has made many Canadians vulnerable to thought scams.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>Worse, this distrust has been compounded by the increasingly myopic, rabbit-hole feedback loops we find ourselves trapped within on our social media channels. This has made many Canadians vulnerable to thought scams.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:05:40</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>29</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[Big Update to Our Roam vs. Obsidian Guide]]></title>
+			<description><![CDATA[March 8, 2022 A lot has changed in the last year or so since we first published our side-by-side comparison of Obsidian and Roam Research.]]></description>
+			<link>https://thesweetsetup.com/big-update-to-our-roam-vs-obsidian-guide/</link>
+			<guid isPermaLink="false">4_2274881</guid>
+			<pubDate>Tue, 08 Mar 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/03/08/497947ba329dd90cc549a8cf4e3b9062.mp3" length="341469" type="audio/mpeg"/>
+			<content:encoded><![CDATA[March 8, 2022 A lot has changed in the last year or so since we first published our side-by-side comparison of Obsidian and Roam Research.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>March 8, 2022 A lot has changed in the last year or so since we first published our side-by-side comparison of Obsidian and Roam Research.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:00:57</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>28</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[304: What You Should Write About]]></title>
+			<description><![CDATA[But as anyone who tries to write anything knows: it's easy to get stuck on the question of what to write about. While you're first adjusting to potentially millions of people getting a peek at your inner lunatic, it's best to play it safe.]]></description>
+			<link>https://www.nateliason.com/medley/304</link>
+			<guid isPermaLink="false">4_2263771</guid>
+			<pubDate>Tue, 08 Mar 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/03/07/7d0336ecca066156082c531035519ea9.mp3" length="2012733" type="audio/mpeg"/>
+			<content:encoded><![CDATA[But as anyone who tries to write anything knows: it's easy to get stuck on the question of what to write about. While you're first adjusting to potentially millions of people getting a peek at your inner lunatic, it's best to play it safe.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>But as anyone who tries to write anything knows: it's easy to get stuck on the question of what to write about. While you're first adjusting to potentially millions of people getting a peek at your inner lunatic, it's best to play it safe.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:05:35</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>27</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[Tech and War]]></title>
+			<description><![CDATA[While it has been only 11 days since Russia invaded Ukraine, it is already clear that the long-term impact on the tech industry is going to be substantial.]]></description>
+			<link>https://stratechery.com/2022/tech-and-war/</link>
+			<guid isPermaLink="false">4_2260302</guid>
+			<pubDate>Tue, 08 Mar 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/03/07/17acdda3c16bd14679d4657ba37530bc.mp3" length="7402365" type="audio/mpeg"/>
+			<content:encoded><![CDATA[While it has been only 11 days since Russia invaded Ukraine, it is already clear that the long-term impact on the tech industry is going to be substantial.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>While it has been only 11 days since Russia invaded Ukraine, it is already clear that the long-term impact on the tech industry is going to be substantial.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:20:34</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>26</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[Why You're Not Doing Creative Work & More!]]></title>
+			<description><![CDATA[Why You're Not Doing Creative Work Dan Shipper / Superorganizers We all hope to be doing more creative work—whether it's writing a novel, producing a screenplay, or putting together a strategy memo.]]></description>
+			<link>https://every.to/everything/why-you-re-not-doing-creative-work-more</link>
+			<guid isPermaLink="false">4_2249444</guid>
+			<pubDate>Wed, 09 Mar 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/03/06/1469a62fcca1fa27dd4e1addbfdcd8ed.mp3" length="1023741" type="audio/mpeg"/>
+			<content:encoded><![CDATA[Why You're Not Doing Creative Work Dan Shipper / Superorganizers We all hope to be doing more creative work—whether it's writing a novel, producing a screenplay, or putting together a strategy memo.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>Why You're Not Doing Creative Work Dan Shipper / Superorganizers We all hope to be doing more creative work—whether it's writing a novel, producing a screenplay, or putting together a strategy memo.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:02:51</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>25</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
 			<title><![CDATA[Tokenomics 102: Digging Deeper on Supply]]></title>
 			<description><![CDATA[And once you do, you’ll want to drill down on what the circulating supply and max supply numbers really mean.]]></description>
 			<link>https://cryptonat.substack.com/p/tokenomics-102-supply</link>
 			<guid isPermaLink="false">4_2230639</guid>
-			<pubDate>Sun, 06 Mar 2022 12:00:00 -0500</pubDate>
+			<pubDate>Mon, 07 Mar 2022 12:00:00 -0500</pubDate>
 			<enclosure url="https://media.getmatter.app/media/audio_content/2022/03/04/c4e16351eda0701d01a072bc06d509b0.mp3" length="4449357" type="audio/mpeg"/>
 			<content:encoded><![CDATA[And once you do, you’ll want to drill down on what the circulating supply and max supply numbers really mean.]]></content:encoded>
 			<itunes:author>Matter</itunes:author>
@@ -40,97 +454,7 @@
 			<itunes:duration>00:12:22</itunes:duration>
 			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
 			<itunes:season>1</itunes:season>
-			<itunes:episode>50</itunes:episode>
-			<itunes:episodeType>full</itunes:episodeType>
-		</item>
-<item>
-			<title><![CDATA[How Ukraine’s Military Has Resisted Russia So Far]]></title>
-			<description><![CDATA[The Ukrainian army has been training for further Russian encroachment ever since Russia seized Ukraine’s Crimean Peninsula in 2014 and began supporting separatists in the Donbas region, in eastern Ukraine.]]></description>
-			<link>https://www.nytimes.com/2022/03/03/us/politics/russia-ukraine-military.html</link>
-			<guid isPermaLink="false">4_2222859</guid>
-			<pubDate>Sun, 06 Mar 2022 12:00:00 -0500</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2022/03/04/62e43c3dbfa4c1ce5e0b3833f6d33f78.mp3" length="2782269" type="audio/mpeg"/>
-			<content:encoded><![CDATA[The Ukrainian army has been training for further Russian encroachment ever since Russia seized Ukraine’s Crimean Peninsula in 2014 and began supporting separatists in the Donbas region, in eastern Ukraine.]]></content:encoded>
-			<itunes:author>Matter</itunes:author>
-			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>The Ukrainian army has been training for further Russian encroachment ever since Russia seized Ukraine’s Crimean Peninsula in 2014 and began supporting separatists in the Donbas region, in eastern Ukraine.</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:07:44</itunes:duration>
-			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
-			<itunes:season>1</itunes:season>
-			<itunes:episode>49</itunes:episode>
-			<itunes:episodeType>full</itunes:episodeType>
-		</item>
-<item>
-			<title><![CDATA[The Audiophile Bar Edition]]></title>
-			<description><![CDATA[On Tokyo, records, and Greenpoint's Eavesdrop Colin here. One of my favorite things about Tokyo (and Japan for that matter) is the abundance of audiophile bars.]]></description>
-			<link>https://newsletters.feedbinusercontent.com/a7b/a7be09077eab9c9bc934bbbabb04843d781d7d55.html</link>
-			<guid isPermaLink="false">4_2225489</guid>
-			<pubDate>Sun, 06 Mar 2022 12:00:00 -0500</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2022/03/06/348d3f54733a668bf518c8e708dda4a0.mp3" length="1717965" type="audio/mpeg"/>
-			<content:encoded><![CDATA[On Tokyo, records, and Greenpoint's Eavesdrop Colin here. One of my favorite things about Tokyo (and Japan for that matter) is the abundance of audiophile bars.]]></content:encoded>
-			<itunes:author>Matter</itunes:author>
-			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>On Tokyo, records, and Greenpoint's Eavesdrop Colin here. One of my favorite things about Tokyo (and Japan for that matter) is the abundance of audiophile bars.</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:04:46</itunes:duration>
-			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
-			<itunes:season>1</itunes:season>
-			<itunes:episode>48</itunes:episode>
-			<itunes:episodeType>full</itunes:episodeType>
-		</item>
-<item>
-			<title><![CDATA[☕️ Is the reopening for real?]]></title>
-			<description><![CDATA[Just real cash you can use wherever, however you want. You can even share your Apple Card with anyone you call family, as long as they’re 13 years of age or older.]]></description>
-			<link>https://getmatter.app/email/4206023/?token=4206023%3AcU3OzXD4XVeRW_ZHiYRwtJ2ZKSk</link>
-			<guid isPermaLink="false">4_2236582</guid>
-			<pubDate>Sat, 05 Mar 2022 12:00:00 -0500</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2022/03/05/b4ac1d79414f6afeecd92a8288b7871b.mp3" length="4088493" type="audio/mpeg"/>
-			<content:encoded><![CDATA[Just real cash you can use wherever, however you want. You can even share your Apple Card with anyone you call family, as long as they’re 13 years of age or older.]]></content:encoded>
-			<itunes:author>Matter</itunes:author>
-			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>Just real cash you can use wherever, however you want. You can even share your Apple Card with anyone you call family, as long as they’re 13 years of age or older.</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:11:21</itunes:duration>
-			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
-			<itunes:season>1</itunes:season>
-			<itunes:episode>47</itunes:episode>
-			<itunes:episodeType>full</itunes:episodeType>
-		</item>
-<item>
-			<title><![CDATA[The Ugly, Embarrassing Spectacle of ‘Milling’ Around Online]]></title>
-			<description><![CDATA[They are just “expressions of our powerlessness as average citizens,” he told me. “We’re milling about, kind of waiting to see what’s coming, wishing we could do more to stop this stuff.]]></description>
-			<link>https://www.theatlantic.com/technology/archive/2022/03/russia-ukraine-invasion-twitter/624168/</link>
-			<guid isPermaLink="false">4_2215511</guid>
-			<pubDate>Sat, 05 Mar 2022 12:00:00 -0500</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2022/03/03/2a534ed06aaaa3115d7e85c321d7257d.mp3" length="1999917" type="audio/mpeg"/>
-			<content:encoded><![CDATA[They are just “expressions of our powerlessness as average citizens,” he told me. “We’re milling about, kind of waiting to see what’s coming, wishing we could do more to stop this stuff.]]></content:encoded>
-			<itunes:author>Matter</itunes:author>
-			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>They are just “expressions of our powerlessness as average citizens,” he told me. “We’re milling about, kind of waiting to see what’s coming, wishing we could do more to stop this stuff.</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:05:33</itunes:duration>
-			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
-			<itunes:season>1</itunes:season>
-			<itunes:episode>46</itunes:episode>
-			<itunes:episodeType>full</itunes:episodeType>
-		</item>
-<item>
-			<title><![CDATA[Tax the land]]></title>
-			<description><![CDATA[So how could a land value tax help fix this? Under a land value tax system, proponents say property owners would be clamoring to be allowed to develop their land more intensely — leading to more homes being built.]]></description>
-			<link>https://www.vox.com/policy-and-politics/22951092/land-tax-housing-crisis</link>
-			<guid isPermaLink="false">4_2228840</guid>
-			<pubDate>Sat, 05 Mar 2022 12:00:00 -0500</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2022/03/04/0dbcafc9d50cfb98cbdfef178857c1e3.mp3" length="3208941" type="audio/mpeg"/>
-			<content:encoded><![CDATA[So how could a land value tax help fix this? Under a land value tax system, proponents say property owners would be clamoring to be allowed to develop their land more intensely — leading to more homes being built.]]></content:encoded>
-			<itunes:author>Matter</itunes:author>
-			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>So how could a land value tax help fix this? Under a land value tax system, proponents say property owners would be clamoring to be allowed to develop their land more intensely — leading to more homes being built.</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:08:55</itunes:duration>
-			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
-			<itunes:season>1</itunes:season>
-			<itunes:episode>45</itunes:episode>
+			<itunes:episode>24</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 <item>
@@ -148,7 +472,7 @@
 			<itunes:duration>00:19:01</itunes:duration>
 			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
 			<itunes:season>1</itunes:season>
-			<itunes:episode>44</itunes:episode>
+			<itunes:episode>23</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 <item>
@@ -166,25 +490,7 @@
 			<itunes:duration>00:10:34</itunes:duration>
 			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
 			<itunes:season>1</itunes:season>
-			<itunes:episode>43</itunes:episode>
-			<itunes:episodeType>full</itunes:episodeType>
-		</item>
-<item>
-			<title><![CDATA[Russia-Ukraine Thoughts March 2nd]]></title>
-			<description><![CDATA[Almost all Ukrainian successes have been defensive. A few local counterattacks have been launched, but most involved Ukrainian forces “retaking” towns which Russian forces had passed through but then abandoned.]]></description>
-			<link>https://danielberman.substack.com/p/russia-ukraine-thoughts-march-2nd</link>
-			<guid isPermaLink="false">4_2210282</guid>
-			<pubDate>Sat, 05 Mar 2022 12:00:00 -0500</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2022/03/05/ab215d32ad5beaeb094b181131e5b8f8.mp3" length="6897789" type="audio/mpeg"/>
-			<content:encoded><![CDATA[Almost all Ukrainian successes have been defensive. A few local counterattacks have been launched, but most involved Ukrainian forces “retaking” towns which Russian forces had passed through but then abandoned.]]></content:encoded>
-			<itunes:author>Matter</itunes:author>
-			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>Almost all Ukrainian successes have been defensive. A few local counterattacks have been launched, but most involved Ukrainian forces “retaking” towns which Russian forces had passed through but then abandoned.</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:19:10</itunes:duration>
-			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
-			<itunes:season>1</itunes:season>
-			<itunes:episode>42</itunes:episode>
+			<itunes:episode>22</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 <item>
@@ -202,7 +508,7 @@
 			<itunes:duration>00:22:40</itunes:duration>
 			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
 			<itunes:season>1</itunes:season>
-			<itunes:episode>41</itunes:episode>
+			<itunes:episode>21</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 <item>
@@ -220,7 +526,7 @@
 			<itunes:duration>00:16:31</itunes:duration>
 			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
 			<itunes:season>1</itunes:season>
-			<itunes:episode>40</itunes:episode>
+			<itunes:episode>20</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 <item>
@@ -238,7 +544,7 @@
 			<itunes:duration>00:03:29</itunes:duration>
 			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
 			<itunes:season>1</itunes:season>
-			<itunes:episode>38</itunes:episode>
+			<itunes:episode>18</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 <item>
@@ -256,7 +562,7 @@
 			<itunes:duration>00:07:02</itunes:duration>
 			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
 			<itunes:season>1</itunes:season>
-			<itunes:episode>37</itunes:episode>
+			<itunes:episode>17</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 <item>
@@ -274,15 +580,15 @@
 			<itunes:duration>00:04:06</itunes:duration>
 			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
 			<itunes:season>1</itunes:season>
-			<itunes:episode>36</itunes:episode>
+			<itunes:episode>16</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 <item>
 			<title><![CDATA[Matt Gurney: A sea change in European politics]]></title>
 			<description><![CDATA[Matt Gurney Monument of the Berlin Wall with photos of people and visitors. There’s an old joke, old enough that some of you might not even get it.]]></description>
-			<link>https://theline.substack.com/p/matt-gurney-a-sea-change-in-european?s=r</link>
+			<link>https://theline.substack.com/p/matt-gurney-a-sea-change-in-european</link>
 			<guid isPermaLink="false">4_2215701</guid>
-			<pubDate>Thu, 03 Mar 2022 12:00:00 -0500</pubDate>
+			<pubDate>Sat, 12 Mar 2022 12:00:00 -0500</pubDate>
 			<enclosure url="https://media.getmatter.app/media/audio_content/2022/03/03/18af86112a732653b7515e82c3e8fe61.mp3" length="3832605" type="audio/mpeg"/>
 			<content:encoded><![CDATA[Matt Gurney Monument of the Berlin Wall with photos of people and visitors. There’s an old joke, old enough that some of you might not even get it.]]></content:encoded>
 			<itunes:author>Matter</itunes:author>
@@ -292,7 +598,7 @@
 			<itunes:duration>00:10:39</itunes:duration>
 			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
 			<itunes:season>1</itunes:season>
-			<itunes:episode>35</itunes:episode>
+			<itunes:episode>15</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 <item>
@@ -310,15 +616,15 @@
 			<itunes:duration>00:06:22</itunes:duration>
 			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
 			<itunes:season>1</itunes:season>
-			<itunes:episode>34</itunes:episode>
+			<itunes:episode>14</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 <item>
 			<title><![CDATA[Phil A. McBride: Here's how Canada can help Ukraine fight back, today]]></title>
 			<description><![CDATA[There is something Canada can do to help Ukraine not lose. We can do it today. At time of writing, Ukraine’s telecommunications networks appear to be mostly operational.]]></description>
-			<link>https://getmatter.app/email/4080524/?token=4080524%3A_d3ubY_nGJunsQG48LeQdl4VHeg</link>
+			<link>https://theline.substack.com/p/phil-a-mcbride-heres-how-canada-can</link>
 			<guid isPermaLink="false">4_2192688</guid>
-			<pubDate>Thu, 03 Mar 2022 12:00:00 -0500</pubDate>
+			<pubDate>Sat, 12 Mar 2022 12:00:00 -0500</pubDate>
 			<enclosure url="https://media.getmatter.app/media/audio_content/2022/03/03/4bd16806a824befa2a22886a4b48e6dc.mp3" length="2310093" type="audio/mpeg"/>
 			<content:encoded><![CDATA[There is something Canada can do to help Ukraine not lose. We can do it today. At time of writing, Ukraine’s telecommunications networks appear to be mostly operational.]]></content:encoded>
 			<itunes:author>Matter</itunes:author>
@@ -328,7 +634,7 @@
 			<itunes:duration>00:06:25</itunes:duration>
 			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
 			<itunes:season>1</itunes:season>
-			<itunes:episode>33</itunes:episode>
+			<itunes:episode>13</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 <item>
@@ -346,7 +652,7 @@
 			<itunes:duration>00:12:51</itunes:duration>
 			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
 			<itunes:season>1</itunes:season>
-			<itunes:episode>32</itunes:episode>
+			<itunes:episode>12</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 <item>
@@ -364,7 +670,7 @@
 			<itunes:duration>00:07:31</itunes:duration>
 			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
 			<itunes:season>1</itunes:season>
-			<itunes:episode>31</itunes:episode>
+			<itunes:episode>11</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 <item>
@@ -388,15 +694,15 @@ Here's how to create one:</itunes:summary>
 			<itunes:duration>00:02:59</itunes:duration>
 			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
 			<itunes:season>1</itunes:season>
-			<itunes:episode>30</itunes:episode>
+			<itunes:episode>10</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 <item>
 			<title><![CDATA[Jen Gerson: Ukraine is winning the propaganda war. That will matter, one day]]></title>
 			<description><![CDATA[All I can do is examine the transparent unreality of it all, to take note of the ephemeral, the narrative. And from here, the Ukrainians are absolutely crushing the propaganda war.]]></description>
-			<link>https://getmatter.app/email/4117569/?token=4117569%3AeLf-Qm5a9P4hpKgS_hPtDXmgtvA</link>
+			<link>https://theline.substack.com/p/jen-gerson-ukraine-is-winning-the</link>
 			<guid isPermaLink="false">4_2205561</guid>
-			<pubDate>Thu, 03 Mar 2022 12:00:00 -0500</pubDate>
+			<pubDate>Sat, 12 Mar 2022 12:00:00 -0500</pubDate>
 			<enclosure url="https://media.getmatter.app/media/audio_content/2022/03/03/803c633f038eba3cd4ff82e02eb2e008.mp3" length="2815101" type="audio/mpeg"/>
 			<content:encoded><![CDATA[All I can do is examine the transparent unreality of it all, to take note of the ephemeral, the narrative. And from here, the Ukrainians are absolutely crushing the propaganda war.]]></content:encoded>
 			<itunes:author>Matter</itunes:author>
@@ -406,7 +712,7 @@ Here's how to create one:</itunes:summary>
 			<itunes:duration>00:07:49</itunes:duration>
 			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
 			<itunes:season>1</itunes:season>
-			<itunes:episode>29</itunes:episode>
+			<itunes:episode>9</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 <item>
@@ -424,7 +730,7 @@ Here's how to create one:</itunes:summary>
 			<itunes:duration>00:01:13</itunes:duration>
 			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
 			<itunes:season>1</itunes:season>
-			<itunes:episode>28</itunes:episode>
+			<itunes:episode>8</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 <item>
@@ -442,7 +748,7 @@ Here's how to create one:</itunes:summary>
 			<itunes:duration>00:07:57</itunes:duration>
 			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
 			<itunes:season>1</itunes:season>
-			<itunes:episode>27</itunes:episode>
+			<itunes:episode>7</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 <item>
@@ -460,7 +766,7 @@ Here's how to create one:</itunes:summary>
 			<itunes:duration>00:09:29</itunes:duration>
 			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
 			<itunes:season>1</itunes:season>
-			<itunes:episode>25</itunes:episode>
+			<itunes:episode>5</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 <item>
@@ -478,7 +784,7 @@ Here's how to create one:</itunes:summary>
 			<itunes:duration>00:12:33</itunes:duration>
 			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
 			<itunes:season>1</itunes:season>
-			<itunes:episode>24</itunes:episode>
+			<itunes:episode>4</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 <item>
@@ -496,7 +802,7 @@ Here's how to create one:</itunes:summary>
 			<itunes:duration>00:07:09</itunes:duration>
 			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
 			<itunes:season>1</itunes:season>
-			<itunes:episode>23</itunes:episode>
+			<itunes:episode>3</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 <item>
@@ -514,7 +820,7 @@ Here's how to create one:</itunes:summary>
 			<itunes:duration>00:00:58</itunes:duration>
 			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
 			<itunes:season>1</itunes:season>
-			<itunes:episode>22</itunes:episode>
+			<itunes:episode>2</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 <item>
@@ -530,318 +836,6 @@ Here's how to create one:</itunes:summary>
 			<itunes:summary>He’s strongly on the side of “don’t let people tell you that it’s ‘bad work hygiene’ to enjoy your work and have it spill into your life”. 🎬 YouTube Video - Performance vs Trust, by Simon Sinek.</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:05:51</itunes:duration>
-			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
-			<itunes:season>1</itunes:season>
-			<itunes:episode>21</itunes:episode>
-			<itunes:episodeType>full</itunes:episodeType>
-		</item>
-<item>
-			<title><![CDATA[Why You're Not Doing Creative Work]]></title>
-			<description><![CDATA[If you can take the long view on your outside tasks, you might have an easier time attending to your creative work.]]></description>
-			<link>https://newsletters.feedbinusercontent.com/fb3/fb391f73c551710b762ec3c848331d22a06be76c.html</link>
-			<guid isPermaLink="false">4_2179867</guid>
-			<pubDate>Wed, 02 Mar 2022 12:00:00 -0500</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/28/4b79438a8fb70513c6830dfc1384b5be.mp3" length="3782925" type="audio/mpeg"/>
-			<content:encoded><![CDATA[If you can take the long view on your outside tasks, you might have an easier time attending to your creative work.]]></content:encoded>
-			<itunes:author>Matter</itunes:author>
-			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>If you can take the long view on your outside tasks, you might have an easier time attending to your creative work.</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:10:30</itunes:duration>
-			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
-			<itunes:season>1</itunes:season>
-			<itunes:episode>20</itunes:episode>
-			<itunes:episodeType>full</itunes:episodeType>
-		</item>
-<item>
-			<title><![CDATA[How interest rate hikes could affect your mortgage payment]]></title>
-			<description><![CDATA[Despite the Bank of Canada’s key overnight interest rate target holding steady at 0.25 per cent, the bank has signalled that interest rates are expected to rise, and soon.]]></description>
-			<link>https://www.ctvnews.ca/business/how-interest-rate-hikes-could-affect-your-mortgage-payment-1.5762554</link>
-			<guid isPermaLink="false">4_2180151</guid>
-			<pubDate>Mon, 28 Feb 2022 12:00:00 -0500</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/28/6a57f41a04acfeb4a57a119781a1333d.mp3" length="2676429" type="audio/mpeg"/>
-			<content:encoded><![CDATA[Despite the Bank of Canada’s key overnight interest rate target holding steady at 0.25 per cent, the bank has signalled that interest rates are expected to rise, and soon.]]></content:encoded>
-			<itunes:author>Matter</itunes:author>
-			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>Despite the Bank of Canada’s key overnight interest rate target holding steady at 0.25 per cent, the bank has signalled that interest rates are expected to rise, and soon.</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:07:26</itunes:duration>
-			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
-			<itunes:season>1</itunes:season>
-			<itunes:episode>19</itunes:episode>
-			<itunes:episodeType>full</itunes:episodeType>
-		</item>
-<item>
-			<title><![CDATA[Explainer: How is the Russia-Ukraine war linked to religion?]]></title>
-			<description><![CDATA[Some U.S. Orthodox hope they can put such conflicts aside and unite to try to end the war, while also fearing the war could exacerbate the split.]]></description>
-			<link>https://www.ctvnews.ca/world/explainer-how-is-the-russia-ukraine-war-linked-to-religion-1.5798062</link>
-			<guid isPermaLink="false">4_2176213</guid>
-			<pubDate>Mon, 28 Feb 2022 12:00:00 -0500</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/28/1191b1eecc4a4938c16d6e718b36529d.mp3" length="2910717" type="audio/mpeg"/>
-			<content:encoded><![CDATA[Some U.S. Orthodox hope they can put such conflicts aside and unite to try to end the war, while also fearing the war could exacerbate the split.]]></content:encoded>
-			<itunes:author>Matter</itunes:author>
-			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>Some U.S. Orthodox hope they can put such conflicts aside and unite to try to end the war, while also fearing the war could exacerbate the split.</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:08:05</itunes:duration>
-			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
-			<itunes:season>1</itunes:season>
-			<itunes:episode>18</itunes:episode>
-			<itunes:episodeType>full</itunes:episodeType>
-		</item>
-<item>
-			<title><![CDATA[How I Do My Weekly Review In Obsidian]]></title>
-			<description><![CDATA[In this article, I share with you my weekly review note in Obsidian. I go through how everything is set up including the code and the plugins I use.]]></description>
-			<link>https://www.mishacreatrix.com/weekly-review-obsidian</link>
-			<guid isPermaLink="false">4_2154138</guid>
-			<pubDate>Mon, 28 Feb 2022 12:00:00 -0500</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/25/a264b9802481628f55ec8396f59e0948.mp3" length="1774845" type="audio/mpeg"/>
-			<content:encoded><![CDATA[In this article, I share with you my weekly review note in Obsidian. I go through how everything is set up including the code and the plugins I use.]]></content:encoded>
-			<itunes:author>Matter</itunes:author>
-			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>In this article, I share with you my weekly review note in Obsidian. I go through how everything is set up including the code and the plugins I use.</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:04:56</itunes:duration>
-			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
-			<itunes:season>1</itunes:season>
-			<itunes:episode>16</itunes:episode>
-			<itunes:episodeType>full</itunes:episodeType>
-		</item>
-<item>
-			<title><![CDATA[IA for PKM - Crows, Camels, Concepts, and the Cognitive Divide]]></title>
-			<description><![CDATA[IA for PKM — Crows, Camels, Concepts, and the Cognitive Divide Information Architecture for Personal Knowledge Management We are all information architects. It’s just what we do.It’s what makes us human.]]></description>
-			<link>https://medium.com/@cody.burleson/ia-for-pkm-crows-camels-concepts-and-the-cognitive-divide-7523c0bfa5eb</link>
-			<guid isPermaLink="false">4_2155662</guid>
-			<pubDate>Sun, 27 Feb 2022 12:00:00 -0500</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/25/dc86cadaa1ca856d1b3460d683c06a90.mp3" length="2898477" type="audio/mpeg"/>
-			<content:encoded><![CDATA[IA for PKM — Crows, Camels, Concepts, and the Cognitive Divide Information Architecture for Personal Knowledge Management We are all information architects. It’s just what we do.It’s what makes us human.]]></content:encoded>
-			<itunes:author>Matter</itunes:author>
-			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>IA for PKM — Crows, Camels, Concepts, and the Cognitive Divide Information Architecture for Personal Knowledge Management We are all information architects. It’s just what we do.It’s what makes us human.</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:08:03</itunes:duration>
-			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
-			<itunes:season>1</itunes:season>
-			<itunes:episode>15</itunes:episode>
-			<itunes:episodeType>full</itunes:episodeType>
-		</item>
-<item>
-			<title><![CDATA[Peloton's Next Move: Become a Platform]]></title>
-			<description><![CDATA[Given the cultural backlash they have already received, it’s possible that a vibe shift in wellness (or, perhaps, paradigm shift?) could hurt Peloton sooner than they had ever imagined.]]></description>
-			<link>https://every.to/divinations/peloton-s-next-move-become-a-platform</link>
-			<guid isPermaLink="false">4_2161981</guid>
-			<pubDate>Sat, 26 Feb 2022 12:00:00 -0500</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/26/eae8acac0276a09d943cf1ba85f306c3.mp3" length="4830813" type="audio/mpeg"/>
-			<content:encoded><![CDATA[Given the cultural backlash they have already received, it’s possible that a vibe shift in wellness (or, perhaps, paradigm shift?) could hurt Peloton sooner than they had ever imagined.]]></content:encoded>
-			<itunes:author>Matter</itunes:author>
-			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>Given the cultural backlash they have already received, it’s possible that a vibe shift in wellness (or, perhaps, paradigm shift?) could hurt Peloton sooner than they had ever imagined.</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:13:25</itunes:duration>
-			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
-			<itunes:season>1</itunes:season>
-			<itunes:episode>14</itunes:episode>
-			<itunes:episodeType>full</itunes:episodeType>
-		</item>
-<item>
-			<title><![CDATA[Donald Trump’s glitchy, snaggy social media rollout]]></title>
-			<description><![CDATA[Why? Who knows! Perhaps Truth Social is setting it aside for me — as the competing conservative social media app Gettr did — or perhaps Laura Ingraham is cosplaying me.]]></description>
-			<link>https://www.nytimes.com/2022/02/24/opinion/trump-truth-social.html</link>
-			<guid isPermaLink="false">4_2143176</guid>
-			<pubDate>Sat, 26 Feb 2022 12:00:00 -0500</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/25/37c8814e5b1c2e9af1b038081da17bd5.mp3" length="3278061" type="audio/mpeg"/>
-			<content:encoded><![CDATA[Why? Who knows! Perhaps Truth Social is setting it aside for me — as the competing conservative social media app Gettr did — or perhaps Laura Ingraham is cosplaying me.]]></content:encoded>
-			<itunes:author>Matter</itunes:author>
-			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>Why? Who knows! Perhaps Truth Social is setting it aside for me — as the competing conservative social media app Gettr did — or perhaps Laura Ingraham is cosplaying me.</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:09:06</itunes:duration>
-			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
-			<itunes:season>1</itunes:season>
-			<itunes:episode>13</itunes:episode>
-			<itunes:episodeType>full</itunes:episodeType>
-		</item>
-<item>
-			<title><![CDATA[Match Group and Managed Dissatisfaction]]></title>
-			<description><![CDATA[But it's also driven by Match Group, which has been a serial acquirer of smaller dating sites.]]></description>
-			<link>https://www.thediff.co/p/match-group-and-managed-dissatisfaction</link>
-			<guid isPermaLink="false">4_2152187</guid>
-			<pubDate>Sat, 26 Feb 2022 12:00:00 -0500</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/25/e466be6acaa25f19fc89deb972a5155e.mp3" length="5924637" type="audio/mpeg"/>
-			<content:encoded><![CDATA[But it's also driven by Match Group, which has been a serial acquirer of smaller dating sites.]]></content:encoded>
-			<itunes:author>Matter</itunes:author>
-			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>But it's also driven by Match Group, which has been a serial acquirer of smaller dating sites.</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:16:27</itunes:duration>
-			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
-			<itunes:season>1</itunes:season>
-			<itunes:episode>12</itunes:episode>
-			<itunes:episodeType>full</itunes:episodeType>
-		</item>
-<item>
-			<title><![CDATA[Psychologists use a term called "pluralistic ig...]]></title>
-			<description><![CDATA[Psychologists use a term called "pluralistic ignorance" to describe the phenomenon of "no one believes, but everyone thinks that everyone believes." (h/t @AdamMGrant)
-
-Here's a way to visualize it:]]></description>
-			<link>https://twitter.com/i/web/status/1491115068343214086</link>
-			<guid isPermaLink="false">4_1924610</guid>
-			<pubDate>Sat, 26 Feb 2022 12:00:00 -0500</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/08/074aaa3be08593f66eabd91d1460d236.mp3" length="925245" type="audio/mpeg"/>
-			<content:encoded><![CDATA[Psychologists use a term called "pluralistic ignorance" to describe the phenomenon of "no one believes, but everyone thinks that everyone believes." (h/t @AdamMGrant)
-
-Here's a way to visualize it:]]></content:encoded>
-			<itunes:author>Matter</itunes:author>
-			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>Psychologists use a term called "pluralistic ignorance" to describe the phenomenon of "no one believes, but everyone thinks that everyone believes." (h/t @AdamMGrant)
-
-Here's a way to visualize it:</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:02:34</itunes:duration>
-			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
-			<itunes:season>1</itunes:season>
-			<itunes:episode>10</itunes:episode>
-			<itunes:episodeType>full</itunes:episodeType>
-		</item>
-<item>
-			<title><![CDATA[Matt Gurney: Huh, who'd have guessed. It turns out we needed more Cold War thinking]]></title>
-			<description><![CDATA[In the meantime, as events in Europe unfold, I've been thinking a lot these last few days about a phrase we've heard often in recent years: "Cold War thinking." Or the related "Cold War-style."]]></description>
-			<link>https://getmatter.app/email/3961769/?token=3961769%3ANjcSRKaq3BrlLp1kMk7F6okwoI4</link>
-			<guid isPermaLink="false">4_2149116</guid>
-			<pubDate>Sat, 26 Feb 2022 12:00:00 -0500</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/26/1c6f9aaa33dc404fe09743045c5b547b.mp3" length="5210541" type="audio/mpeg"/>
-			<content:encoded><![CDATA[In the meantime, as events in Europe unfold, I've been thinking a lot these last few days about a phrase we've heard often in recent years: "Cold War thinking." Or the related "Cold War-style."]]></content:encoded>
-			<itunes:author>Matter</itunes:author>
-			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>In the meantime, as events in Europe unfold, I've been thinking a lot these last few days about a phrase we've heard often in recent years: "Cold War thinking." Or the related "Cold War-style."</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:14:28</itunes:duration>
-			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
-			<itunes:season>1</itunes:season>
-			<itunes:episode>9</itunes:episode>
-			<itunes:episodeType>full</itunes:episodeType>
-		</item>
-<item>
-			<title><![CDATA[Joe Rogan: The Platform-Proof Creator]]></title>
-			<description><![CDATA[Note: I am currently at spot 489,395, but when I get to the top I’ll let you know how the app is lol. Joe Rogan is likely also platform-proof.]]></description>
-			<link>https://every.to/napkin-math/spotify-s-no-win-predicament</link>
-			<guid isPermaLink="false">4_2156033</guid>
-			<pubDate>Sat, 26 Feb 2022 12:00:00 -0500</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/25/fca5000e2af96f0803fe8f5d2654a99a.mp3" length="3183741" type="audio/mpeg"/>
-			<content:encoded><![CDATA[Note: I am currently at spot 489,395, but when I get to the top I’ll let you know how the app is lol. Joe Rogan is likely also platform-proof.]]></content:encoded>
-			<itunes:author>Matter</itunes:author>
-			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>Note: I am currently at spot 489,395, but when I get to the top I’ll let you know how the app is lol. Joe Rogan is likely also platform-proof.</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:08:51</itunes:duration>
-			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
-			<itunes:season>1</itunes:season>
-			<itunes:episode>8</itunes:episode>
-			<itunes:episodeType>full</itunes:episodeType>
-		</item>
-<item>
-			<title><![CDATA[Brandon Sanderson’s Advice for Doing Hard Things]]></title>
-			<description><![CDATA[He retorts that the following claim is much more realistic: “I can do hard things.]]></description>
-			<link>https://www.calnewport.com/blog/2022/02/25/brandon-sandersons-advice-for-doing-hard-things/</link>
-			<guid isPermaLink="false">4_2155046</guid>
-			<pubDate>Sat, 26 Feb 2022 12:00:00 -0500</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/25/d510ff77ec376058299df4310443eaea.mp3" length="1518813" type="audio/mpeg"/>
-			<content:encoded><![CDATA[He retorts that the following claim is much more realistic: “I can do hard things.]]></content:encoded>
-			<itunes:author>Matter</itunes:author>
-			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>He retorts that the following claim is much more realistic: “I can do hard things.</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:04:13</itunes:duration>
-			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
-			<itunes:season>1</itunes:season>
-			<itunes:episode>7</itunes:episode>
-			<itunes:episodeType>full</itunes:episodeType>
-		</item>
-<item>
-			<title><![CDATA[Get started with World Anvil: Hints & Tips!]]></title>
-			<description><![CDATA[Otherwise, read below for lots of ways to get started with World Anvil! Worldbuilding is a big task... ...so World Anvil is a big platform! But DON'T PANIC - you don’t need to use all the features to build a rich and amazing world.]]></description>
-			<link>https://getmatter.app/email/3986186/?token=3986186%3AdJhOHGAjIWx8_uOWAiu5K_5KgWk</link>
-			<guid isPermaLink="false">4_2157270</guid>
-			<pubDate>Fri, 25 Feb 2022 12:00:00 -0500</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/25/eac8e12da56d21181359dfb78c67c310.mp3" length="941661" type="audio/mpeg"/>
-			<content:encoded><![CDATA[Otherwise, read below for lots of ways to get started with World Anvil! Worldbuilding is a big task... ...so World Anvil is a big platform! But DON'T PANIC - you don’t need to use all the features to build a rich and amazing world.]]></content:encoded>
-			<itunes:author>Matter</itunes:author>
-			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>Otherwise, read below for lots of ways to get started with World Anvil! Worldbuilding is a big task... ...so World Anvil is a big platform! But DON'T PANIC - you don’t need to use all the features to build a rich and amazing world.</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:02:37</itunes:duration>
-			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
-			<itunes:season>1</itunes:season>
-			<itunes:episode>6</itunes:episode>
-			<itunes:episodeType>full</itunes:episodeType>
-		</item>
-<item>
-			<title><![CDATA[Using Notion as a PKM System, Managing macOS Windows with Magnet, and More]]></title>
-			<description><![CDATA[But when I first heard the term “PKM” I drew a blank. I thought, what is PKM? Over the last few months, my understanding of what PKM is has grown quite a bit.]]></description>
-			<link>https://thesweetsetup.com/using-notion-as-a-pkm-system-managing-macos-windows-with-magnet-and-more/</link>
-			<guid isPermaLink="false">4_2154143</guid>
-			<pubDate>Fri, 25 Feb 2022 12:00:00 -0500</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/25/024066c842f87d73412325869d5c2b3d.mp3" length="845613" type="audio/mpeg"/>
-			<content:encoded><![CDATA[But when I first heard the term “PKM” I drew a blank. I thought, what is PKM? Over the last few months, my understanding of what PKM is has grown quite a bit.]]></content:encoded>
-			<itunes:author>Matter</itunes:author>
-			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>But when I first heard the term “PKM” I drew a blank. I thought, what is PKM? Over the last few months, my understanding of what PKM is has grown quite a bit.</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:02:21</itunes:duration>
-			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
-			<itunes:season>1</itunes:season>
-			<itunes:episode>5</itunes:episode>
-			<itunes:episodeType>full</itunes:episodeType>
-		</item>
-<item>
-			<title><![CDATA[The Wellness Vibe is Shifting]]></title>
-			<description><![CDATA[And yet, to quote New York mag, the vibe is already shifting. Wellness, like any industry, isn’t immune to the cruel fickleness of trends, even on a micro-level.]]></description>
-			<link>https://welltodo.substack.com/p/the-wellness-vibe-is-shifting</link>
-			<guid isPermaLink="false">4_2128903</guid>
-			<pubDate>Sat, 26 Feb 2022 12:00:00 -0500</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/25/a46b9e2bfed52cd027225ebba561af0c.mp3" length="3139101" type="audio/mpeg"/>
-			<content:encoded><![CDATA[And yet, to quote New York mag, the vibe is already shifting. Wellness, like any industry, isn’t immune to the cruel fickleness of trends, even on a micro-level.]]></content:encoded>
-			<itunes:author>Matter</itunes:author>
-			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>And yet, to quote New York mag, the vibe is already shifting. Wellness, like any industry, isn’t immune to the cruel fickleness of trends, even on a micro-level.</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:08:43</itunes:duration>
-			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
-			<itunes:season>1</itunes:season>
-			<itunes:episode>3</itunes:episode>
-			<itunes:episodeType>full</itunes:episodeType>
-		</item>
-<item>
-			<title><![CDATA[Gratitude traps: why we should be critical of gratefulness]]></title>
-			<description><![CDATA[How to avoid gratitude traps Gratitude has many benefits, but you want to avoid falling prey to its potential pitfalls.]]></description>
-			<link>https://nesslabs.com/gratitude-traps</link>
-			<guid isPermaLink="false">4_2140400</guid>
-			<pubDate>Fri, 25 Feb 2022 12:00:00 -0500</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/24/8d4a1132b79c8a669ee683b93648da24.mp3" length="2182653" type="audio/mpeg"/>
-			<content:encoded><![CDATA[How to avoid gratitude traps Gratitude has many benefits, but you want to avoid falling prey to its potential pitfalls.]]></content:encoded>
-			<itunes:author>Matter</itunes:author>
-			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>How to avoid gratitude traps Gratitude has many benefits, but you want to avoid falling prey to its potential pitfalls.</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:06:04</itunes:duration>
-			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
-			<itunes:season>1</itunes:season>
-			<itunes:episode>2</itunes:episode>
-			<itunes:episodeType>full</itunes:episodeType>
-		</item>
-<item>
-			<title><![CDATA[Homeowners should be YIMBYs]]></title>
-			<description><![CDATA[But as a middle-aged homeowner, I want to clarify that there is an upside for middle-aged homeowners too. But beyond rhetoric, we should aim for policy approaches that create certainty and clear upside for people.]]></description>
-			<link>https://www.slowboring.com/p/homeowner-nimby</link>
-			<guid isPermaLink="false">4_2135484</guid>
-			<pubDate>Fri, 25 Feb 2022 12:00:00 -0500</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/24/e5c72379fd8f24a75b9f755e24b4fc55.mp3" length="4840461" type="audio/mpeg"/>
-			<content:encoded><![CDATA[But as a middle-aged homeowner, I want to clarify that there is an upside for middle-aged homeowners too. But beyond rhetoric, we should aim for policy approaches that create certainty and clear upside for people.]]></content:encoded>
-			<itunes:author>Matter</itunes:author>
-			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>But as a middle-aged homeowner, I want to clarify that there is an upside for middle-aged homeowners too. But beyond rhetoric, we should aim for policy approaches that create certainty and clear upside for people.</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:13:27</itunes:duration>
 			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>1</itunes:episode>
